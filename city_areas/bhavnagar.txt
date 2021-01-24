@@ -1,0 +1,291 @@
+Adhewada	364002	Gujarat	Bhavnagar
+Adtala	364765	Gujarat	Bhavnagar
+Agiyali	364260	Gujarat	Bhavnagar
+Akwada	364002	Gujarat	Bhavnagar
+Alampar	364320	Gujarat	Bhavnagar
+Alang Sby	364081	Gujarat	Bhavnagar
+Amargadh	364210	Gujarat	Bhavnagar
+Ambardi	364750	Gujarat	Bhavnagar
+Ambla	364210	Gujarat	Bhavnagar
+Anandpur	364310	Gujarat	Bhavnagar
+Anida	364270	Gujarat	Bhavnagar
+Awaniya	364002	Gujarat	Bhavnagar
+Bagdana	364145	Gujarat	Bhavnagar
+Bajud	364210	Gujarat	Bhavnagar
+Bambhan	364710	Gujarat	Bhavnagar
+Bambhania	364280	Gujarat	Bhavnagar
+Bapada	364150	Gujarat	Bhavnagar
+Bela	364150	Gujarat	Bhavnagar
+Belampur	364290	Gujarat	Bhavnagar
+Bhadbhid	364313	Gujarat	Bhavnagar
+Bhadla Nana	364720	Gujarat	Bhavnagar
+Bhadli	364240	Gujarat	Bhavnagar
+Bhadra	364290	Gujarat	Bhavnagar
+Bhadravadi	364710	Gujarat	Bhavnagar
+Bhadraval	364150	Gujarat	Bhavnagar
+Bhadrod	364295	Gujarat	Bhavnagar
+Bhadvav	364270	Gujarat	Bhavnagar
+Bhandariya	364270	Gujarat	Bhavnagar
+Bhankhal	364120	Gujarat	Bhavnagar
+Bharoli	364120	Gujarat	Bhavnagar
+Bhavnagar	364001	Gujarat	Bhavnagar
+Bhavnagar Anandnagar	364005	Gujarat	Bhavnagar
+Bhavnagar Bpti	364002	Gujarat	Bhavnagar
+Bhavnagar Chavdigate	364001	Gujarat	Bhavnagar
+Bhavnagar Chitra	364004	Gujarat	Bhavnagar
+Bhavnagar Collectorate	364001	Gujarat	Bhavnagar
+Bhavnagar Gogha circle	364001	Gujarat	Bhavnagar
+Bhavnagar K k road	364001	Gujarat	Bhavnagar
+Bhavnagar K nagar	364001	Gujarat	Bhavnagar
+Bhavnagar Khargate	364001	Gujarat	Bhavnagar
+Bhavnagar Kumbharwada	364006	Gujarat	Bhavnagar
+Bhavnagar M k road	364001	Gujarat	Bhavnagar
+Bhavnagar Nirmalnagar	364001	Gujarat	Bhavnagar
+Bhavnagar Para	364003	Gujarat	Bhavnagar
+Bhavnagar Station road	364006	Gujarat	Bhavnagar
+Bhavnagar Takhteshwar	364002	Gujarat	Bhavnagar
+Bhavnagar Vora bazar	364001	Gujarat	Bhavnagar
+Bhavnagar Wadva	364001	Gujarat	Bhavnagar
+Bhikhda	364060	Gujarat	Bhavnagar
+Bhimdad	364710	Gujarat	Bhavnagar
+Bhojavadar	364320	Gujarat	Bhavnagar
+Bhojpara	364060	Gujarat	Bhavnagar
+Bhumbhli	364110	Gujarat	Bhavnagar
+Bhutiya	364230	Gujarat	Bhavnagar
+Billa	364280	Gujarat	Bhavnagar
+Boda	364295	Gujarat	Bhavnagar
+Bodi	364720	Gujarat	Bhavnagar
+Bodki	364750	Gujarat	Bhavnagar
+Borda	364130	Gujarat	Bhavnagar
+Bordi	364280	Gujarat	Bhavnagar
+Botad	364710	Gujarat	Bhavnagar
+Botad Statoin road	364710	Gujarat	Bhavnagar
+Botad Town	364710	Gujarat	Bhavnagar
+Budhana	364240	Gujarat	Bhavnagar
+Budhel	364002	Gujarat	Bhavnagar
+Chabhadia	364320	Gujarat	Bhavnagar
+Chamardi	364310	Gujarat	Bhavnagar
+Chhapariyali	364510	Gujarat	Bhavnagar
+Chhapri Juni	364145	Gujarat	Bhavnagar
+Chogath	364330	Gujarat	Bhavnagar
+Concret Jetty	364005	Gujarat	Bhavnagar
+Dadva	364320	Gujarat	Bhavnagar
+Dakana	364140	Gujarat	Bhavnagar
+Damrala	364265	Gujarat	Bhavnagar
+Dared	364760	Gujarat	Bhavnagar
+Datha	364130	Gujarat	Bhavnagar
+Dayal	364130	Gujarat	Bhavnagar
+Dedrda	364265	Gujarat	Bhavnagar
+Degvada	364295	Gujarat	Bhavnagar
+Depla	364510	Gujarat	Bhavnagar
+Devaliya	364140	Gujarat	Bhavnagar
+Devgana	364260	Gujarat	Bhavnagar
+Devli	364140	Gujarat	Bhavnagar
+Dhakania	364710	Gujarat	Bhavnagar
+Dharai	364145	Gujarat	Bhavnagar
+Dharuka	364330	Gujarat	Bhavnagar
+Dharwala	364740	Gujarat	Bhavnagar
+Dhasa Gam	364730	Gujarat	Bhavnagar
+Dhasa Jn	364740	Gujarat	Bhavnagar
+Dhola	364320	Gujarat	Bhavnagar
+Dhrufania	364750	Gujarat	Bhavnagar
+Dhundsar	364260	Gujarat	Bhavnagar
+Dihor	364150	Gujarat	Bhavnagar
+Dudhala	364265	Gujarat	Bhavnagar
+Dudhala No. 2	364280	Gujarat	Bhavnagar
+Dudheri	364290	Gujarat	Bhavnagar
+Dundas	364290	Gujarat	Bhavnagar
+Fariyadka	364060	Gujarat	Bhavnagar
+Fulsar	364140	Gujarat	Bhavnagar
+Gadhada Sn	364750	Gujarat	Bhavnagar
+Gadhadia	364720	Gujarat	Bhavnagar
+Gadhali	364750	Gujarat	Bhavnagar
+Gadhesar	364130	Gujarat	Bhavnagar
+Galthar	364295	Gujarat	Bhavnagar
+Ganeshgadh	364275	Gujarat	Bhavnagar
+Gariyadhar	364505	Gujarat	Bhavnagar
+Ghanghli	364240	Gujarat	Bhavnagar
+Gheti	364265	Gujarat	Bhavnagar
+Gogha	364110	Gujarat	Bhavnagar
+Goradka	364765	Gujarat	Bhavnagar
+Goras	364280	Gujarat	Bhavnagar
+Gorkhi	364140	Gujarat	Bhavnagar
+Gujarda	364505	Gujarat	Bhavnagar
+Gundala	364260	Gujarat	Bhavnagar
+Gundarna	364295	Gujarat	Bhavnagar
+Gundarni	364290	Gujarat	Bhavnagar
+Haddad	364710	Gujarat	Bhavnagar
+Hadmatiya	364230	Gujarat	Bhavnagar
+Haliyad	364330	Gujarat	Bhavnagar
+Haripar	364750	Gujarat	Bhavnagar
+Hathab	364070	Gujarat	Bhavnagar
+Hathasani	364270	Gujarat	Bhavnagar
+Hoidad	364070	Gujarat	Bhavnagar
+Hubakvad	364150	Gujarat	Bhavnagar
+Ingorala	364320	Gujarat	Bhavnagar
+Ishwariya	364230	Gujarat	Bhavnagar
+Italiya	364750	Gujarat	Bhavnagar
+Jalalpur	364740	Gujarat	Bhavnagar
+Jaliya	364740	Gujarat	Bhavnagar
+Jaliya (amreli)	364270	Gujarat	Bhavnagar
+Jaliya(p)	364275	Gujarat	Bhavnagar
+Jamanvav	364270	Gujarat	Bhavnagar
+Jambala	364260	Gujarat	Bhavnagar
+Jaspara	364120	Gujarat	Bhavnagar
+Jesar	364510	Gujarat	Bhavnagar
+Junarampar	364330	Gujarat	Bhavnagar
+Junvadar	364730	Gujarat	Bhavnagar
+Kalsar	364130	Gujarat	Bhavnagar
+Kalyanpur	364310	Gujarat	Bhavnagar
+Kamlej	364060	Gujarat	Bhavnagar
+Kamlol Nani	364140	Gujarat	Bhavnagar
+Kanad	364240	Gujarat	Bhavnagar
+Kanjarda	364265	Gujarat	Bhavnagar
+Kanpar	364310	Gujarat	Bhavnagar
+Kantasar	364295	Gujarat	Bhavnagar
+Kanthariya	364310	Gujarat	Bhavnagar
+Kardej	364060	Gujarat	Bhavnagar
+Kariyani	364710	Gujarat	Bhavnagar
+Karla	364280	Gujarat	Bhavnagar
+Karmadiya	364145	Gujarat	Bhavnagar
+Katpar	364290	Gujarat	Bhavnagar
+Kerala	364135	Gujarat	Bhavnagar
+Khadarpar	364120	Gujarat	Bhavnagar
+Khadsaliya	364070	Gujarat	Bhavnagar
+Khandhera	364140	Gujarat	Bhavnagar
+Kharakadi	364260	Gujarat	Bhavnagar
+Kharedi	364290	Gujarat	Bhavnagar
+Khari	364240	Gujarat	Bhavnagar
+Khijadiya	364730	Gujarat	Bhavnagar
+Khopala	364320	Gujarat	Bhavnagar
+Kinkariya	364280	Gujarat	Bhavnagar
+Koliyak	364070	Gujarat	Bhavnagar
+Konjli	364290	Gujarat	Bhavnagar
+Kukad	364120	Gujarat	Bhavnagar
+Kumbhan	364250	Gujarat	Bhavnagar
+Kumbhara	364720	Gujarat	Bhavnagar
+Kumbhariya	364145	Gujarat	Bhavnagar
+Kundhada	364145	Gujarat	Bhavnagar
+Kundheli	364140	Gujarat	Bhavnagar
+Lakadiya	364150	Gujarat	Bhavnagar
+Lakhanka	364765	Gujarat	Bhavnagar
+Lakheni	364760	Gujarat	Bhavnagar
+Langala	364320	Gujarat	Bhavnagar
+Lathidad	364710	Gujarat	Bhavnagar
+Limbdiya	364730	Gujarat	Bhavnagar
+Limda (h)	364740	Gujarat	Bhavnagar
+Loinga	364295	Gujarat	Bhavnagar
+Lokshala	364150	Gujarat	Bhavnagar
+Loliyana	364330	Gujarat	Bhavnagar
+Longdi	364295	Gujarat	Bhavnagar
+Lundhara	364310	Gujarat	Bhavnagar
+Lusdi	364290	Gujarat	Bhavnagar
+Luvara	364505	Gujarat	Bhavnagar
+Luvarvav	364270	Gujarat	Bhavnagar
+Madhada	364240	Gujarat	Bhavnagar
+Madhiya	364290	Gujarat	Bhavnagar
+Mahuva	364290	Gujarat	Bhavnagar
+Mahuva Bazar	364290	Gujarat	Bhavnagar
+Makhania	364140	Gujarat	Bhavnagar
+Malanka	364002	Gujarat	Bhavnagar
+Malpara	364730	Gujarat	Bhavnagar
+Malvav	364130	Gujarat	Bhavnagar
+Manar	364150	Gujarat	Bhavnagar
+Mandva	364740	Gujarat	Bhavnagar
+Mandvadhar	364750	Gujarat	Bhavnagar
+Mandvi	364275	Gujarat	Bhavnagar
+Mangadh	364275	Gujarat	Bhavnagar
+Melana	364760	Gujarat	Bhavnagar
+Mendha	364140	Gujarat	Bhavnagar
+Mevasa	364313	Gujarat	Bhavnagar
+Mokhada	364270	Gujarat	Bhavnagar
+Monpar	364313	Gujarat	Bhavnagar
+Morba	364505	Gujarat	Bhavnagar
+Morchand	364050	Gujarat	Bhavnagar
+Morchupna	364270	Gujarat	Bhavnagar
+Mota Asrana	364280	Gujarat	Bhavnagar
+Mota Charodiya	364505	Gujarat	Bhavnagar
+Mota Khokhra	364050	Gujarat	Bhavnagar
+Mota Surka	364240	Gujarat	Bhavnagar
+Mota Umarda	364740	Gujarat	Bhavnagar
+Mota Zadra	364290	Gujarat	Bhavnagar
+Motakhuntavada	364280	Gujarat	Bhavnagar
+Moti Dharai	364313	Gujarat	Bhavnagar
+Moti Jagdhar	364295	Gujarat	Bhavnagar
+Moti Kundal	364730	Gujarat	Bhavnagar
+Moti Rajasthali	364270	Gujarat	Bhavnagar
+Moti Vavdi	364275	Gujarat	Bhavnagar
+Muldharai	364310	Gujarat	Bhavnagar
+Nagalpar	364710	Gujarat	Bhavnagar
+Nagdhaniba	364050	Gujarat	Bhavnagar
+Naip	364290	Gujarat	Bhavnagar
+Nana Asrana	364280	Gujarat	Bhavnagar
+Nana Jadra	364290	Gujarat	Bhavnagar
+Nana Khuntavada	364295	Gujarat	Bhavnagar
+Nana Surka	364250	Gujarat	Bhavnagar
+Nani Rajashtali	364270	Gujarat	Bhavnagar
+Nani Vavdi	364505	Gujarat	Bhavnagar
+Nanimal	364265	Gujarat	Bhavnagar
+Nari	364004	Gujarat	Bhavnagar
+Nava Ratanpar	364070	Gujarat	Bhavnagar
+Nava Sangana	364140	Gujarat	Bhavnagar
+Nava Sarod	364270	Gujarat	Bhavnagar
+Navagam	364250	Gujarat	Bhavnagar
+Navania	364310	Gujarat	Bhavnagar
+Nesda	364240	Gujarat	Bhavnagar
+Nesvad	364290	Gujarat	Bhavnagar
+Nincha Kotda	364130	Gujarat	Bhavnagar
+Ningala	364760	Gujarat	Bhavnagar
+Otha	364295	Gujarat	Bhavnagar
+Pachhegam	364310	Gujarat	Bhavnagar
+Padri (g)	364150	Gujarat	Bhavnagar
+Padva	364050	Gujarat	Bhavnagar
+Padvadar	364730	Gujarat	Bhavnagar
+Paldi	364250	Gujarat	Bhavnagar
+Palitana	364270	Gujarat	Bhavnagar
+Palitana Dc	364270	Gujarat	Bhavnagar
+Palitana Sr	364270	Gujarat	Bhavnagar
+Paliyad	364720	Gujarat	Bhavnagar
+Panchpipla	364265	Gujarat	Bhavnagar
+Panchtobra	364505	Gujarat	Bhavnagar
+Panchvada	364250	Gujarat	Bhavnagar
+Panvi	364310	Gujarat	Bhavnagar
+Parvadi	364275	Gujarat	Bhavnagar
+Parvala	364320	Gujarat	Bhavnagar
+Pasvi	364140	Gujarat	Bhavnagar
+Pati	364760	Gujarat	Bhavnagar
+Patna (malji)	364730	Gujarat	Bhavnagar
+Patna Bhal	364310	Gujarat	Bhavnagar
+Pavthi	364140	Gujarat	Bhavnagar
+Pingli	364260	Gujarat	Bhavnagar
+Pipaliya	364240	Gujarat	Bhavnagar
+Pipardi	364320	Gujarat	Bhavnagar
+Pithalpur	364135	Gujarat	Bhavnagar
+Pratappara	364135	Gujarat	Bhavnagar
+Rajgadh	364313	Gujarat	Bhavnagar
+Rajpara	364310	Gujarat	Bhavnagar
+Rajpara No. 2	364120	Gujarat	Bhavnagar
+Rajpipla	364750	Gujarat	Bhavnagar
+Rajvadar	364290	Gujarat	Bhavnagar
+Ralgon	364145	Gujarat	Bhavnagar
+Ramanka	364320	Gujarat	Bhavnagar
+Ramdharia	364210	Gujarat	Bhavnagar
+Randola	364240	Gujarat	Bhavnagar
+Ranghola	364230	Gujarat	Bhavnagar
+Rangpur	364710	Gujarat	Bhavnagar
+Ranigam	364510	Gujarat	Bhavnagar
+Raniwada	364130	Gujarat	Bhavnagar
+Ranparda	364265	Gujarat	Bhavnagar
+Rasnal	364730	Gujarat	Bhavnagar
+Ratanpar	364270	Gujarat	Bhavnagar
+Ratanpur Bhal	364313	Gujarat	Bhavnagar
+Ratanvav	364310	Gujarat	Bhavnagar
+Ratol	364290	Gujarat	Bhavnagar
+Reliya	364135	Gujarat	Bhavnagar
+Reliyana	364750	Gujarat	Bhavnagar
+Reva	364230	Gujarat	Bhavnagar
+Rohishala	364270	Gujarat	Bhavnagar
+Rojiya	364130	Gujarat	Bhavnagar
+Royal	364150	Gujarat	Bhavnagar
+Rupavati	364505	Gujarat	Bhavnagar
+Sakhdasar No. 1	364140	Gujarat	Bhavnagar

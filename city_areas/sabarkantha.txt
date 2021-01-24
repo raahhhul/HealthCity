@@ -1,0 +1,556 @@
+Abhapur	383460	Gujarat	Sabarkantha
+Ada Hathrol	383240	Gujarat	Sabarkantha
+Adhera	383250	Gujarat	Sabarkantha
+Adpodra	383276	Gujarat	Sabarkantha
+Agiol	383001	Gujarat	Sabarkantha
+Agiya	383270	Gujarat	Sabarkantha
+Ajavas	383422	Gujarat	Sabarkantha
+Akrund	383260	Gujarat	Sabarkantha
+Alwa	383325	Gujarat	Sabarkantha
+Ambabar	383246	Gujarat	Sabarkantha
+Ambagam	383325	Gujarat	Sabarkantha
+Ambaigadha	383270	Gujarat	Sabarkantha
+Ambalia	383345	Gujarat	Sabarkantha
+Ambaliara	383325	Gujarat	Sabarkantha
+Ambamahuda	383422	Gujarat	Sabarkantha
+Ambasar	383307	Gujarat	Sabarkantha
+Ambawada	383210	Gujarat	Sabarkantha
+Amiapura	383325	Gujarat	Sabarkantha
+Amlai	383315	Gujarat	Sabarkantha
+Amodara	383310	Gujarat	Sabarkantha
+Amrapur	383215	Gujarat	Sabarkantha
+Androkha	383460	Gujarat	Sabarkantha
+Aniod	383305	Gujarat	Sabarkantha
+Aniyor	383345	Gujarat	Sabarkantha
+Aniyor Kampa	383345	Gujarat	Sabarkantha
+Ankala	383410	Gujarat	Sabarkantha
+Ansol	383251	Gujarat	Sabarkantha
+Antroli	383305	Gujarat	Sabarkantha
+Aroda	383110	Gujarat	Sabarkantha
+Arsodia	383225	Gujarat	Sabarkantha
+Asai	383235	Gujarat	Sabarkantha
+Atarsumba	383460	Gujarat	Sabarkantha
+Babsar	383235	Gujarat	Sabarkantha
+Badarpura	383335	Gujarat	Sabarkantha
+Badodara	383305	Gujarat	Sabarkantha
+Badol	383434	Gujarat	Sabarkantha
+Badoli	383410	Gujarat	Sabarkantha
+Bahediya	383255	Gujarat	Sabarkantha
+Baleta	383462	Gujarat	Sabarkantha
+Balisana	383205	Gujarat	Sabarkantha
+Bamanvad	383250	Gujarat	Sabarkantha
+Bamna	383240	Gujarat	Sabarkantha
+Bandiyana Talav	383270	Gujarat	Sabarkantha
+Bankhor	383240	Gujarat	Sabarkantha
+Banthiwada	383350	Gujarat	Sabarkantha
+Barnoli	383335	Gujarat	Sabarkantha
+Barvav	383430	Gujarat	Sabarkantha
+Bavsar	383001	Gujarat	Sabarkantha
+Bayad	383325	Gujarat	Sabarkantha
+Bayad Town	383325	Gujarat	Sabarkantha
+Bayal Dhankhrol	383316	Gujarat	Sabarkantha
+Behdaj	383350	Gujarat	Sabarkantha
+Belyo	383350	Gujarat	Sabarkantha
+Berna	383001	Gujarat	Sabarkantha
+Bhachediya	383316	Gujarat	Sabarkantha
+Bhadresar	383110	Gujarat	Sabarkantha
+Bhandval	383235	Gujarat	Sabarkantha
+Bhankhara	383460	Gujarat	Sabarkantha
+Bhanmer	383246	Gujarat	Sabarkantha
+Bhanpur	383410	Gujarat	Sabarkantha
+Bhatera	383245	Gujarat	Sabarkantha
+Bhavangadh	383430	Gujarat	Sabarkantha
+Bhavanpura Kampa	383316	Gujarat	Sabarkantha
+Bhemapur	383350	Gujarat	Sabarkantha
+Bhempoda	383335	Gujarat	Sabarkantha
+Bhensawada	383310	Gujarat	Sabarkantha
+Bherunda	383315	Gujarat	Sabarkantha
+Bhetali	383245	Gujarat	Sabarkantha
+Bhiloda	383245	Gujarat	Sabarkantha
+Bhiloda Bazar	383245	Gujarat	Sabarkantha
+Bhukhel	383325	Gujarat	Sabarkantha
+Bhundasan	383325	Gujarat	Sabarkantha
+Bhutavad	383245	Gujarat	Sabarkantha
+Bhutiya	383440	Gujarat	Sabarkantha
+Bibinivav	383325	Gujarat	Sabarkantha
+Biladia	383462	Gujarat	Sabarkantha
+Bilwania	383310	Gujarat	Sabarkantha
+Bobha	383205	Gujarat	Sabarkantha
+Bolundra	383250	Gujarat	Sabarkantha
+Bolundra (s)	383230	Gujarat	Sabarkantha
+Bolundra(r)	383421	Gujarat	Sabarkantha
+Boral	383330	Gujarat	Sabarkantha
+Bordi	383255	Gujarat	Sabarkantha
+Borditimba	383260	Gujarat	Sabarkantha
+Boria	383006	Gujarat	Sabarkantha
+Boria Bechraji	383215	Gujarat	Sabarkantha
+Budheli	383230	Gujarat	Sabarkantha
+Budhrasan	383246	Gujarat	Sabarkantha
+Butal	383310	Gujarat	Sabarkantha
+Chadasana	383110	Gujarat	Sabarkantha
+Chamthan	383246	Gujarat	Sabarkantha
+Chandap	383434	Gujarat	Sabarkantha
+Chandarni	383001	Gujarat	Sabarkantha
+Chandrana	383422	Gujarat	Sabarkantha
+Chandrej	383260	Gujarat	Sabarkantha
+Chandvasa	383460	Gujarat	Sabarkantha
+Chhabhou	383330	Gujarat	Sabarkantha
+Chhapi	383230	Gujarat	Sabarkantha
+Chiboda	383245	Gujarat	Sabarkantha
+Chikhala	383270	Gujarat	Sabarkantha
+Chitariya	383462	Gujarat	Sabarkantha
+Chithoda	383462	Gujarat	Sabarkantha
+Chitroda	383421	Gujarat	Sabarkantha
+Chitrodi	383246	Gujarat	Sabarkantha
+Choila	383327	Gujarat	Sabarkantha
+Chorimala	383246	Gujarat	Sabarkantha
+Choriwad	383440	Gujarat	Sabarkantha
+Chulla	383440	Gujarat	Sabarkantha
+Chunakhan	383245	Gujarat	Sabarkantha
+Dabha	383325	Gujarat	Sabarkantha
+Dadarda	383305	Gujarat	Sabarkantha
+Dadhalia	383317	Gujarat	Sabarkantha
+Dadhvav	383462	Gujarat	Sabarkantha
+Dahegamda	383251	Gujarat	Sabarkantha
+Dakhneshwar	383325	Gujarat	Sabarkantha
+Dalani Muvadi	383205	Gujarat	Sabarkantha
+Dalpur	383120	Gujarat	Sabarkantha
+Damavas	383275	Gujarat	Sabarkantha
+Dan Mahudi	383270	Gujarat	Sabarkantha
+Dantod	383462	Gujarat	Sabarkantha
+Dantral	383422	Gujarat	Sabarkantha
+Dantroli	383235	Gujarat	Sabarkantha
+Daramali	383110	Gujarat	Sabarkantha
+Davad	383225	Gujarat	Sabarkantha
+Davli	383320	Gujarat	Sabarkantha
+Dedhrota	383220	Gujarat	Sabarkantha
+Delwada	383255	Gujarat	Sabarkantha
+Demai	383330	Gujarat	Sabarkantha
+Demti	383270	Gujarat	Sabarkantha
+Derol	383220	Gujarat	Sabarkantha
+Deroli	383330	Gujarat	Sabarkantha
+Desaipura	383330	Gujarat	Sabarkantha
+Deshotar	383230	Gujarat	Sabarkantha
+Devnimori	383355	Gujarat	Sabarkantha
+Dhamadi (gadu)	383235	Gujarat	Sabarkantha
+Dhamania	383310	Gujarat	Sabarkantha
+Dhambolia	383355	Gujarat	Sabarkantha
+Dhandhasan	383355	Gujarat	Sabarkantha
+Dhansor	383246	Gujarat	Sabarkantha
+Dhansura	383310	Gujarat	Sabarkantha
+Dharapur	383421	Gujarat	Sabarkantha
+Dharoi	383255	Gujarat	Sabarkantha
+Dholvani	383245	Gujarat	Sabarkantha
+Dhundhar	383030	Gujarat	Sabarkantha
+Didhiya	383255	Gujarat	Sabarkantha
+Diyoli	383410	Gujarat	Sabarkantha
+Dobhada	383235	Gujarat	Sabarkantha
+Dodisara	383355	Gujarat	Sabarkantha
+Dolpur	383310	Gujarat	Sabarkantha
+Doltabad	383215	Gujarat	Sabarkantha
+Dotad	383270	Gujarat	Sabarkantha
+Dugarvada	383315	Gujarat	Sabarkantha
+Dungri	383110	Gujarat	Sabarkantha
+Eklara	383225	Gujarat	Sabarkantha
+Falasan	383230	Gujarat	Sabarkantha
+Faredi	383345	Gujarat	Sabarkantha
+Fatepur Mota	383210	Gujarat	Sabarkantha
+Finchod	383230	Gujarat	Sabarkantha
+Gabat	383335	Gujarat	Sabarkantha
+Gadha	383316	Gujarat	Sabarkantha
+Gadhada	383320	Gujarat	Sabarkantha
+Gadhada Shamlaji	383270	Gujarat	Sabarkantha
+Gadhoda	383001	Gujarat	Sabarkantha
+Gadi	383462	Gujarat	Sabarkantha
+Gadu	383235	Gujarat	Sabarkantha
+Gajan	383315	Gujarat	Sabarkantha
+Gajipur	383434	Gujarat	Sabarkantha
+Gali Semro	383251	Gujarat	Sabarkantha
+Galodiya	383275	Gujarat	Sabarkantha
+Gambhirpura	383430	Gujarat	Sabarkantha
+Gambhoi	383030	Gujarat	Sabarkantha
+Ganer	383422	Gujarat	Sabarkantha
+Ganeshpur	383315	Gujarat	Sabarkantha
+Ganeshpura	383325	Gujarat	Sabarkantha
+Ganthiol	383410	Gujarat	Sabarkantha
+Ganva	383422	Gujarat	Sabarkantha
+Ghadi	383215	Gujarat	Sabarkantha
+Ghadkan	383205	Gujarat	Sabarkantha
+Golwada	383434	Gujarat	Sabarkantha
+Gora Anjana	383215	Gujarat	Sabarkantha
+Goral	383410	Gujarat	Sabarkantha
+Gota	383255	Gujarat	Sabarkantha
+Gotapur	383335	Gujarat	Sabarkantha
+Gulabpura	383434	Gujarat	Sabarkantha
+Gundel	383270	Gujarat	Sabarkantha
+Hadiol	383001	Gujarat	Sabarkantha
+Hajipur	383120	Gujarat	Sabarkantha
+Hajipura	383001	Gujarat	Sabarkantha
+Hapa	383001	Gujarat	Sabarkantha
+Harsol	383305	Gujarat	Sabarkantha
+Hatharva	383235	Gujarat	Sabarkantha
+Hathipura	383340	Gujarat	Sabarkantha
+Hathoj	383235	Gujarat	Sabarkantha
+Hathrol	383030	Gujarat	Sabarkantha
+Helodar	383345	Gujarat	Sabarkantha
+Himatnagar	383001	Gujarat	Sabarkantha
+Himatnagar Station road	383001	Gujarat	Sabarkantha
+Himatpur	383010	Gujarat	Sabarkantha
+Himmatpur	383240	Gujarat	Sabarkantha
+Hirapur	383310	Gujarat	Sabarkantha
+Hunj	383240	Gujarat	Sabarkantha
+Idar	383430	Gujarat	Sabarkantha
+Idar Town	383430	Gujarat	Sabarkantha
+Ilol	383220	Gujarat	Sabarkantha
+Indran	383340	Gujarat	Sabarkantha
+Intva	383251	Gujarat	Sabarkantha
+Iploda	383350	Gujarat	Sabarkantha
+Isari	383251	Gujarat	Sabarkantha
+Itadi	383316	Gujarat	Sabarkantha
+Itavadi	383246	Gujarat	Sabarkantha
+Jab Chitaria	383355	Gujarat	Sabarkantha
+Jadar	383110	Gujarat	Sabarkantha
+Jalampur	383340	Gujarat	Sabarkantha
+Jaleti	383462	Gujarat	Sabarkantha
+Jambudi	383001	Gujarat	Sabarkantha
+Jamla	383010	Gujarat	Sabarkantha
+Jasvantpura Kampa	383310	Gujarat	Sabarkantha
+Jayla	383246	Gujarat	Sabarkantha
+Jenpur	383205	Gujarat	Sabarkantha
+Jeshingpur	383245	Gujarat	Sabarkantha
+Jhalodar	383315	Gujarat	Sabarkantha
+Jinjudi	383246	Gujarat	Sabarkantha
+Jitpur	383325	Gujarat	Sabarkantha
+Jorajini Muvadi	383215	Gujarat	Sabarkantha
+Jumsar	383450	Gujarat	Sabarkantha
+Juna Chamu	383440	Gujarat	Sabarkantha
+Kabodara	383305	Gujarat	Sabarkantha
+Kabso	383225	Gujarat	Sabarkantha
+Kadiadra	383440	Gujarat	Sabarkantha
+Kadoli	383220	Gujarat	Sabarkantha
+Kadvadi	383350	Gujarat	Sabarkantha
+Kagda Mahuda	383251	Gujarat	Sabarkantha
+Kalikankar	383422	Gujarat	Sabarkantha
+Kaliya Kuva	383350	Gujarat	Sabarkantha
+Kalol Kampa	383275	Gujarat	Sabarkantha
+Kalvan	383440	Gujarat	Sabarkantha
+Kamalpur	383205	Gujarat	Sabarkantha
+Kanadar	383246	Gujarat	Sabarkantha
+Kanai	383220	Gujarat	Sabarkantha
+Kanda	383220	Gujarat	Sabarkantha
+Kaniol	383010	Gujarat	Sabarkantha
+Kankrol	383001	Gujarat	Sabarkantha
+Kanpur	383450	Gujarat	Sabarkantha
+Kapoda	383010	Gujarat	Sabarkantha
+Karanpur	383030	Gujarat	Sabarkantha
+Karchha	383355	Gujarat	Sabarkantha
+Karol	383205	Gujarat	Sabarkantha
+Kasana	383350	Gujarat	Sabarkantha
+Kaswada	383345	Gujarat	Sabarkantha
+Kathvavdi	383440	Gujarat	Sabarkantha
+Katwad	383001	Gujarat	Sabarkantha
+Kau	383315	Gujarat	Sabarkantha
+Kava	383434	Gujarat	Sabarkantha
+Kelava	383460	Gujarat	Sabarkantha
+Kesharganj	383235	Gujarat	Sabarkantha
+Kesharpura	383230	Gujarat	Sabarkantha
+Khadoda	383310	Gujarat	Sabarkantha
+Khadol	383310	Gujarat	Sabarkantha
+Khalikpur	383335	Gujarat	Sabarkantha
+Khalvad	383245	Gujarat	Sabarkantha
+Khambhisar	383276	Gujarat	Sabarkantha
+Khed	383001	Gujarat	Sabarkantha
+Khedavada	383220	Gujarat	Sabarkantha
+Khedbrahma	383255	Gujarat	Sabarkantha
+Khedva	383255	Gujarat	Sabarkantha
+Kheradi	383250	Gujarat	Sabarkantha
+Kherancha	383355	Gujarat	Sabarkantha
+Khergadh	383275	Gujarat	Sabarkantha
+Kheroj	383270	Gujarat	Sabarkantha
+Kherol	383215	Gujarat	Sabarkantha
+Khiloda	383250	Gujarat	Sabarkantha
+Khilodia	383307	Gujarat	Sabarkantha
+Kidi	383310	Gujarat	Sabarkantha
+Kishangadh	383450	Gujarat	Sabarkantha
+Kodiawada	383462	Gujarat	Sabarkantha
+Kolikhad	383315	Gujarat	Sabarkantha
+Kolundra	383350	Gujarat	Sabarkantha
+Kolvada	383310	Gujarat	Sabarkantha
+Kotda	383422	Gujarat	Sabarkantha
+Kotda Nana	383110	Gujarat	Sabarkantha
+Kuba Dharol	383235	Gujarat	Sabarkantha
+Kudol	383250	Gujarat	Sabarkantha
+Kukadia	383410	Gujarat	Sabarkantha
+Kundol Pal	383246	Gujarat	Sabarkantha
+Kunol	383350	Gujarat	Sabarkantha
+Kushki	383250	Gujarat	Sabarkantha
+Lalinomath	383307	Gujarat	Sabarkantha
+Laloda	383430	Gujarat	Sabarkantha
+Lalpur	383350	Gujarat	Sabarkantha
+Lambadiya	383270	Gujarat	Sabarkantha
+Lank	383330	Gujarat	Sabarkantha
+Lavari	383305	Gujarat	Sabarkantha
+Laxmipura	383275	Gujarat	Sabarkantha
+Lei	383430	Gujarat	Sabarkantha
+Likhi	383010	Gujarat	Sabarkantha
+Lilchha	383245	Gujarat	Sabarkantha
+Limb	383325	Gujarat	Sabarkantha
+Limbhoi	383316	Gujarat	Sabarkantha
+Limbodara	383350	Gujarat	Sabarkantha
+Limda	383462	Gujarat	Sabarkantha
+Lolasan	383010	Gujarat	Sabarkantha
+Lusadia	383251	Gujarat	Sabarkantha
+Madapur Kampa	383315	Gujarat	Sabarkantha
+Madhavgadh	383305	Gujarat	Sabarkantha
+Magodi	383335	Gujarat	Sabarkantha
+Mahadevgram	383317	Gujarat	Sabarkantha
+Mahadevpura	383210	Gujarat	Sabarkantha
+Mahadevpura Kampa	383315	Gujarat	Sabarkantha
+Mahiyal	383215	Gujarat	Sabarkantha
+Mahiyapur	383345	Gujarat	Sabarkantha
+Mahor	383235	Gujarat	Sabarkantha
+Majra	383205	Gujarat	Sabarkantha
+Malasa	383450	Gujarat	Sabarkantha
+Malpur	383345	Gujarat	Sabarkantha
+Mangadh	383110	Gujarat	Sabarkantha
+Mangalpur	383345	Gujarat	Sabarkantha
+Maniyor	383230	Gujarat	Sabarkantha
+Mankdi	383240	Gujarat	Sabarkantha
+Manorpur	383030	Gujarat	Sabarkantha
+Masal	383230	Gujarat	Sabarkantha
+Masota	383246	Gujarat	Sabarkantha
+Mathasulia	383276	Gujarat	Sabarkantha
+Mathasur	383430	Gujarat	Sabarkantha
+Matoda	383270	Gujarat	Sabarkantha
+Mau Bhavnath	383245	Gujarat	Sabarkantha
+Mauchha	383210	Gujarat	Sabarkantha
+Medh	383235	Gujarat	Sabarkantha
+Medhasan	383276	Gujarat	Sabarkantha
+Meditimba	383240	Gujarat	Sabarkantha
+Meghraj	383350	Gujarat	Sabarkantha
+Mehru	383245	Gujarat	Sabarkantha
+Mehtapura	383001	Gujarat	Sabarkantha
+Mesan	383450	Gujarat	Sabarkantha
+Mevda	383315	Gujarat	Sabarkantha
+Modas	383315	Gujarat	Sabarkantha
+Modasa Bazar	383315	Gujarat	Sabarkantha
+Modhuka	383305	Gujarat	Sabarkantha
+Mohanpur	383305	Gujarat	Sabarkantha
+Mota Baval	383270	Gujarat	Sabarkantha
+Mota Chekhla	383305	Gujarat	Sabarkantha
+Mota Kantharia	383251	Gujarat	Sabarkantha
+Mota Kotda	383421	Gujarat	Sabarkantha
+Motesari	383305	Gujarat	Sabarkantha
+Moti Bebar	383250	Gujarat	Sabarkantha
+Moti Chinchano	383316	Gujarat	Sabarkantha
+Moti Isrol	383317	Gujarat	Sabarkantha
+Moti Mori	383350	Gujarat	Sabarkantha
+Moti Moydi	383350	Gujarat	Sabarkantha
+Moti Panduri	383350	Gujarat	Sabarkantha
+Moyad	383120	Gujarat	Sabarkantha
+Mudeti	383450	Gujarat	Sabarkantha
+Mudhasana	383215	Gujarat	Sabarkantha
+Muloj	383315	Gujarat	Sabarkantha
+Munai	383450	Gujarat	Sabarkantha
+Nada	383270	Gujarat	Sabarkantha
+Nadri	383235	Gujarat	Sabarkantha
+Nalseri	383460	Gujarat	Sabarkantha
+Nana Chekhla	383305	Gujarat	Sabarkantha
+Nana Sembalia	383270	Gujarat	Sabarkantha
+Nananpur	383210	Gujarat	Sabarkantha
+Nanawada	383345	Gujarat	Sabarkantha
+Nandisan	383250	Gujarat	Sabarkantha
+Nandoj	383245	Gujarat	Sabarkantha
+Nankhi	383450	Gujarat	Sabarkantha
+Napda	383355	Gujarat	Sabarkantha
+Naranpura Kampa	383310	Gujarat	Sabarkantha
+Narsoli	383245	Gujarat	Sabarkantha
+Nathavas	383315	Gujarat	Sabarkantha
+Nava	383305	Gujarat	Sabarkantha
+Nava Bhavnath	383245	Gujarat	Sabarkantha
+Nava Mota	383270	Gujarat	Sabarkantha
+Nava Revas	383450	Gujarat	Sabarkantha
+Navagam (dhanela)	383460	Gujarat	Sabarkantha
+Navagam(isri)	383251	Gujarat	Sabarkantha
+Navalpur	383001	Gujarat	Sabarkantha
+Navanagar	383220	Gujarat	Sabarkantha
+Navi Metral	383270	Gujarat	Sabarkantha
+Navi Shinol	383310	Gujarat	Sabarkantha
+Netramali	383430	Gujarat	Sabarkantha
+Nichi Dhanal	383255	Gujarat	Sabarkantha
+Nikoda	383210	Gujarat	Sabarkantha
+Oda	383230	Gujarat	Sabarkantha
+Ode	383355	Gujarat	Sabarkantha
+Odha	383340	Gujarat	Sabarkantha
+Oran	383205	Gujarat	Sabarkantha
+Padardi	383255	Gujarat	Sabarkantha
+Padela	383460	Gujarat	Sabarkantha
+Padhara	383255	Gujarat	Sabarkantha
+Padusan	383305	Gujarat	Sabarkantha
+Pahadpur	383315	Gujarat	Sabarkantha
+Pal	383462	Gujarat	Sabarkantha
+Palla	383355	Gujarat	Sabarkantha
+Pallachar	383205	Gujarat	Sabarkantha
+Panch Mahuda	383270	Gujarat	Sabarkantha
+Panch Mahudi	383355	Gujarat	Sabarkantha
+Panchal	383350	Gujarat	Sabarkantha
+Panibar	383251	Gujarat	Sabarkantha
+Panol	383430	Gujarat	Sabarkantha
+Parosada	383460	Gujarat	Sabarkantha
+Paroya	383255	Gujarat	Sabarkantha
+Patadiya	383270	Gujarat	Sabarkantha
+Patelna Dhundha	383350	Gujarat	Sabarkantha
+Pedhmala	383030	Gujarat	Sabarkantha
+Petachhapra	383422	Gujarat	Sabarkantha
+Pethapur	383225	Gujarat	Sabarkantha
+Piludra	383120	Gujarat	Sabarkantha
+Pipliya	383422	Gujarat	Sabarkantha
+Pipodara	383325	Gujarat	Sabarkantha
+Piprana	383345	Gujarat	Sabarkantha
+Poglu	383205	Gujarat	Sabarkantha
+Poshina	383422	Gujarat	Sabarkantha
+Poyda	383215	Gujarat	Sabarkantha
+Prantij	383205	Gujarat	Sabarkantha
+Pratapgadh Kampa	383440	Gujarat	Sabarkantha
+Pratappura	383430	Gujarat	Sabarkantha
+Prempur	383225	Gujarat	Sabarkantha
+Punasan	383240	Gujarat	Sabarkantha
+Punsari	383307	Gujarat	Sabarkantha
+Pural	383001	Gujarat	Sabarkantha
+Radhiwad	383270	Gujarat	Sabarkantha
+Radodara	383325	Gujarat	Sabarkantha
+Raheda	383235	Gujarat	Sabarkantha
+Raigadh	383276	Gujarat	Sabarkantha
+Raipur	383245	Gujarat	Sabarkantha
+Raisingpur	383246	Gujarat	Sabarkantha
+Rajendranagar	383276	Gujarat	Sabarkantha
+Rajpur	383460	Gujarat	Sabarkantha
+Rakhiyal	383276	Gujarat	Sabarkantha
+Ramana	383315	Gujarat	Sabarkantha
+Ramgadhi	383350	Gujarat	Sabarkantha
+Ramos	383316	Gujarat	Sabarkantha
+Rampur (a)	383210	Gujarat	Sabarkantha
+Rampur (fudeda)	383434	Gujarat	Sabarkantha
+Rampura Kampa	383260	Gujarat	Sabarkantha
+Rampuri	383246	Gujarat	Sabarkantha
+Ranasan	383305	Gujarat	Sabarkantha
+Ranechi	383325	Gujarat	Sabarkantha
+Ranipura	383307	Gujarat	Sabarkantha
+Ratanpur	383270	Gujarat	Sabarkantha
+Ravol	383434	Gujarat	Sabarkantha
+Rayawada	383350	Gujarat	Sabarkantha
+Rellawada	383251	Gujarat	Sabarkantha
+Relyo	383350	Gujarat	Sabarkantha
+Rudardi	383110	Gujarat	Sabarkantha
+Rupal	383030	Gujarat	Sabarkantha
+Sabalwad	383430	Gujarat	Sabarkantha
+Sabli	383421	Gujarat	Sabarkantha
+Sachodar	383110	Gujarat	Sabarkantha
+Sadha	383030	Gujarat	Sabarkantha
+Sagpur	383307	Gujarat	Sabarkantha
+Sahebapura	383001	Gujarat	Sabarkantha
+Sakariya	383315	Gujarat	Sabarkantha
+Salal	383120	Gujarat	Sabarkantha
+Salatpur	383215	Gujarat	Sabarkantha
+Salera	383422	Gujarat	Sabarkantha
+Sampad	383120	Gujarat	Sabarkantha
+Sapawada	383430	Gujarat	Sabarkantha
+Sardoi	383320	Gujarat	Sabarkantha
+Saroli	383460	Gujarat	Sabarkantha
+Sarsav	383460	Gujarat	Sabarkantha
+Sarsoli	383335	Gujarat	Sabarkantha
+Sarvoday Kendra	383355	Gujarat	Sabarkantha
+Satarda	383345	Gujarat	Sabarkantha
+Sathamba	383340	Gujarat	Sabarkantha
+Savela	383340	Gujarat	Sabarkantha
+Savgadh	383220	Gujarat	Sabarkantha
+Sayra	383315	Gujarat	Sabarkantha
+Semalia	383215	Gujarat	Sabarkantha
+Sembalia (poshina)	383422	Gujarat	Sabarkantha
+Shamlaji	383355	Gujarat	Sabarkantha
+Shampur	383320	Gujarat	Sabarkantha
+Shangal	383350	Gujarat	Sabarkantha
+Shantipura	383310	Gujarat	Sabarkantha
+Sherpur	383410	Gujarat	Sabarkantha
+Shinavad	383315	Gujarat	Sabarkantha
+Shinol	383310	Gujarat	Sabarkantha
+Shravana	383030	Gujarat	Sabarkantha
+Sika	383310	Gujarat	Sabarkantha
+Singa	383225	Gujarat	Sabarkantha
+Sisodara (a)	383350	Gujarat	Sabarkantha
+Sitol	383255	Gujarat	Sabarkantha
+Sitwada	383205	Gujarat	Sabarkantha
+Siyasan	383450	Gujarat	Sabarkantha
+Sonasan	383210	Gujarat	Sabarkantha
+Sunokh	383250	Gujarat	Sabarkantha
+Sunsar	383450	Gujarat	Sabarkantha
+Surpur	383430	Gujarat	Sabarkantha
+Tadhivedi	383422	Gujarat	Sabarkantha
+Tajpur	383205	Gujarat	Sabarkantha
+Tajpur (camp)	383305	Gujarat	Sabarkantha
+Tajpuri	383001	Gujarat	Sabarkantha
+Takatuka	383246	Gujarat	Sabarkantha
+Takhatgadh	383210	Gujarat	Sabarkantha
+Talod	383215	Gujarat	Sabarkantha
+Talod M y	383215	Gujarat	Sabarkantha
+Tandaliya	383275	Gujarat	Sabarkantha
+Tembada	383270	Gujarat	Sabarkantha
+Tenpur	383325	Gujarat	Sabarkantha
+Therasana	383235	Gujarat	Sabarkantha
+Tintoi	383250	Gujarat	Sabarkantha
+Torda	383246	Gujarat	Sabarkantha
+Tunadar	383335	Gujarat	Sabarkantha
+Ubharan	383335	Gujarat	Sabarkantha
+Ubsal	383246	Gujarat	Sabarkantha
+Ujedia	383215	Gujarat	Sabarkantha
+Ujleshvar	383310	Gujarat	Sabarkantha
+Ukhala Dungri	383460	Gujarat	Sabarkantha
+Umedgadh	383230	Gujarat	Sabarkantha
+Umedpura	383430	Gujarat	Sabarkantha
+Unchha	383205	Gujarat	Sabarkantha
+Unchi Dhanal	383270	Gujarat	Sabarkantha
+Undava	383350	Gujarat	Sabarkantha
+Untarda	383325	Gujarat	Sabarkantha
+Vadagam	383307	Gujarat	Sabarkantha
+Vadali	383235	Gujarat	Sabarkantha
+Vadoth	383235	Gujarat	Sabarkantha
+Vadrad	383205	Gujarat	Sabarkantha
+Vadvasa	383205	Gujarat	Sabarkantha
+Vagdi	383276	Gujarat	Sabarkantha
+Vaghela Derol	383275	Gujarat	Sabarkantha
+Vagheswari	383450	Gujarat	Sabarkantha
+Vaghpur	383205	Gujarat	Sabarkantha
+Vaghrota	383210	Gujarat	Sabarkantha
+Vaktapur	383010	Gujarat	Sabarkantha
+Valaran	383255	Gujarat	Sabarkantha
+Valiampura	383215	Gujarat	Sabarkantha
+Valuna	383350	Gujarat	Sabarkantha
+Vandhiyol	383250	Gujarat	Sabarkantha
+Vandhol	383460	Gujarat	Sabarkantha
+Vaniad Kokapur	383315	Gujarat	Sabarkantha
+Vaniawada	383350	Gujarat	Sabarkantha
+Vankaneda	383335	Gujarat	Sabarkantha
+Vankaner	383245	Gujarat	Sabarkantha
+Vankda	383462	Gujarat	Sabarkantha
+Vantda Bayad	383325	Gujarat	Sabarkantha
+Vanzar	383250	Gujarat	Sabarkantha
+Varthu	383317	Gujarat	Sabarkantha
+Vartol	383255	Gujarat	Sabarkantha
+Varvada	383305	Gujarat	Sabarkantha
+Vasai	383460	Gujarat	Sabarkantha
+Vasan	383235	Gujarat	Sabarkantha
+Vasana	383255	Gujarat	Sabarkantha
+Vasna	383350	Gujarat	Sabarkantha
+Vasnirel	383325	Gujarat	Sabarkantha
+Vatrakgadh	383260	Gujarat	Sabarkantha
+Vavdi	383345	Gujarat	Sabarkantha
+Vejpur	383245	Gujarat	Sabarkantha
+Verabar	383434	Gujarat	Sabarkantha
+Vijaynagar	383460	Gujarat	Sabarkantha
+Vinchhi	383422	Gujarat	Sabarkantha
+Viravada	383001	Gujarat	Sabarkantha
+Virpur	383230	Gujarat	Sabarkantha
+Vishwamangalam	383001	Gujarat	Sabarkantha
+Zanzva Panai	383270	Gujarat	Sabarkantha
+Zarda	383350	Gujarat	Sabarkantha
+Zinzva	383210	Gujarat	Sabarkantha

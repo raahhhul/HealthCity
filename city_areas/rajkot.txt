@@ -1,0 +1,471 @@
+Adbalka	360110	Gujarat	Rajkot
+Ajmer	360055	Gujarat	Rajkot
+Akala	360360	Gujarat	Rajkot
+Amarnagar	364485	Gujarat	Rajkot
+Amarpara Wankaner	363621	Gujarat	Rajkot
+Ambardi	360311	Gujarat	Rajkot
+Amrapar	360055	Gujarat	Rajkot
+Anandpar Navagam	360003	Gujarat	Rajkot
+Anandpar(morbi)	360003	Gujarat	Rajkot
+Anida Bhalodi	360311	Gujarat	Rajkot
+Anida Vachhra	360070	Gujarat	Rajkot
+Ardoi	360030	Gujarat	Rajkot
+Arni	360450	Gujarat	Rajkot
+Arnitimba	363621	Gujarat	Rajkot
+Atkot	360040	Gujarat	Rajkot
+Bagathala	363641	Gujarat	Rajkot
+Bakhalvad	360050	Gujarat	Rajkot
+Baldhoi	360060	Gujarat	Rajkot
+Bandhiya	360330	Gujarat	Rajkot
+Bandra	360330	Gujarat	Rajkot
+Bangavadi	363650	Gujarat	Rajkot
+Baradiya	360452	Gujarat	Rajkot
+Barvala	363641	Gujarat	Rajkot
+Bava Pipaliya	360360	Gujarat	Rajkot
+Bedi( Tankara)	363650	Gujarat	Rajkot
+Bedi(rajkot)	360003	Gujarat	Rajkot
+Bedla	360020	Gujarat	Rajkot
+Bela Rangpar	363641	Gujarat	Rajkot
+Bhadajalia	360421	Gujarat	Rajkot
+Bhader	360410	Gujarat	Rajkot
+Bhadiyad	363642	Gujarat	Rajkot
+Bhadla	360080	Gujarat	Rajkot
+Bhadra	360405	Gujarat	Rajkot
+Bhadva	360030	Gujarat	Rajkot
+Bhalgam	363621	Gujarat	Rajkot
+Bhandaria	360020	Gujarat	Rajkot
+Bhankh	360490	Gujarat	Rajkot
+Bhavpar	363660	Gujarat	Rajkot
+Bhayavadar	360450	Gujarat	Rajkot
+Bherda	363621	Gujarat	Rajkot
+Bhimguda	363621	Gujarat	Rajkot
+Bhimora	360490	Gujarat	Rajkot
+Bhola	360410	Gujarat	Rajkot
+Bhukhi	360410	Gujarat	Rajkot
+Bhunava	360311	Gujarat	Rajkot
+Bhupgadh	360020	Gujarat	Rajkot
+Bildi	364490	Gujarat	Rajkot
+Biliya	363641	Gujarat	Rajkot
+Biliyala	360311	Gujarat	Rajkot
+Bodki	363660	Gujarat	Rajkot
+Bogharavadar	360020	Gujarat	Rajkot
+Boria	360405	Gujarat	Rajkot
+Chachapar	363641	Gujarat	Rajkot
+Champabeda	360070	Gujarat	Rajkot
+Champrajpur	360370	Gujarat	Rajkot
+Chandli	360035	Gujarat	Rajkot
+Chandrapur	363621	Gujarat	Rajkot
+Charakhadi	360311	Gujarat	Rajkot
+Charania	365480	Gujarat	Rajkot
+Charel	360452	Gujarat	Rajkot
+Chavandi	360452	Gujarat	Rajkot
+Chhadvavadar	360410	Gujarat	Rajkot
+Chhasiya	360055	Gujarat	Rajkot
+Chhatrasa	360410	Gujarat	Rajkot
+Chibhda	360035	Gujarat	Rajkot
+Chichod	360430	Gujarat	Rajkot
+Chikhaliya	360410	Gujarat	Rajkot
+Chitravad	360452	Gujarat	Rajkot
+Chordi	360311	Gujarat	Rajkot
+Dadar	360452	Gujarat	Rajkot
+Dadva Mota	360311	Gujarat	Rajkot
+Dadvi	360405	Gujarat	Rajkot
+Dahisara	360020	Gujarat	Rajkot
+Daiya	360311	Gujarat	Rajkot
+Daldi	363621	Gujarat	Rajkot
+Dalia	360070	Gujarat	Rajkot
+Dedarva	360360	Gujarat	Rajkot
+Derala	363641	Gujarat	Rajkot
+Derdi	360370	Gujarat	Rajkot
+Derdi Kumbaji	364465	Gujarat	Rajkot
+Devchadi	360330	Gujarat	Rajkot
+Devdhari	360055	Gujarat	Rajkot
+Devgam	360003	Gujarat	Rajkot
+Devki Galol	360370	Gujarat	Rajkot
+Devla	364485	Gujarat	Rajkot
+Dhank	360460	Gujarat	Rajkot
+Dholara	360002	Gujarat	Rajkot
+Dholidhar	360405	Gujarat	Rajkot
+Dhoraji	360410	Gujarat	Rajkot
+Dhoraji D.g.	360410	Gujarat	Rajkot
+Dhoraji G.p.	360410	Gujarat	Rajkot
+Dhoraji S.r.	360410	Gujarat	Rajkot
+Dhudasiya	364470	Gujarat	Rajkot
+Dhudiadomda	360110	Gujarat	Rajkot
+Dhuva	363621	Gujarat	Rajkot
+Dodiyala	364490	Gujarat	Rajkot
+Dudhivadar	360410	Gujarat	Rajkot
+Dumiyani	360440	Gujarat	Rajkot
+Dungarka	360110	Gujarat	Rajkot
+Fareni	360370	Gujarat	Rajkot
+Gadhadia	360050	Gujarat	Rajkot
+Gadhaka	360020	Gujarat	Rajkot
+Gadhdiya	360020	Gujarat	Rajkot
+Gala	363630	Gujarat	Rajkot
+Ganod	360490	Gujarat	Rajkot
+Gariya	363621	Gujarat	Rajkot
+Garnara	360311	Gujarat	Rajkot
+Gauridad	360003	Gujarat	Rajkot
+Ghela Somnath	360050	Gujarat	Rajkot
+Ghiyavad	363621	Gujarat	Rajkot
+Ghoghavadar	360311	Gujarat	Rajkot
+Ghunda (s)	363641	Gujarat	Rajkot
+Ghunda Khanpar	363641	Gujarat	Rajkot
+Ghuntu	363641	Gujarat	Rajkot
+Gokhlana	360050	Gujarat	Rajkot
+Gomta	360320	Gujarat	Rajkot
+Gondal	360311	Gujarat	Rajkot
+Gondal Bhagvatpara	360311	Gujarat	Rajkot
+Gondal Bhojrajpara	360311	Gujarat	Rajkot
+Gondal Bhuvneshwari pith	360311	Gujarat	Rajkot
+Gondal College chowk	360311	Gujarat	Rajkot
+Gondal Market yard	360311	Gujarat	Rajkot
+Gundala (jas)	360055	Gujarat	Rajkot
+Gundasara	360311	Gujarat	Rajkot
+Gundasari	360452	Gujarat	Rajkot
+Gungan	363642	Gujarat	Rajkot
+Hadamtala (kolithad)	360311	Gujarat	Rajkot
+Hadamtala (shemla)	360311	Gujarat	Rajkot
+Hadmatia	360020	Gujarat	Rajkot
+Hadmatiya	363641	Gujarat	Rajkot
+Halenda	360020	Gujarat	Rajkot
+Harbatiyali	363650	Gujarat	Rajkot
+Haripar	360020	Gujarat	Rajkot
+Hariyasan	360480	Gujarat	Rajkot
+Hathasani	360055	Gujarat	Rajkot
+Hirapar	363650	Gujarat	Rajkot
+Ishavariya	360040	Gujarat	Rajkot
+Ishra	360490	Gujarat	Rajkot
+Ishwariya	360110	Gujarat	Rajkot
+Jabalpur	363650	Gujarat	Rajkot
+Jadeshvar	363621	Gujarat	Rajkot
+Jajasar	363670	Gujarat	Rajkot
+Jalida	363621	Gujarat	Rajkot
+Jaliya(dhrol)	360003	Gujarat	Rajkot
+Jambudi	360370	Gujarat	Rajkot
+Jambudiya	363642	Gujarat	Rajkot
+Jamkandorna	360405	Gujarat	Rajkot
+Jamnavad	360410	Gujarat	Rajkot
+Jamvadi	360311	Gujarat	Rajkot
+Jangvad	360040	Gujarat	Rajkot
+Jasapar	360311	Gujarat	Rajkot
+Jasdan	360050	Gujarat	Rajkot
+Jetalsar Gam	360360	Gujarat	Rajkot
+Jetalsar Jn.	360360	Gujarat	Rajkot
+Jetpar (m)	363630	Gujarat	Rajkot
+Jetpur	360370	Gujarat	Rajkot
+Jetpur F.w.	360370	Gujarat	Rajkot
+Jetpur K.b.	360370	Gujarat	Rajkot
+Jivapar	363650	Gujarat	Rajkot
+Jodjpar Nadi	363642	Gujarat	Rajkot
+Juna Ghantila	363630	Gujarat	Rajkot
+Juna Nagdavas	363670	Gujarat	Rajkot
+Juna Pipaliya	364490	Gujarat	Rajkot
+Juna Rajpipala	360020	Gujarat	Rajkot
+Juni Sankli	360360	Gujarat	Rajkot
+Kaduka	360050	Gujarat	Rajkot
+Kagadadi	360003	Gujarat	Rajkot
+Kagvad	360380	Gujarat	Rajkot
+Kalana	360410	Gujarat	Rajkot
+Kalariya	360490	Gujarat	Rajkot
+Kalasar	360050	Gujarat	Rajkot
+Kamalapur	360020	Gujarat	Rajkot
+Kamar Kotda	360330	Gujarat	Rajkot
+Kanesara	360020	Gujarat	Rajkot
+Kankot	363621	Gujarat	Rajkot
+Kanpar	360311	Gujarat	Rajkot
+Kanpara	360040	Gujarat	Rajkot
+Kasturbadham	360020	Gujarat	Rajkot
+Kerala	363621	Gujarat	Rajkot
+Kerali	360370	Gujarat	Rajkot
+Khadvanthali	360311	Gujarat	Rajkot
+Khajurda	360440	Gujarat	Rajkot
+Khajurdi	360110	Gujarat	Rajkot
+Khakhdabela	360110	Gujarat	Rajkot
+Khakhijaliya	360490	Gujarat	Rajkot
+Khakhrala	363641	Gujarat	Rajkot
+Khakhrechi	363630	Gujarat	Rajkot
+Khambha	360311	Gujarat	Rajkot
+Khambhala	360110	Gujarat	Rajkot
+Khamta	360110	Gujarat	Rajkot
+Khandadhar	360311	Gujarat	Rajkot
+Khandheri	360110	Gujarat	Rajkot
+Khandhevadia	360055	Gujarat	Rajkot
+Khanpar	363641	Gujarat	Rajkot
+Kharachiya	360470	Gujarat	Rajkot
+Kharachiya Jam	360060	Gujarat	Rajkot
+Kharechiya	360020	Gujarat	Rajkot
+Khareda	360030	Gujarat	Rajkot
+Khatli	360452	Gujarat	Rajkot
+Kherda	363641	Gujarat	Rajkot
+Kherdi	360002	Gujarat	Rajkot
+Kherva	363621	Gujarat	Rajkot
+Khevaliya	363641	Gujarat	Rajkot
+Khijadia	363621	Gujarat	Rajkot
+Khirai	363670	Gujarat	Rajkot
+Khirasara	360003	Gujarat	Rajkot
+Khirsara	360021	Gujarat	Rajkot
+Khirsara (ghed)	360450	Gujarat	Rajkot
+Khodapipar	360110	Gujarat	Rajkot
+Khokhaddad	360002	Gujarat	Rajkot
+Khorana	360003	Gujarat	Rajkot
+Kolithad	360311	Gujarat	Rajkot
+Kolki	360470	Gujarat	Rajkot
+Kotda Nayani	360003	Gujarat	Rajkot
+Kotda Sangani	360030	Gujarat	Rajkot
+Kotha Pipalia	360035	Gujarat	Rajkot
+Kotharia	363621	Gujarat	Rajkot
+Kotharia(tankara)	363650	Gujarat	Rajkot
+Kothariatbhospital	360002	Gujarat	Rajkot
+Kothi	363621	Gujarat	Rajkot
+Kuchiyadad	360002	Gujarat	Rajkot
+Kumbhariya	363630	Gujarat	Rajkot
+Kundani	360020	Gujarat	Rajkot
+Kuntasi	363660	Gujarat	Rajkot
+Kuvadava	360002	Gujarat	Rajkot
+Lajai	363641	Gujarat	Rajkot
+Lakhavad Moti	360055	Gujarat	Rajkot
+Lakhavad Nani	360060	Gujarat	Rajkot
+Lath	360490	Gujarat	Rajkot
+Lavanpur	363660	Gujarat	Rajkot
+Lilapar	363641	Gujarat	Rajkot
+Lilapur	360050	Gujarat	Rajkot
+Lodhika	360035	Gujarat	Rajkot
+Lunivav	360311	Gujarat	Rajkot
+Lunsar	363621	Gujarat	Rajkot
+Lunsariya	363621	Gujarat	Rajkot
+Madhapar	360006	Gujarat	Rajkot
+Mafatiyapara	360002	Gujarat	Rajkot
+Magharvada	360003	Gujarat	Rajkot
+Mahendranagar	363642	Gujarat	Rajkot
+Mahika	363621	Gujarat	Rajkot
+Makajimeghpar	360110	Gujarat	Rajkot
+Makansar	363642	Gujarat	Rajkot
+Maliya Miyana	363670	Gujarat	Rajkot
+Maliyasan	360003	Gujarat	Rajkot
+Mandan Kundla	360330	Gujarat	Rajkot
+Mandlikpur	360370	Gujarat	Rajkot
+Manekwada	363641	Gujarat	Rajkot
+Matel	363621	Gujarat	Rajkot
+Mavdi	360004	Gujarat	Rajkot
+Meghpar	364490	Gujarat	Rajkot
+Meghpar Zala	363650	Gujarat	Rajkot
+Mekha Timbi	360470	Gujarat	Rajkot
+Mengni	360070	Gujarat	Rajkot
+Mervadar	360490	Gujarat	Rajkot
+Mesariya	363621	Gujarat	Rajkot
+Mesavada	360003	Gujarat	Rajkot
+Meta Khambhaliya	364465	Gujarat	Rajkot
+Mevasa	360370	Gujarat	Rajkot
+Mitana	363650	Gujarat	Rajkot
+Modhuka	360055	Gujarat	Rajkot
+Mojira	360490	Gujarat	Rajkot
+Morbi	363641	Gujarat	Rajkot
+Morbi Eng.college	363642	Gujarat	Rajkot
+Morbi Gidc	363641	Gujarat	Rajkot
+Morbi Nani bazar	363641	Gujarat	Rajkot
+Morbi Ppw	363642	Gujarat	Rajkot
+Morbi Shakti plot	363641	Gujarat	Rajkot
+Mota bhela	363660	Gujarat	Rajkot
+Mota Gundala	360370	Gujarat	Rajkot
+Mota Khijadia	363650	Gujarat	Rajkot
+Mota Mandva	360311	Gujarat	Rajkot
+Mota Mava	360005	Gujarat	Rajkot
+Motakhijadia	360110	Gujarat	Rajkot
+Motavada	360110	Gujarat	Rajkot
+Moti Khilori	364465	Gujarat	Rajkot
+Moti Marad	360421	Gujarat	Rajkot
+Moti Parabadi	360360	Gujarat	Rajkot
+Moti Vavdi	360440	Gujarat	Rajkot
+Motibarar	363670	Gujarat	Rajkot
+Motichanol	360110	Gujarat	Rajkot
+Moviya	360330	Gujarat	Rajkot
+Nagalkhada	360410	Gujarat	Rajkot
+Nagar Pipaliya	360021	Gujarat	Rajkot
+Nagvadar	360490	Gujarat	Rajkot
+Nana Khijadia	360110	Gujarat	Rajkot
+Nana Mandva	360311	Gujarat	Rajkot
+Nani Barar	363670	Gujarat	Rajkot
+Nani Parabadi	360360	Gujarat	Rajkot
+Nani Vavdi	363641	Gujarat	Rajkot
+Nasitpar	363641	Gujarat	Rajkot
+Nava Matravad	360450	Gujarat	Rajkot
+Navagadh	360375	Gujarat	Rajkot
+Navagam	363670	Gujarat	Rajkot
+Neknam	363650	Gujarat	Rajkot
+Nesda (k)	363641	Gujarat	Rajkot
+Nichimandal	363641	Gujarat	Rajkot
+Nilakha	360490	Gujarat	Rajkot
+Nonghanchora	360070	Gujarat	Rajkot
+Otala	363650	Gujarat	Rajkot
+Padasan	360020	Gujarat	Rajkot
+Padavla	360480	Gujarat	Rajkot
+Paddhara	363621	Gujarat	Rajkot
+Paddhari	360110	Gujarat	Rajkot
+Pal	360004	Gujarat	Rajkot
+Panch Pipla	360370	Gujarat	Rajkot
+Panchasar	363641	Gujarat	Rajkot
+Panchasia	363621	Gujarat	Rajkot
+Panchavada	360040	Gujarat	Rajkot
+Panchavda	360311	Gujarat	Rajkot
+Panchdwarka	363621	Gujarat	Rajkot
+Paneli	360480	Gujarat	Rajkot
+Para pipaliya	360006	Gujarat	Rajkot
+Pardi	360024	Gujarat	Rajkot
+Patanvav	360430	Gujarat	Rajkot
+Patidad	360311	Gujarat	Rajkot
+Pedhla	360370	Gujarat	Rajkot
+Pipaliya	360003	Gujarat	Rajkot
+Pipaliya Raj	363621	Gujarat	Rajkot
+Pipaliya(sadak)	360311	Gujarat	Rajkot
+Pipalva	360360	Gujarat	Rajkot
+Pipardi	360055	Gujarat	Rajkot
+Pipli	363642	Gujarat	Rajkot
+Pithadia	360370	Gujarat	Rajkot
+Pransla	360490	Gujarat	Rajkot
+Premgadh	360370	Gujarat	Rajkot
+Rabarika	360470	Gujarat	Rajkot
+Rafala	360003	Gujarat	Rajkot
+Rafaleshwar	363642	Gujarat	Rajkot
+Raidi	360410	Gujarat	Rajkot
+Raiya	360005	Gujarat	Rajkot
+Rajapara	360030	Gujarat	Rajkot
+Rajavadala	363621	Gujarat	Rajkot
+Rajkot	360001	Gujarat	Rajkot
+Rajkot raiya road	360007	Gujarat	Rajkot
+Rajkot Aji ind estate	360003	Gujarat	Rajkot
+Rajkot Bedipara	360003	Gujarat	Rajkot
+Rajkot Bhaktinagar	360002	Gujarat	Rajkot
+Rajkot Bhomeshwar plot	360006	Gujarat	Rajkot
+Rajkot City	360001	Gujarat	Rajkot
+Rajkot Collectorate	360001	Gujarat	Rajkot
+Rajkot D h college	360001	Gujarat	Rajkot
+Rajkot Jairaj plot	360001	Gujarat	Rajkot
+Rajkot Jn. plot	360001	Gujarat	Rajkot
+Rajkot Kalavad road	360001	Gujarat	Rajkot
+Rajkot Malviyanagar	360004	Gujarat	Rajkot
+Rajkot Manahar plot	360002	Gujarat	Rajkot
+Rajkot Mandvi chowk	360001	Gujarat	Rajkot
+Rajkot Marketing yard	360003	Gujarat	Rajkot
+Rajkot Metoda gidc	360021	Gujarat	Rajkot
+Rajkot Millpara	360002	Gujarat	Rajkot
+Rajkot Mochi bazar	360001	Gujarat	Rajkot
+Rajkot Municipal corporation	360001	Gujarat	Rajkot
+Rajkot New jagnath plot	360001	Gujarat	Rajkot
+Rajkot Parsi agiyari chowk	360001	Gujarat	Rajkot
+Rajkot Popatpara	360001	Gujarat	Rajkot
+Rajkot Postal colony	360004	Gujarat	Rajkot
+Rajkot Race course road	360001	Gujarat	Rajkot
+Rajkot Sau uni area	360005	Gujarat	Rajkot
+Rajkot Sorathiawadi	360002	Gujarat	Rajkot
+Rajkot Udyognagar	360002	Gujarat	Rajkot
+Rajkot Vivekanandnagar	360002	Gujarat	Rajkot
+Rajpar	363641	Gujarat	Rajkot
+Ramod	360311	Gujarat	Rajkot
+Rampar Mota	360110	Gujarat	Rajkot
+Rampar Pati	360110	Gujarat	Rajkot
+Ranekpar	363621	Gujarat	Rajkot
+Rangpar (bela)	363641	Gujarat	Rajkot
+Ratidevdi	363621	Gujarat	Rajkot
+Ravapar	363642	Gujarat	Rajkot
+Ravki	360004	Gujarat	Rajkot
+Ravna	364490	Gujarat	Rajkot
+Reshamdi Galol	360370	Gujarat	Rajkot
+Rib	360311	Gujarat	Rajkot
+Ribda	360311	Gujarat	Rajkot
+Roghel	360410	Gujarat	Rajkot
+Rohishala	363650	Gujarat	Rajkot
+Rupavati	360110	Gujarat	Rajkot
+Sadulkanava	363642	Gujarat	Rajkot
+Sajadiyali	360450	Gujarat	Rajkot
+Sajanpar	363641	Gujarat	Rajkot
+Sal Pipalia	360110	Gujarat	Rajkot
+Samadhiyala	363621	Gujarat	Rajkot
+Sanali	360055	Gujarat	Rajkot
+Sanathali	364490	Gujarat	Rajkot
+Sandhvaya	360311	Gujarat	Rajkot
+Sanganva	360035	Gujarat	Rajkot
+Sanosara	360003	Gujarat	Rajkot
+Sapar	363630	Gujarat	Rajkot
+Sarapdad	360110	Gujarat	Rajkot
+Saravad	363641	Gujarat	Rajkot
+Sardhar	360020	Gujarat	Rajkot
+Sardharka	363621	Gujarat	Rajkot
+Sardharpur	360375	Gujarat	Rajkot
+Satapar	360330	Gujarat	Rajkot
+Satodad	360405	Gujarat	Rajkot
+Savadi	363650	Gujarat	Rajkot
+Semla	360311	Gujarat	Rajkot
+Shakat Sanala	363641	Gujarat	Rajkot
+Shapar( Halar)	360024	Gujarat	Rajkot
+Shishak	360330	Gujarat	Rajkot
+Shivrajgadh	360311	Gujarat	Rajkot
+Shivrajpur	360050	Gujarat	Rajkot
+Shri Shardanagar	363636	Gujarat	Rajkot
+Shrinathgadh	360330	Gujarat	Rajkot
+Sindhavadar	363621	Gujarat	Rajkot
+Sodvadar	360440	Gujarat	Rajkot
+Sokhda	363670	Gujarat	Rajkot
+Sultanpur	363630	Gujarat	Rajkot
+Supedi	360440	Gujarat	Rajkot
+Suvag	360110	Gujarat	Rajkot
+Talagana	360490	Gujarat	Rajkot
+Tanasva	360490	Gujarat	Rajkot
+Tankara	363650	Gujarat	Rajkot
+Tarakiya	363621	Gujarat	Rajkot
+Targhadi	363636	Gujarat	Rajkot
+Targhadia	360003	Gujarat	Rajkot
+Targhari	360110	Gujarat	Rajkot
+Thana Galol	360370	Gujarat	Rajkot
+Thorala	363641	Gujarat	Rajkot
+Thoriyali	360110	Gujarat	Rajkot
+Timbdi Arab	360360	Gujarat	Rajkot
+Timbdi Jam	360450	Gujarat	Rajkot
+Tithva	363621	Gujarat	Rajkot
+Torania	360360	Gujarat	Rajkot
+Trakuda	360311	Gujarat	Rajkot
+Ukarda	360110	Gujarat	Rajkot
+Umrali	360020	Gujarat	Rajkot
+Unchi Mandal	363641	Gujarat	Rajkot
+Upleta	360490	Gujarat	Rajkot
+Upleta Lati plot	360490	Gujarat	Rajkot
+Vachhakapar	363650	Gujarat	Rajkot
+Vachhra	360311	Gujarat	Rajkot
+Vadala	360490	Gujarat	Rajkot
+Vadali	360450	Gujarat	Rajkot
+Vadasada	364485	Gujarat	Rajkot
+Vadharva	363670	Gujarat	Rajkot
+Vadod	360050	Gujarat	Rajkot
+Vadodar	360410	Gujarat	Rajkot
+Vaghasiya	363621	Gujarat	Rajkot
+Vaghpar	363630	Gujarat	Rajkot
+Valasan	363621	Gujarat	Rajkot
+Vangadhra	360055	Gujarat	Rajkot
+Vankada	363641	Gujarat	Rajkot
+Vardusar	363621	Gujarat	Rajkot
+Varjang Jalia	360490	Gujarat	Rajkot
+Varsamedi	363660	Gujarat	Rajkot
+Vasavad	364490	Gujarat	Rajkot
+Vavania	363660	Gujarat	Rajkot
+Vavdi	360004	Gujarat	Rajkot
+Vavdi Station	364485	Gujarat	Rajkot
+Vejalpar	363630	Gujarat	Rajkot
+Vekri	360311	Gujarat	Rajkot
+Venasar	363630	Gujarat	Rajkot
+Veraval (shapar)	360024	Gujarat	Rajkot
+Vinchhiya	360055	Gujarat	Rajkot
+Vinzivad	364470	Gujarat	Rajkot
+Virnagar	360060	Gujarat	Rajkot
+Virpar	363641	Gujarat	Rajkot
+Virparda	363660	Gujarat	Rajkot
+Virpur	360380	Gujarat	Rajkot
+Virvadrka	363670	Gujarat	Rajkot
+Virvav	363650	Gujarat	Rajkot
+Visaman	360110	Gujarat	Rajkot
+Vora Kotda	360311	Gujarat	Rajkot
+Wankaner	363621	Gujarat	Rajkot
+Zanzmer	360440	Gujarat	Rajkot
+Zilariya	360110	Gujarat	Rajkot
+Zinkiyali	363641	Gujarat	Rajkot
+Ziyana	360003	Gujarat	Rajkot
+Zundala	364490	Gujarat	Rajkot

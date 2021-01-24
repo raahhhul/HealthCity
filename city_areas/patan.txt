@@ -1,0 +1,262 @@
+Abiyana	385360	Gujarat	Patan
+Abluva	384285	Gujarat	Patan
+Adgam	384245	Gujarat	Patan
+Adiya	384255	Gujarat	Patan
+Aghar	384265	Gujarat	Patan
+Agichana	385360	Gujarat	Patan
+Ajimana	384265	Gujarat	Patan
+Allahabad	385340	Gujarat	Patan
+Amrapuara	384245	Gujarat	Patan
+Anawada	384265	Gujarat	Patan
+Anvarpura	384245	Gujarat	Patan
+Aritha	384240	Gujarat	Patan
+Arjansar	385340	Gujarat	Patan
+Babra	385360	Gujarat	Patan
+Balisana	384110	Gujarat	Patan
+Bamroli	385360	Gujarat	Patan
+Bandhvad	385340	Gujarat	Patan
+Baspa	384245	Gujarat	Patan
+Bepadar	384272	Gujarat	Patan
+Bhadrada	384245	Gujarat	Patan
+Bhatsan	384285	Gujarat	Patan
+Bhilot	385340	Gujarat	Patan
+Bhilvan	384285	Gujarat	Patan
+Bilia	384151	Gujarat	Patan
+Bolera	384246	Gujarat	Patan
+Boratwada	384240	Gujarat	Patan
+Borsan	384275	Gujarat	Patan
+Brahmanwada	384220	Gujarat	Patan
+Chalvada	385340	Gujarat	Patan
+Chanasma	384220	Gujarat	Patan
+Chandravati	384151	Gujarat	Patan
+Chandrumana	384255	Gujarat	Patan
+Chandur Moti	384241	Gujarat	Patan
+Chandur Nani	384245	Gujarat	Patan
+Charanka	385350	Gujarat	Patan
+Charup	384285	Gujarat	Patan
+Chaveli	384225	Gujarat	Patan
+Chhamichha	384221	Gujarat	Patan
+D R.s.	385340	Gujarat	Patan
+Dadar	384245	Gujarat	Patan
+Danodarda	384225	Gujarat	Patan
+Dantisana	384246	Gujarat	Patan
+Dasawada	384265	Gujarat	Patan
+Daudpur	384245	Gujarat	Patan
+Delmal	384230	Gujarat	Patan
+Der	384110	Gujarat	Patan
+Dethli	384151	Gujarat	Patan
+Detrana	385350	Gujarat	Patan
+Dhadhana	384240	Gujarat	Patan
+Dhanawada	384265	Gujarat	Patan
+Dhanodharda	384220	Gujarat	Patan
+Dhanora	384246	Gujarat	Patan
+Dharmoda	384220	Gujarat	Patan
+Dharnoj	384265	Gujarat	Patan
+Dharpur	384265	Gujarat	Patan
+Dharusan	384285	Gujarat	Patan
+Dharvadi	385340	Gujarat	Patan
+Dhinoj	384225	Gujarat	Patan
+Dhokavada	385350	Gujarat	Patan
+Dholakda	385360	Gujarat	Patan
+Dindrol	384290	Gujarat	Patan
+Dudkha	384245	Gujarat	Patan
+Dunawada	384265	Gujarat	Patan
+Ekalva	384240	Gujarat	Patan
+Endla	384285	Gujarat	Patan
+Gadha	385360	Gujarat	Patan
+Gadsai	385360	Gujarat	Patan
+Gajdinpura	384245	Gujarat	Patan
+Gangalasan	384151	Gujarat	Patan
+Ganget	384275	Gujarat	Patan
+Ganjisar	385340	Gujarat	Patan
+Ganvada	384151	Gujarat	Patan
+Garambadi	385350	Gujarat	Patan
+Gochnath	385340	Gujarat	Patan
+Gokhantar	385360	Gujarat	Patan
+Goliwada	384272	Gujarat	Patan
+Gotarka	385360	Gujarat	Patan
+Gujarwada	384245	Gujarat	Patan
+Hansapur	384265	Gujarat	Patan
+Harij	384240	Gujarat	Patan
+Islampura	384275	Gujarat	Patan
+Itoda	384230	Gujarat	Patan
+Jakhana	384220	Gujarat	Patan
+Jakhel	385360	Gujarat	Patan
+Jakhotra	385350	Gujarat	Patan
+Jamanpur	384240	Gujarat	Patan
+Jangral	384285	Gujarat	Patan
+Jarusha	385360	Gujarat	Patan
+Jasomav	384240	Gujarat	Patan
+Jasvantpura	384240	Gujarat	Patan
+Javantri	385340	Gujarat	Patan
+Jesda	384241	Gujarat	Patan
+Jitoda	384220	Gujarat	Patan
+Juna Manka	384240	Gujarat	Patan
+Kakoshi	384290	Gujarat	Patan
+Kalyana	384265	Gujarat	Patan
+Kamalpur (d)	385340	Gujarat	Patan
+Kamalpur (s)	385340	Gujarat	Patan
+Kamboi	384230	Gujarat	Patan
+Kamliwada	384265	Gujarat	Patan
+Kani	384110	Gujarat	Patan
+Kanij	384245	Gujarat	Patan
+Kansa	384265	Gujarat	Patan
+Kathi	384240	Gujarat	Patan
+Katra	384240	Gujarat	Patan
+Katra (samal)	384265	Gujarat	Patan
+Keshni	384225	Gujarat	Patan
+Khakhal	384240	Gujarat	Patan
+Khali	384151	Gujarat	Patan
+Khanpur Rajkuva	384255	Gujarat	Patan
+Khareda	384285	Gujarat	Patan
+Khari Ghariayal	384230	Gujarat	Patan
+Khari Vavdi	384255	Gujarat	Patan
+Khijdiyari	384241	Gujarat	Patan
+Khodana	384285	Gujarat	Patan
+Kholvada	384151	Gujarat	Patan
+Khorsam	384220	Gujarat	Patan
+Kilana	385360	Gujarat	Patan
+Kimbuva	384285	Gujarat	Patan
+Koita	384285	Gujarat	Patan
+Koliwada	385340	Gujarat	Patan
+Korda	385360	Gujarat	Patan
+Kotavad	384265	Gujarat	Patan
+Kukrana	384240	Gujarat	Patan
+Kumbhana	384240	Gujarat	Patan
+Kungher	384255	Gujarat	Patan
+Kunvar	384241	Gujarat	Patan
+Kunvarad	384241	Gujarat	Patan
+Kunwara	384265	Gujarat	Patan
+Kureja	384255	Gujarat	Patan
+Lanva	384229	Gujarat	Patan
+Laxmipura	384285	Gujarat	Patan
+Lodra	385340	Gujarat	Patan
+Lolada	384241	Gujarat	Patan
+Loteshwar	384241	Gujarat	Patan
+Lotia	385340	Gujarat	Patan
+Madhutra	385350	Gujarat	Patan
+Mandvi	384245	Gujarat	Patan
+Maniyari	384221	Gujarat	Patan
+Manund	384260	Gujarat	Patan
+Masali	385340	Gujarat	Patan
+Matpur	384275	Gujarat	Patan
+Matrota	384240	Gujarat	Patan
+Meloj	384151	Gujarat	Patan
+Memdavad	385340	Gujarat	Patan
+Memna	384241	Gujarat	Patan
+Mesar	384273	Gujarat	Patan
+Methan	384290	Gujarat	Patan
+Metrana	384290	Gujarat	Patan
+Mitha Dharva	384229	Gujarat	Patan
+Mithi Gariyal	384221	Gujarat	Patan
+Mithi Vavdi	384220	Gujarat	Patan
+Morpa	384285	Gujarat	Patan
+Mota Joravarpura	384245	Gujarat	Patan
+Moti Pipli	385340	Gujarat	Patan
+Mudana	384151	Gujarat	Patan
+Mudvada	384290	Gujarat	Patan
+Mujpur	384241	Gujarat	Patan
+Muna	384285	Gujarat	Patan
+Nagvasana	384151	Gujarat	Patan
+Nana	384240	Gujarat	Patan
+Nandotri	384151	Gujarat	Patan
+Nani Pipli	385340	Gujarat	Patan
+Nanpura	385340	Gujarat	Patan
+Nava Manka	384240	Gujarat	Patan
+Nayka	384245	Gujarat	Patan
+Nayta	384265	Gujarat	Patan
+Nedra	384151	Gujarat	Patan
+Norta	384275	Gujarat	Patan
+Odhva	384265	Gujarat	Patan
+Pachakvada	384265	Gujarat	Patan
+Padla	384246	Gujarat	Patan
+Palasar	384229	Gujarat	Patan
+Panchasar	384246	Gujarat	Patan
+Par	385350	Gujarat	Patan
+Patan	384265	Gujarat	Patan
+Patan City	384265	Gujarat	Patan
+Patan H n g university	384265	Gujarat	Patan
+Patan Rajkawada	384265	Gujarat	Patan
+Patan Siddhraj road	384265	Gujarat	Patan
+Patan Three gate	384265	Gujarat	Patan
+Pimpal	384225	Gujarat	Patan
+Pindharpura	384229	Gujarat	Patan
+Piplana	384240	Gujarat	Patan
+Piprana	385350	Gujarat	Patan
+Radhanpur	385340	Gujarat	Patan
+Radhanpur Rajgadhi	385340	Gujarat	Patan
+Radhanpur Rly colony	385340	Gujarat	Patan
+Rafu	384245	Gujarat	Patan
+Rajpur	384265	Gujarat	Patan
+Rampura	384265	Gujarat	Patan
+Ranavada	384245	Gujarat	Patan
+Ranod	384241	Gujarat	Patan
+Ranuj	384275	Gujarat	Patan
+Ravad	384240	Gujarat	Patan
+Ravindra	384240	Gujarat	Patan
+Raviyana	384285	Gujarat	Patan
+Roda	384240	Gujarat	Patan
+Runi	384265	Gujarat	Patan
+Ruppur	384220	Gujarat	Patan
+Ruvavi	384275	Gujarat	Patan
+Sagodiya	384265	Gujarat	Patan
+Sahesa	384290	Gujarat	Patan
+Sami	384245	Gujarat	Patan
+Samoda	384151	Gujarat	Patan
+Sampra	384272	Gujarat	Patan
+Samsherpura	384245	Gujarat	Patan
+Sander	384275	Gujarat	Patan
+Sankhari	384275	Gujarat	Patan
+Sankheshwar	384246	Gujarat	Patan
+Sankra	384255	Gujarat	Patan
+Santalpur	385350	Gujarat	Patan
+Santhli	385340	Gujarat	Patan
+Sariyad	384272	Gujarat	Patan
+Sarval	384240	Gujarat	Patan
+Satun	385340	Gujarat	Patan
+Sedrana	384151	Gujarat	Patan
+Sevala	384220	Gujarat	Patan
+Sidhada	385360	Gujarat	Patan
+Sidhpur	384151	Gujarat	Patan
+Sidhpur Jafri baug	384151	Gujarat	Patan
+Sidhpur Jam chakla	384151	Gujarat	Patan
+Sidhpur Market yard	384151	Gujarat	Patan
+Sinad	385340	Gujarat	Patan
+Sipur	384241	Gujarat	Patan
+Sodhav	384230	Gujarat	Patan
+Subapura	385340	Gujarat	Patan
+Sujnipur	384265	Gujarat	Patan
+Sunsar	384225	Gujarat	Patan
+Takodi	384221	Gujarat	Patan
+Tambolia	384230	Gujarat	Patan
+Taranagar	384241	Gujarat	Patan
+Tarora	384240	Gujarat	Patan
+Tavadia	384151	Gujarat	Patan
+Tuvad	384241	Gujarat	Patan
+Umru	384151	Gujarat	Patan
+Undra	384272	Gujarat	Patan
+Vadavali	384221	Gujarat	Patan
+Vadhana	384151	Gujarat	Patan
+Vadli	384265	Gujarat	Patan
+Vadu	384285	Gujarat	Patan
+Vaghel	384240	Gujarat	Patan
+Vagosan	384240	Gujarat	Patan
+Vahana	384285	Gujarat	Patan
+Vahuva	385350	Gujarat	Patan
+Vamaiya	384265	Gujarat	Patan
+Vanasan	384151	Gujarat	Patan
+Vansa	384240	Gujarat	Patan
+Varahi	385360	Gujarat	Patan
+Varana	384245	Gujarat	Patan
+Varsila	384151	Gujarat	Patan
+Vasai	384275	Gujarat	Patan
+Vayad	384285	Gujarat	Patan
+Ved	384245	Gujarat	Patan
+Vejawada	384240	Gujarat	Patan
+Veloda	384272	Gujarat	Patan
+Wagdod	384285	Gujarat	Patan
+Zandala	385360	Gujarat	Patan
+Zazam	385360	Gujarat	Patan
+Zekhada	385360	Gujarat	Patan
+Zilia	384225	Gujarat	Patan
+Zilvana	384245	Gujarat	Patan

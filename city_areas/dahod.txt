@@ -1,0 +1,226 @@
+Aasayadi	389130	Gujarat	Dahod
+Abhlod	389152	Gujarat	Dahod
+Afwa	389190	Gujarat	Dahod
+Agara	389175	Gujarat	Dahod
+Agaswani	389382	Gujarat	Dahod
+Agavada	389151	Gujarat	Dahod
+Amba	389180	Gujarat	Dahod
+Ambakhunt	389380	Gujarat	Dahod
+Andheri	389140	Gujarat	Dahod
+Anika	389175	Gujarat	Dahod
+Antela	389380	Gujarat	Dahod
+Baina	389380	Gujarat	Dahod
+Bajarwada	389170	Gujarat	Dahod
+Balaiya	389190	Gujarat	Dahod
+Bamroli	389380	Gujarat	Dahod
+Bandibar	389140	Gujarat	Dahod
+Bar	389140	Gujarat	Dahod
+Bara	389380	Gujarat	Dahod
+Batakvada	389172	Gujarat	Dahod
+Bavka	389152	Gujarat	Dahod
+Bhadkhadabar	389180	Gujarat	Dahod
+Bhanasimal	389172	Gujarat	Dahod
+Bhanpur	389175	Gujarat	Dahod
+Bharamkheda	389151	Gujarat	Dahod
+Bhe	389155	Gujarat	Dahod
+Bhichor	389172	Gujarat	Dahod
+Bhojela	389190	Gujarat	Dahod
+Bhorva	389382	Gujarat	Dahod
+Bhutaradi	389155	Gujarat	Dahod
+Bilwani	389180	Gujarat	Dahod
+Bor R.s.	389151	Gujarat	Dahod
+Boriala	389155	Gujarat	Dahod
+Budhpur	389140	Gujarat	Dahod
+Chakalia	389180	Gujarat	Dahod
+Chamaria	389175	Gujarat	Dahod
+Chandwana	389151	Gujarat	Dahod
+Chenpur	389380	Gujarat	Dahod
+Chhalor	389172	Gujarat	Dahod
+Chhaparwad	389130	Gujarat	Dahod
+Chhayan	389180	Gujarat	Dahod
+Chilkota	389152	Gujarat	Dahod
+Chitrodia	389170	Gujarat	Dahod
+Chopda Buzarg	389110	Gujarat	Dahod
+Chorbaria	389380	Gujarat	Dahod
+Chosala	389151	Gujarat	Dahod
+Chundadi	389130	Gujarat	Dahod
+Dabhda	389140	Gujarat	Dahod
+Dadur	389155	Gujarat	Dahod
+Dahod	389151	Gujarat	Dahod
+Dantia	389140	Gujarat	Dahod
+Dasa	389130	Gujarat	Dahod
+Dasla	389151	Gujarat	Dahod
+Devgadh Baria	389380	Gujarat	Dahod
+Deviram Pura	389380	Gujarat	Dahod
+Dhadhela	389170	Gujarat	Dahod
+Dhanpur	389382	Gujarat	Dahod
+Dharadungar	389151	Gujarat	Dahod
+Dhavadia	389170	Gujarat	Dahod
+Dhediya	389175	Gujarat	Dahod
+Dudhamali	389382	Gujarat	Dahod
+Dudhia	389146	Gujarat	Dahod
+Dumka	389382	Gujarat	Dahod
+Dungar	389172	Gujarat	Dahod
+Dungri	389180	Gujarat	Dahod
+Fangia	389380	Gujarat	Dahod
+Fatepura	389172	Gujarat	Dahod
+Freelandganj	389160	Gujarat	Dahod
+Fulpura	389170	Gujarat	Dahod
+G P college	389151	Gujarat	Dahod
+Gamdi	389170	Gujarat	Dahod
+Gamla	389151	Gujarat	Dahod
+Gangardi	389155	Gujarat	Dahod
+Garadu	389170	Gujarat	Dahod
+Garbada	389155	Gujarat	Dahod
+Ghada	389382	Gujarat	Dahod
+Ghughas	389172	Gujarat	Dahod
+Gothib	389190	Gujarat	Dahod
+Gultora	389180	Gujarat	Dahod
+Himala	389151	Gujarat	Dahod
+Hindolia	389190	Gujarat	Dahod
+Hirola	389170	Gujarat	Dahod
+Itawa	389151	Gujarat	Dahod
+Jada Khedia	389140	Gujarat	Dahod
+Jafarpura	389170	Gujarat	Dahod
+Jalat	389151	Gujarat	Dahod
+Jambua	389155	Gujarat	Dahod
+Javesi	389190	Gujarat	Dahod
+Jekot	389151	Gujarat	Dahod
+Jesawada	389152	Gujarat	Dahod
+Jetpur	389140	Gujarat	Dahod
+Jhalod	389170	Gujarat	Dahod
+Jhunsa	389175	Gujarat	Dahod
+Juna Baria	389380	Gujarat	Dahod
+Kadval	389170	Gujarat	Dahod
+Kali Dungri	389380	Gujarat	Dahod
+Kaliarai	389180	Gujarat	Dahod
+Kaliavad	389152	Gujarat	Dahod
+Kaligamgujar	389151	Gujarat	Dahod
+Kalijini Saraswani	389170	Gujarat	Dahod
+Kamboi	389140	Gujarat	Dahod
+Kanjeta	389382	Gujarat	Dahod
+Karath	389180	Gujarat	Dahod
+Karmba	389180	Gujarat	Dahod
+Kathla	389151	Gujarat	Dahod
+Katwara	389151	Gujarat	Dahod
+Kelia	389380	Gujarat	Dahod
+Khandania	389380	Gujarat	Dahod
+Khangela	389151	Gujarat	Dahod
+Kharod	389151	Gujarat	Dahod
+Kharoda	389151	Gujarat	Dahod
+Kharsana	389170	Gujarat	Dahod
+Kharvani	389180	Gujarat	Dahod
+Khirkhai	389140	Gujarat	Dahod
+Khredi	389151	Gujarat	Dahod
+Kundha	389140	Gujarat	Dahod
+Lakhanpur	389190	Gujarat	Dahod
+Limdi	389180	Gujarat	Dahod
+Limkheda	389140	Gujarat	Dahod
+Lukhavada	389140	Gujarat	Dahod
+Machhelai	389130	Gujarat	Dahod
+Mahudi	389170	Gujarat	Dahod
+Malvasi	389180	Gujarat	Dahod
+Mander	389130	Gujarat	Dahod
+Mandli	389175	Gujarat	Dahod
+Mandor	389155	Gujarat	Dahod
+Manli	389140	Gujarat	Dahod
+Margala	389190	Gujarat	Dahod
+Matva	389152	Gujarat	Dahod
+Methan	389175	Gujarat	Dahod
+Minakyar	389155	Gujarat	Dahod
+Mira Khedi	389151	Gujarat	Dahod
+Moli	389175	Gujarat	Dahod
+Moti Khajuri	389380	Gujarat	Dahod
+Moti Kharaj	389151	Gujarat	Dahod
+Moti Nan dukan	389172	Gujarat	Dahod
+Moti Rel purv	389172	Gujarat	Dahod
+Moti Zari	389130	Gujarat	Dahod
+Mundaheda	389180	Gujarat	Dahod
+Munkhosla	389170	Gujarat	Dahod
+Muvalia	389151	Gujarat	Dahod
+Nadatod	389380	Gujarat	Dahod
+Naghrala	389151	Gujarat	Dahod
+Nakti	389380	Gujarat	Dahod
+Nalu	389382	Gujarat	Dahod
+Nandhelav	389152	Gujarat	Dahod
+Nani Dhadheli	389190	Gujarat	Dahod
+Nava Nagar	389155	Gujarat	Dahod
+Nava Vadia	389146	Gujarat	Dahod
+Navagam	389151	Gujarat	Dahod
+Nenki	389175	Gujarat	Dahod
+Nes Molara	389172	Gujarat	Dahod
+Nindka	389190	Gujarat	Dahod
+Padalia	389146	Gujarat	Dahod
+Pahad	389146	Gujarat	Dahod
+Panchela	389130	Gujarat	Dahod
+Panchvada	389155	Gujarat	Dahod
+Pandadi	389152	Gujarat	Dahod
+Pania	389140	Gujarat	Dahod
+Parathampur	389180	Gujarat	Dahod
+Patangdi	389130	Gujarat	Dahod
+Patia	389155	Gujarat	Dahod
+Pavdi	389151	Gujarat	Dahod
+Pethapur	389180	Gujarat	Dahod
+Pichhoda	389175	Gujarat	Dahod
+Pipero	389382	Gujarat	Dahod
+Piplod	389130	Gujarat	Dahod
+Pipodra	389140	Gujarat	Dahod
+Pratapgadh Khedapa	389172	Gujarat	Dahod
+Rabdal	389151	Gujarat	Dahod
+Rai	389140	Gujarat	Dahod
+Rama	389130	Gujarat	Dahod
+Randhikpur	389130	Gujarat	Dahod
+Raniyar Kanbi	389180	Gujarat	Dahod
+Rentia	389151	Gujarat	Dahod
+Rozam	389151	Gujarat	Dahod
+Rupa Kheda	389190	Gujarat	Dahod
+Ruvabari	389380	Gujarat	Dahod
+Sagdapada	389190	Gujarat	Dahod
+Sagtala	389380	Gujarat	Dahod
+Sajoi	389382	Gujarat	Dahod
+Salara	389172	Gujarat	Dahod
+Salia	389130	Gujarat	Dahod
+Sanjeli	389175	Gujarat	Dahod
+Sevania	389380	Gujarat	Dahod
+Shankarpura	389170	Gujarat	Dahod
+Simalia	389172	Gujarat	Dahod
+Simalia Khurd	389151	Gujarat	Dahod
+Simamoi	389382	Gujarat	Dahod
+Simlia	389180	Gujarat	Dahod
+Simlia Buzarg	389155	Gujarat	Dahod
+Singapur	389146	Gujarat	Dahod
+Singedi	389380	Gujarat	Dahod
+Sudia	389180	Gujarat	Dahod
+Sukhsar	389190	Gujarat	Dahod
+Sutharvansa	389180	Gujarat	Dahod
+Tanda	389151	Gujarat	Dahod
+Tandi	389180	Gujarat	Dahod
+Tarvadia Himat	389151	Gujarat	Dahod
+Tarvadia Vaja	389151	Gujarat	Dahod
+Thala	389175	Gujarat	Dahod
+Therka	389170	Gujarat	Dahod
+Tokarva	389382	Gujarat	Dahod
+Toyani	389130	Gujarat	Dahod
+Training College	389380	Gujarat	Dahod
+Uchvania	389151	Gujarat	Dahod
+Udhavada	389380	Gujarat	Dahod
+Vadbhet	389380	Gujarat	Dahod
+Vadela	389140	Gujarat	Dahod
+Vadva	389152	Gujarat	Dahod
+Vadvas	389172	Gujarat	Dahod
+Vagela	389170	Gujarat	Dahod
+Valagota	389130	Gujarat	Dahod
+Vangad	389172	Gujarat	Dahod
+Vankiya	389151	Gujarat	Dahod
+Vansia	389175	Gujarat	Dahod
+Vansia Kui	389190	Gujarat	Dahod
+Varod	389180	Gujarat	Dahod
+Ved	389382	Gujarat	Dahod
+Vejelav	389152	Gujarat	Dahod
+Velpura	389170	Gujarat	Dahod
+Virol	389380	Gujarat	Dahod
+Zab	389380	Gujarat	Dahod
+Zabu	389382	Gujarat	Dahod
+Zari Buzarg	389155	Gujarat	Dahod
+Zerjitagadh	389146	Gujarat	Dahod
+Zinzwa	389265	Gujarat

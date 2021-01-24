@@ -1,0 +1,261 @@
+Achhari	396105	Gujarat	Valsad
+Amba Jungle	396065	Gujarat	Valsad
+Amba Talat	396051	Gujarat	Valsad
+Ambach (paria)	396145	Gujarat	Valsad
+Ambheti	396191	Gujarat	Valsad
+Amdha	396126	Gujarat	Valsad
+Amli	396125	Gujarat	Valsad
+Angam	396155	Gujarat	Valsad
+Anjlav	396055	Gujarat	Valsad
+Anklash	396051	Gujarat	Valsad
+Arnai	396065	Gujarat	Valsad
+Aslona	396065	Gujarat	Valsad
+Asma	396125	Gujarat	Valsad
+Astol	396065	Gujarat	Valsad
+Asura	396050	Gujarat	Valsad
+Atak Pardi	396007	Gujarat	Valsad
+Atgam	396045	Gujarat	Valsad
+Athal	396235	Gujarat	Valsad
+Atul	396020	Gujarat	Valsad
+Avdha	396050	Gujarat	Valsad
+Babarkhadak	396126	Gujarat	Valsad
+Bagwada	396185	Gujarat	Valsad
+Balda	396125	Gujarat	Valsad
+Balitha	396191	Gujarat	Valsad
+Balohondi	396126	Gujarat	Valsad
+Bamti	396050	Gujarat	Valsad
+Barai	396145	Gujarat	Valsad
+Baroliya	396050	Gujarat	Valsad
+Barpuda	396065	Gujarat	Valsad
+Barsol	396050	Gujarat	Valsad
+Bartad	396051	Gujarat	Valsad
+Barumal	396050	Gujarat	Valsad
+Bhadeli	396030	Gujarat	Valsad
+Bhadeli Jagalala	396030	Gujarat	Valsad
+Bhagal	396385	Gujarat	Valsad
+Bhagod	396020	Gujarat	Valsad
+Bhambha	396050	Gujarat	Valsad
+Bhathi Karmbeli	396165	Gujarat	Valsad
+Bhavthan Ambosi	396051	Gujarat	Valsad
+Bhensdara	396050	Gujarat	Valsad
+Bhilad	396105	Gujarat	Valsad
+Bhutsar	396055	Gujarat	Valsad
+Bildha	396051	Gujarat	Valsad
+Bilpudi	396050	Gujarat	Valsad
+Binwada	396020	Gujarat	Valsad
+Bodlai	396055	Gujarat	Valsad
+Bopi	396051	Gujarat	Valsad
+Borigam	396235	Gujarat	Valsad
+Borlai	396105	Gujarat	Valsad
+Burla	396065	Gujarat	Valsad
+Chala	396191	Gujarat	Valsad
+Chandor	396191	Gujarat	Valsad
+Chandvegan	396065	Gujarat	Valsad
+Chanod Md	396195	Gujarat	Valsad
+Chanvai	396020	Gujarat	Valsad
+Chavshala	396065	Gujarat	Valsad
+Chepa	396065	Gujarat	Valsad
+Chharwada	396030	Gujarat	Valsad
+Chhiri	396191	Gujarat	Valsad
+Chichozar	396050	Gujarat	Valsad
+Chival	396126	Gujarat	Valsad
+Dabkhal	396065	Gujarat	Valsad
+Dehli	396105	Gujarat	Valsad
+Dehri	396170	Gujarat	Valsad
+Deli	396126	Gujarat	Valsad
+Dhamani	396050	Gujarat	Valsad
+Dhanoli	396105	Gujarat	Valsad
+Dhanori	396045	Gujarat	Valsad
+Dharampur	396050	Gujarat	Valsad
+Dharasana	396375	Gujarat	Valsad
+Dhodhadkuva	396126	Gujarat	Valsad
+Dhodipada	396130	Gujarat	Valsad
+Dholai Falia	396385	Gujarat	Valsad
+Dived	396020	Gujarat	Valsad
+Divsi	396065	Gujarat	Valsad
+Dulsad	396007	Gujarat	Valsad
+Dumlav	396145	Gujarat	Valsad
+Dungri	396375	Gujarat	Valsad
+Dungri (udava rs)	396185	Gujarat	Valsad
+Endergota	396375	Gujarat	Valsad
+Faldhara	396007	Gujarat	Valsad
+Fanaswada	396045	Gujarat	Valsad
+Gadaria	396055	Gujarat	Valsad
+Gadi	396051	Gujarat	Valsad
+Ghanveri	396065	Gujarat	Valsad
+Ghotan	396065	Gujarat	Valsad
+Girnala	396065	Gujarat	Valsad
+Goima	396145	Gujarat	Valsad
+Gorgam	396375	Gujarat	Valsad
+Gowada	396170	Gujarat	Valsad
+Gundia	396050	Gujarat	Valsad
+Hanuman Bhagda	396030	Gujarat	Valsad
+Hanumatmal	396051	Gujarat	Valsad
+Haria	396020	Gujarat	Valsad
+Jamalia	396051	Gujarat	Valsad
+Jamburi	396105	Gujarat	Valsad
+Jesia	396375	Gujarat	Valsad
+Jespore	396375	Gujarat	Valsad
+Jirval	396065	Gujarat	Valsad
+Jogvel	396126	Gujarat	Valsad
+Jujwa	396007	Gujarat	Valsad
+Kachigam	396007	Gujarat	Valsad
+Kakadkopar	396126	Gujarat	Valsad
+Kakadkuva	396065	Gujarat	Valsad
+Kakadmati	396007	Gujarat	Valsad
+Kakwadi	396385	Gujarat	Valsad
+Kalai	396105	Gujarat	Valsad
+Kalgam	396140	Gujarat	Valsad
+Kalsar	396185	Gujarat	Valsad
+Kalwada	396045	Gujarat	Valsad
+Kamparia	396055	Gujarat	Valsad
+Kanadu	396105	Gujarat	Valsad
+Kangvi	396051	Gujarat	Valsad
+Kanjan Hari	396055	Gujarat	Valsad
+Kanjan Ranchhod	396055	Gujarat	Valsad
+Kaprada	396065	Gujarat	Valsad
+Karajgam	396155	Gujarat	Valsad
+Karambeli	396105	Gujarat	Valsad
+Karambeli R.s.	396105	Gujarat	Valsad
+Karanjveri	396051	Gujarat	Valsad
+Karaya	396191	Gujarat	Valsad
+Khadakwal	396065	Gujarat	Valsad
+Khadki	396185	Gujarat	Valsad
+Khanda	396051	Gujarat	Valsad
+Khanpur	396051	Gujarat	Valsad
+Kharadpada	396235	Gujarat	Valsad
+Kharvel	396050	Gujarat	Valsad
+Khatalwada	396120	Gujarat	Valsad
+Khatana	396051	Gujarat	Valsad
+Kherlav	396145	Gujarat	Valsad
+Killa Pardi	396125	Gujarat	Valsad
+Kolak	396115	Gujarat	Valsad
+Koparli	396191	Gujarat	Valsad
+Kosamba (valsad)	396007	Gujarat	Valsad
+Kosamkuwa	396050	Gujarat	Valsad
+Kumbharia	396125	Gujarat	Valsad
+Kundi	396375	Gujarat	Valsad
+Kurgam	396007	Gujarat	Valsad
+Lakadbari	396051	Gujarat	Valsad
+Lavachha	396193	Gujarat	Valsad
+Lilapore	396030	Gujarat	Valsad
+Machhiwad	396125	Gujarat	Valsad
+Magod	396020	Gujarat	Valsad
+Magod Dungri	396020	Gujarat	Valsad
+Makadban	396050	Gujarat	Valsad
+Malav	396105	Gujarat	Valsad
+Malvan	396385	Gujarat	Valsad
+Manaichondi	396051	Gujarat	Valsad
+Manda	396155	Gujarat	Valsad
+Mandva	396065	Gujarat	Valsad
+Manekpore	396120	Gujarat	Valsad
+Marla	396055	Gujarat	Valsad
+Maroli Sanjan	396130	Gujarat	Valsad
+Meghval	396240	Gujarat	Valsad
+Meh	396020	Gujarat	Valsad
+Mohan	396105	Gujarat	Valsad
+Mohpada	396065	Gujarat	Valsad
+Morai	396191	Gujarat	Valsad
+Mota Pondha	396191	Gujarat	Valsad
+Moti Tambadi	396193	Gujarat	Valsad
+Moti Vahiyal	396065	Gujarat	Valsad
+Muli	396045	Gujarat	Valsad
+Murdad	396051	Gujarat	Valsad
+Nadagdhari	396051	Gujarat	Valsad
+Nagvas	396235	Gujarat	Valsad
+Nahuli	396105	Gujarat	Valsad
+Namdha	396191	Gujarat	Valsad
+Nanapondha	396126	Gujarat	Valsad
+Nandigam	396105	Gujarat	Valsad
+Nani Dholdungri	396051	Gujarat	Valsad
+Nani Tambadi	396193	Gujarat	Valsad
+Nanivahiyal	396065	Gujarat	Valsad
+Nargol	396135	Gujarat	Valsad
+Navera	396055	Gujarat	Valsad
+Nevri	396126	Gujarat	Valsad
+Ozar	396055	Gujarat	Valsad
+Ozarda	396065	Gujarat	Valsad
+Pachlai	396125	Gujarat	Valsad
+Palgam	396170	Gujarat	Valsad
+Pali	396105	Gujarat	Valsad
+Palsana Pardi	396185	Gujarat	Valsad
+Panas	396126	Gujarat	Valsad
+Pandor	396191	Gujarat	Valsad
+Pardi Paria	396145	Gujarat	Valsad
+Pardi R.s.	396125	Gujarat	Valsad
+Parnera (urban)	396020	Gujarat	Valsad
+Parnera Pardi	396007	Gujarat	Valsad
+Parwasa	396125	Gujarat	Valsad
+Patel Faliya	396145	Gujarat	Valsad
+Phansa	396140	Gujarat	Valsad
+Pindval	396050	Gujarat	Valsad
+Pitha	396045	Gujarat	Valsad
+Punat	396155	Gujarat	Valsad
+Rabda	396055	Gujarat	Valsad
+Rajpur Talat	396051	Gujarat	Valsad
+Rata	396191	Gujarat	Valsad
+Rohina	396145	Gujarat	Valsad
+Rola	396375	Gujarat	Valsad
+Ronvel	396055	Gujarat	Valsad
+Sahuda	396065	Gujarat	Valsad
+Salvav	396191	Gujarat	Valsad
+Samarpada	396126	Gujarat	Valsad
+Sanjan	396150	Gujarat	Valsad
+Sanjan Bandar	396150	Gujarat	Valsad
+Sarai	396130	Gujarat	Valsad
+Sarigam	396155	Gujarat	Valsad
+Sarodhi	396185	Gujarat	Valsad
+Saronda	396135	Gujarat	Valsad
+Satimal	396051	Gujarat	Valsad
+Segva	396045	Gujarat	Valsad
+Segvi	396007	Gujarat	Valsad
+Shankar Talav	396375	Gujarat	Valsad
+Shildha	396065	Gujarat	Valsad
+Sidumber	396050	Gujarat	Valsad
+Solsumba	396165	Gujarat	Valsad
+Sondhal Wada	396125	Gujarat	Valsad
+Sonwada	396375	Gujarat	Valsad
+Sukesh	396125	Gujarat	Valsad
+Sukhala	396126	Gujarat	Valsad
+Sukhlav	396125	Gujarat	Valsad
+Surwada	396007	Gujarat	Valsad
+Tadgam	396135	Gujarat	Valsad
+Tarmalia	396145	Gujarat	Valsad
+Tembhi	396150	Gujarat	Valsad
+Tighasa	396375	Gujarat	Valsad
+Tiskari	396050	Gujarat	Valsad
+Tukwada	396185	Gujarat	Valsad
+Tumb	396150	Gujarat	Valsad
+Udvada	396180	Gujarat	Valsad
+Udvada R.s.	396185	Gujarat	Valsad
+Ukta	396050	Gujarat	Valsad
+Umargam	396170	Gujarat	Valsad
+Umargam I.e.	396171	Gujarat	Valsad
+Umarsadi	396175	Gujarat	Valsad
+Untdi	396385	Gujarat	Valsad
+Vadoli	396065	Gujarat	Valsad
+Vaghaldhara	396375	Gujarat	Valsad
+Vaghchhipa	396125	Gujarat	Valsad
+Valsad	396001	Gujarat	Valsad
+Valsad - vankal	396007	Gujarat	Valsad
+Valsad Abrama	396002	Gujarat	Valsad
+Valsad Chhipwad	396001	Gujarat	Valsad
+Valsad I.e.	396035	Gujarat	Valsad
+Valsad Mograwadi	396001	Gujarat	Valsad
+Valsad Mota bazar	396001	Gujarat	Valsad
+Valsad Sugar factory	396007	Gujarat	Valsad
+Valvada	396105	Gujarat	Valsad
+Vankas	396150	Gujarat	Valsad
+Vapi	396191	Gujarat	Valsad
+Vapi I.e.	396195	Gujarat	Valsad
+Varna	396126	Gujarat	Valsad
+Varoli Talat	396126	Gujarat	Valsad
+Varvath	396065	Gujarat	Valsad
+Vasan	396375	Gujarat	Valsad
+Vatar	396191	Gujarat	Valsad
+Velparwa	396125	Gujarat	Valsad
+Velvach	396007	Gujarat	Valsad
+Veribhavada	396050	Gujarat	Valsad
+Virakset	396065	Gujarat	Valsad
+Virval	396051	Gujarat	Valsad
+Zaroli	396105	Gujarat	Valsad

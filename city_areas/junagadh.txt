@@ -1,0 +1,434 @@
+Aalidar	362720	Gujarat	Junagadh
+Achhidra	362255	Gujarat	Junagadh
+Adri	362255	Gujarat	Junagadh
+Agatrai	362222	Gujarat	Junagadh
+Ajab	362229	Gujarat	Junagadh
+Ajak	362240	Gujarat	Junagadh
+Ajotha	362268	Gujarat	Junagadh
+Akala	362150	Gujarat	Junagadh
+Akha	362222	Gujarat	Junagadh
+Akhodad So	362220	Gujarat	Junagadh
+Akolvadi	362140	Gujarat	Junagadh
+Alidhra	362260	Gujarat	Junagadh
+Ambala	362565	Gujarat	Junagadh
+Ambalia	362625	Gujarat	Junagadh
+Ambavad	362560	Gujarat	Junagadh
+Ambecha	362245	Gujarat	Junagadh
+Amblash	362150	Gujarat	Junagadh
+Ambujanagar	362715	Gujarat	Junagadh
+Amodra	362560	Gujarat	Junagadh
+Amrapur	362268	Gujarat	Junagadh
+Amrapur Gir	362245	Gujarat	Junagadh
+Anandpur	362263	Gujarat	Junagadh
+Aniala	362215	Gujarat	Junagadh
+Anjar	362510	Gujarat	Junagadh
+Antroli	362240	Gujarat	Junagadh
+Arena	362250	Gujarat	Junagadh
+Arnej	362725	Gujarat	Junagadh
+Avania	362245	Gujarat	Junagadh
+Babra Gir	362245	Gujarat	Junagadh
+Badodar	362229	Gujarat	Junagadh
+Bagasara Ghed	362620	Gujarat	Junagadh
+Bagdu	362263	Gujarat	Junagadh
+Bakula Dhanej	362150	Gujarat	Junagadh
+Balagam	362220	Gujarat	Junagadh
+Balot	362610	Gujarat	Junagadh
+Bamangadh	362030	Gujarat	Junagadh
+Bamanvada	362240	Gujarat	Junagadh
+Bamnasa Ghed	362625	Gujarat	Junagadh
+Bamnasa Gir	362140	Gujarat	Junagadh
+Bandhala	362110	Gujarat	Junagadh
+Bandharda	362565	Gujarat	Junagadh
+Bantia	362610	Gujarat	Junagadh
+Bantwa	362620	Gujarat	Junagadh
+Baradiya	362120	Gujarat	Junagadh
+Barula	362255	Gujarat	Junagadh
+Barvala Galath	362020	Gujarat	Junagadh
+Bediya	362565	Gujarat	Junagadh
+Bhacha	362560	Gujarat	Junagadh
+Bhadiyadhar	362560	Gujarat	Junagadh
+Bhalgam	365440	Gujarat	Junagadh
+Bhalpara	362268	Gujarat	Junagadh
+Bhanduri	362245	Gujarat	Junagadh
+Bhathrot	362620	Gujarat	Junagadh
+Bhatiya	362215	Gujarat	Junagadh
+Bhatsimroli	362220	Gujarat	Junagadh
+Bhesan	362020	Gujarat	Junagadh
+Bhindora	362640	Gujarat	Junagadh
+Bhiyal	362310	Gujarat	Junagadh
+Bilkha	362110	Gujarat	Junagadh
+Bodidhar	362560	Gujarat	Junagadh
+Bodka	362610	Gujarat	Junagadh
+Borvav	362150	Gujarat	Junagadh
+Budhecha	362250	Gujarat	Junagadh
+Buri	362630	Gujarat	Junagadh
+Butdi	362130	Gujarat	Junagadh
+Chanaka	362020	Gujarat	Junagadh
+Chandigadh	362220	Gujarat	Junagadh
+Chandvana	362225	Gujarat	Junagadh
+Chaparda	362120	Gujarat	Junagadh
+Char	362220	Gujarat	Junagadh
+Chhachhar	362710	Gujarat	Junagadh
+Chhara	362720	Gujarat	Junagadh
+Chhodavadi	362030	Gujarat	Junagadh
+Chikhlodra	362650	Gujarat	Junagadh
+Chiroda	362260	Gujarat	Junagadh
+Chitravad	362150	Gujarat	Junagadh
+Chitrod	362135	Gujarat	Junagadh
+Choki	362315	Gujarat	Junagadh
+Chokli	362310	Gujarat	Junagadh
+Chorvad	362250	Gujarat	Junagadh
+Chorvad Holiday home	362250	Gujarat	Junagadh
+Chorvadi	362110	Gujarat	Junagadh
+Chuda	362020	Gujarat	Junagadh
+Chudva	362640	Gujarat	Junagadh
+Chuldi	362255	Gujarat	Junagadh
+Dabhor	362266	Gujarat	Junagadh
+Dadar	362120	Gujarat	Junagadh
+Dadva	362620	Gujarat	Junagadh
+Dari	362266	Gujarat	Junagadh
+Datrana	362260	Gujarat	Junagadh
+Deda	362255	Gujarat	Junagadh
+Dedakiyal	362260	Gujarat	Junagadh
+Delvada	362510	Gujarat	Junagadh
+Deshinga	362620	Gujarat	Junagadh
+Devli	362720	Gujarat	Junagadh
+Dhamlej	362275	Gujarat	Junagadh
+Dhandhusar	362002	Gujarat	Junagadh
+Dhanfuliya	362205	Gujarat	Junagadh
+Dharigundali Juni	362020	Gujarat	Junagadh
+Dhava	362150	Gujarat	Junagadh
+Dhebar	362130	Gujarat	Junagadh
+Dhelana	362225	Gujarat	Junagadh
+Dhokadva	362565	Gujarat	Junagadh
+Dholva	362020	Gujarat	Junagadh
+Dhrabavad	362215	Gujarat	Junagadh
+Dhramanva	362150	Gujarat	Junagadh
+Divasa	362240	Gujarat	Junagadh
+Dolasa	362720	Gujarat	Junagadh
+Dolatpara	362037	Gujarat	Junagadh
+Dron	362530	Gujarat	Junagadh
+Dudhala	362245	Gujarat	Junagadh
+Dungarpur	362263	Gujarat	Junagadh
+Dungri	362610	Gujarat	Junagadh
+Fatsar	362530	Gujarat	Junagadh
+Fulka	362530	Gujarat	Junagadh
+Gabha	362150	Gujarat	Junagadh
+Gadhali	362260	Gujarat	Junagadh
+Galath	362020	Gujarat	Junagadh
+Galiavad	362037	Gujarat	Junagadh
+Galodar	362245	Gujarat	Junagadh
+Galvav	362630	Gujarat	Junagadh
+Gangda	362560	Gujarat	Junagadh
+Gangecha	362245	Gujarat	Junagadh
+Ganthila	362215	Gujarat	Junagadh
+Gelana	362227	Gujarat	Junagadh
+Ghantvad	362710	Gujarat	Junagadh
+Gharal	362550	Gujarat	Junagadh
+Ghodasan	362130	Gujarat	Junagadh
+Ghunsiya	362150	Gujarat	Junagadh
+Gir Devli	362710	Gujarat	Junagadh
+Girgadhda	362530	Gujarat	Junagadh
+Goladhar	362011	Gujarat	Junagadh
+Gorakhmadhi	362268	Gujarat	Junagadh
+Govindpara	362269	Gujarat	Junagadh
+Gundala	362263	Gujarat	Junagadh
+Gundran	362150	Gujarat	Junagadh
+Hadmatiya	362140	Gujarat	Junagadh
+Hadmatiya vishal	362030	Gujarat	Junagadh
+Hadmatiya Khajuri	362020	Gujarat	Junagadh
+Haripur	362150	Gujarat	Junagadh
+Harmadiya	362720	Gujarat	Junagadh
+Husenabad	362235	Gujarat	Junagadh
+Inaj	362269	Gujarat	Junagadh
+Indra	362640	Gujarat	Junagadh
+Intvaya	362530	Gujarat	Junagadh
+Ivnagar	362015	Gujarat	Junagadh
+Jalondhar	362245	Gujarat	Junagadh
+Jamanvada	362720	Gujarat	Junagadh
+Jambuda	362130	Gujarat	Junagadh
+Jamka	362263	Gujarat	Junagadh
+Jamvala	362530	Gujarat	Junagadh
+Jangar	362255	Gujarat	Junagadh
+Jargali	362530	Gujarat	Junagadh
+Jasadhar	362560	Gujarat	Junagadh
+Javantri	362140	Gujarat	Junagadh
+Jepur	362150	Gujarat	Junagadh
+Jetalvad	362130	Gujarat	Junagadh
+Jhalansar	362011	Gujarat	Junagadh
+Jonpur	362222	Gujarat	Junagadh
+Junagadh	362001	Gujarat	Junagadh
+Junagadh Agri campus	362001	Gujarat	Junagadh
+Junagadh Azad chowk	362001	Gujarat	Junagadh
+Junagadh Bhavnath	362004	Gujarat	Junagadh
+Junagadh Diwan chowk	362001	Gujarat	Junagadh
+Junagadh Girnar road	362001	Gujarat	Junagadh
+Junagadh Joshipura	362002	Gujarat	Junagadh
+Junagadh Mangnath road	362001	Gujarat	Junagadh
+Junagadh Ptc	362001	Gujarat	Junagadh
+Junagadh Sardarbag	362001	Gujarat	Junagadh
+Junagadh Station road	362001	Gujarat	Junagadh
+Junagadh Udyognagar	362037	Gujarat	Junagadh
+Juni Chavand	362120	Gujarat	Junagadh
+Kadaya	362245	Gujarat	Junagadh
+Kadvar	362268	Gujarat	Junagadh
+Kadvasan	362725	Gujarat	Junagadh
+Kaj	362720	Gujarat	Junagadh
+Kajardi	362560	Gujarat	Junagadh
+Kajli	362268	Gujarat	Junagadh
+Kalapan	362510	Gujarat	Junagadh
+Kalavad Gir	362130	Gujarat	Junagadh
+Kalej	362240	Gujarat	Junagadh
+Kalsari	362130	Gujarat	Junagadh
+Kalvani	362227	Gujarat	Junagadh
+Kanakia	362560	Gujarat	Junagadh
+Kandhi	362560	Gujarat	Junagadh
+Kaneri	362229	Gujarat	Junagadh
+Kanjha	362610	Gujarat	Junagadh
+Kansari	362560	Gujarat	Junagadh
+Kantol	362620	Gujarat	Junagadh
+Kariya	362030	Gujarat	Junagadh
+Kathrota	362315	Gujarat	Junagadh
+Kenedipur	362260	Gujarat	Junagadh
+Kesariya	362560	Gujarat	Junagadh
+Keshod	362220	Gujarat	Junagadh
+Keshod Aerodrome	362220	Gujarat	Junagadh
+Keshod Akshaygadh	362229	Gujarat	Junagadh
+Kevadra	362227	Gujarat	Junagadh
+Khadia	362640	Gujarat	Junagadh
+Khadpipli	362260	Gujarat	Junagadh
+Khambha Gir	362130	Gujarat	Junagadh
+Khambhaliya	362250	Gujarat	Junagadh
+Khamdhrol	362037	Gujarat	Junagadh
+Khamidana	362220	Gujarat	Junagadh
+Khandheri	362150	Gujarat	Junagadh
+Khapat	362530	Gujarat	Junagadh
+Kharachiya (v)	362030	Gujarat	Junagadh
+Khatrivada	362550	Gujarat	Junagadh
+Khera	362250	Gujarat	Junagadh
+Khijadiya	362260	Gujarat	Junagadh
+Khilavad	362530	Gujarat	Junagadh
+Khirsara Ghed	362220	Gujarat	Junagadh
+Khokharda	362215	Gujarat	Junagadh
+Khorasa Ahir	362215	Gujarat	Junagadh
+Khorasa Gir	362255	Gujarat	Junagadh
+Kindarva	362255	Gujarat	Junagadh
+Kob	362510	Gujarat	Junagadh
+Kodidra	362150	Gujarat	Junagadh
+Kodinar	362720	Gujarat	Junagadh
+Kodinar Khadudyog	362725	Gujarat	Junagadh
+Kodiya	362530	Gujarat	Junagadh
+Kodvav	362620	Gujarat	Junagadh
+Kotda	362720	Gujarat	Junagadh
+Kotda Mota	362020	Gujarat	Junagadh
+Kotharia	362630	Gujarat	Junagadh
+Kothdi	362630	Gujarat	Junagadh
+Koyali	362205	Gujarat	Junagadh
+Koylana Ghed	362630	Gujarat	Junagadh
+Kukasvada	362250	Gujarat	Junagadh
+Ladudi	362255	Gujarat	Junagadh
+Lati	362268	Gujarat	Junagadh
+Leriya	362130	Gujarat	Junagadh
+Limadhra	362120	Gujarat	Junagadh
+Limbuda	362620	Gujarat	Junagadh
+Lodhva	362275	Gujarat	Junagadh
+Loej	362225	Gujarat	Junagadh
+Lumbha	362150	Gujarat	Junagadh
+Lunghiya	365645	Gujarat	Junagadh
+Lushala	362215	Gujarat	Junagadh
+Madhupur Jambur	362150	Gujarat	Junagadh
+Magharvada	362215	Gujarat	Junagadh
+Majevadi	362011	Gujarat	Junagadh
+Makhiyala	362011	Gujarat	Junagadh
+Maktupur	362225	Gujarat	Junagadh
+Malanka	362260	Gujarat	Junagadh
+Malia Hatina	362245	Gujarat	Junagadh
+Maljinjva	362150	Gujarat	Junagadh
+Manavadar	362630	Gujarat	Junagadh
+Mandorna	362140	Gujarat	Junagadh
+Manekvada	362222	Gujarat	Junagadh
+Mangalpur	362222	Gujarat	Junagadh
+Mangnathpipli	362110	Gujarat	Junagadh
+Mangrol	362225	Gujarat	Junagadh
+Mangrol Bandar	362226	Gujarat	Junagadh
+Mankhetra	362225	Gujarat	Junagadh
+Manpur	362260	Gujarat	Junagadh
+Marmath	362620	Gujarat	Junagadh
+Matarvaniya	362245	Gujarat	Junagadh
+Matiyana	362625	Gujarat	Junagadh
+Meghpur	362610	Gujarat	Junagadh
+Mekhdi	362240	Gujarat	Junagadh
+Mendarda	362260	Gujarat	Junagadh
+Mendpara	362030	Gujarat	Junagadh
+Meswan	362227	Gujarat	Junagadh
+Miti	362620	Gujarat	Junagadh
+Mitiyaj	362720	Gujarat	Junagadh
+Mohabatpur	362205	Gujarat	Junagadh
+Monia	362120	Gujarat	Junagadh
+Moradiya	362268	Gujarat	Junagadh
+Moruka	362140	Gujarat	Junagadh
+Morvada	362720	Gujarat	Junagadh
+Mota Hadmatia	362110	Gujarat	Junagadh
+Mota Kajaliyara	362610	Gujarat	Junagadh
+Mota Samadhiyala	362565	Gujarat	Junagadh
+Motadesar	362560	Gujarat	Junagadh
+Motha	362550	Gujarat	Junagadh
+Moti Fafdi	362720	Gujarat	Junagadh
+Motidhanej	362245	Gujarat	Junagadh
+Motighansari	362220	Gujarat	Junagadh
+Motimonpari	362130	Gujarat	Junagadh
+Movana	362220	Gujarat	Junagadh
+Muldwarka	362725	Gujarat	Junagadh
+Muliyasa	362222	Gujarat	Junagadh
+Nagalpur	362263	Gujarat	Junagadh
+Nagichana	362240	Gujarat	Junagadh
+Nakra	362625	Gujarat	Junagadh
+Naliya Mandvi	362510	Gujarat	Junagadh
+Nana Samadhiyala	362565	Gujarat	Junagadh
+Nanadarkhi	362240	Gujarat	Junagadh
+Nanadia	362625	Gujarat	Junagadh
+Nanakotda	362110	Gujarat	Junagadh
+Nandarkha	362630	Gujarat	Junagadh
+Nandarkhi	362002	Gujarat	Junagadh
+Nani Monpari	362120	Gujarat	Junagadh
+Nanighansari	362220	Gujarat	Junagadh
+Nathal	362560	Gujarat	Junagadh
+Nava Bandar	362510	Gujarat	Junagadh
+Navadra	362268	Gujarat	Junagadh
+Navania	362110	Gujarat	Junagadh
+Navapipalia	362110	Gujarat	Junagadh
+Navda	362610	Gujarat	Junagadh
+Nonjanvav	362215	Gujarat	Junagadh
+Nunarda	362220	Gujarat	Junagadh
+Padodar	362220	Gujarat	Junagadh
+Pajod	362620	Gujarat	Junagadh
+Paldi	362510	Gujarat	Junagadh
+Panadar	362720	Gujarat	Junagadh
+Panchala	362220	Gujarat	Junagadh
+Panidhra	362245	Gujarat	Junagadh
+Pankhan	362227	Gujarat	Junagadh
+Parabvavdi	362020	Gujarat	Junagadh
+Patrapasar	362011	Gujarat	Junagadh
+Pedhavada	362720	Gujarat	Junagadh
+Pikhor	362268	Gujarat	Junagadh
+Pipli	362220	Gujarat	Junagadh
+Plasva	362015	Gujarat	Junagadh
+Prabhas Patan	362268	Gujarat	Junagadh
+Pranchi	362268	Gujarat	Junagadh
+Pransli	362268	Gujarat	Junagadh
+Prasnavada	362275	Gujarat	Junagadh
+Prempara	362130	Gujarat	Junagadh
+Rafalia	362020	Gujarat	Junagadh
+Rahij	362225	Gujarat	Junagadh
+Rajesar	362260	Gujarat	Junagadh
+Rakhej	362275	Gujarat	Junagadh
+Rameshwar	362110	Gujarat	Junagadh
+Rampara	362268	Gujarat	Junagadh
+Rampara Gir	362140	Gujarat	Junagadh
+Rangpur	362268	Gujarat	Junagadh
+Ranpur(s)	362030	Gujarat	Junagadh
+Rasulpara	362140	Gujarat	Junagadh
+Ratang	362120	Gujarat	Junagadh
+Ratidhar	362140	Gujarat	Junagadh
+Ravni	362002	Gujarat	Junagadh
+Ravni Kuba	362130	Gujarat	Junagadh
+Saiyad Rajpara	362550	Gujarat	Junagadh
+Sakhdavadar	362263	Gujarat	Junagadh
+Samadhiyala	362260	Gujarat	Junagadh
+Samarda	362230	Gujarat	Junagadh
+Samega	362620	Gujarat	Junagadh
+Samter	362560	Gujarat	Junagadh
+Sanakhda	362550	Gujarat	Junagadh
+Sandhnidhar	362710	Gujarat	Junagadh
+Sangodra	362150	Gujarat	Junagadh
+Sanosara	362630	Gujarat	Junagadh
+Santalpur	362610	Gujarat	Junagadh
+Sanvav	362530	Gujarat	Junagadh
+Sardargadh	362640	Gujarat	Junagadh
+Sardarpur	362020	Gujarat	Junagadh
+Sarkhadi	362720	Gujarat	Junagadh
+Sarsai	362120	Gujarat	Junagadh
+Sasan Gir	362135	Gujarat	Junagadh
+Savni	362268	Gujarat	Junagadh
+Semarvav	362150	Gujarat	Junagadh
+Shapar	365440	Gujarat	Junagadh
+Shapur(s)	362205	Gujarat	Junagadh
+Shardagram	362235	Gujarat	Junagadh
+Sharma	362230	Gujarat	Junagadh
+Sherbaug	362255	Gujarat	Junagadh
+Sherdi	362640	Gujarat	Junagadh
+Shergadh	362245	Gujarat	Junagadh
+Sheriaj	362235	Gujarat	Junagadh
+Sheriyakhan	362250	Gujarat	Junagadh
+Shil	362240	Gujarat	Junagadh
+Shobha Vadla	362020	Gujarat	Junagadh
+Siddhigram	362276	Gujarat	Junagadh
+Sidokar	362255	Gujarat	Junagadh
+Simar	362550	Gujarat	Junagadh
+Simasi	362560	Gujarat	Junagadh
+Simrolibava	362220	Gujarat	Junagadh
+Sindhaj	362710	Gujarat	Junagadh
+Singsar	362275	Gujarat	Junagadh
+Sitana	362625	Gujarat	Junagadh
+Solaj	362268	Gujarat	Junagadh
+Sonardi	362205	Gujarat	Junagadh
+Sondarda	362227	Gujarat	Junagadh
+Sukhpur	362310	Gujarat	Junagadh
+Sultanabad	362630	Gujarat	Junagadh
+Sultanpur	362225	Gujarat	Junagadh
+Surva	362140	Gujarat	Junagadh
+Sutrapada	362275	Gujarat	Junagadh
+Tad	362510	Gujarat	Junagadh
+Talala	362150	Gujarat	Junagadh
+Talodra	362240	Gujarat	Junagadh
+Tarsingda	362245	Gujarat	Junagadh
+Thanapipli	362215	Gujarat	Junagadh
+Thaniana	362640	Gujarat	Junagadh
+Thordi	362530	Gujarat	Junagadh
+Tikar	362630	Gujarat	Junagadh
+Timbavadi	362015	Gujarat	Junagadh
+Tinmas	362222	Gujarat	Junagadh
+Tobra	362268	Gujarat	Junagadh
+Toraniya	362263	Gujarat	Junagadh
+Tulsishyam	362560	Gujarat	Junagadh
+Ugla	362565	Gujarat	Junagadh
+Ukadiya	362150	Gujarat	Junagadh
+Umbari	362268	Gujarat	Junagadh
+Umej	362560	Gujarat	Junagadh
+Umrali	362020	Gujarat	Junagadh
+Una	362560	Gujarat	Junagadh
+Untvada	362560	Gujarat	Junagadh
+Vadal	362310	Gujarat	Junagadh
+Vadala	362140	Gujarat	Junagadh
+Vadala Ghed	362625	Gujarat	Junagadh
+Vadasada	360490	Gujarat	Junagadh
+Vadhavi	362002	Gujarat	Junagadh
+Vadiya	362245	Gujarat	Junagadh
+Vadla	362205	Gujarat	Junagadh
+Vadnagar	362725	Gujarat	Junagadh
+Vadodara Dodia	362255	Gujarat	Junagadh
+Vadodarazala	362275	Gujarat	Junagadh
+Vadviyala	362530	Gujarat	Junagadh
+Vankia	362560	Gujarat	Junagadh
+Vanthali(s)	362610	Gujarat	Junagadh
+Varsingpur	362560	Gujarat	Junagadh
+Vasoj	362510	Gujarat	Junagadh
+Vavarda	362560	Gujarat	Junagadh
+Vavdi	362255	Gujarat	Junagadh
+Vekari	362620	Gujarat	Junagadh
+Vekariya	362130	Gujarat	Junagadh
+Velan	362720	Gujarat	Junagadh
+Velva	362630	Gujarat	Junagadh
+Veraval	362265	Gujarat	Junagadh
+Veraval Rayon factory	362266	Gujarat	Junagadh
+Veraval Udyognagar	362269	Gujarat	Junagadh
+Vichhavad	362020	Gujarat	Junagadh
+Vijapur	362015	Gujarat	Junagadh
+Virdi	362245	Gujarat	Junagadh
+Virpur	362110	Gujarat	Junagadh
+Visanvel	362250	Gujarat	Junagadh
+Visavadar	362130	Gujarat	Junagadh
+Vithalpur	362720	Gujarat	Junagadh
+Zampodad	362610	Gujarat	Junagadh
+Zinjri	362640	Gujarat	Junagadh
+Zudvali	362530	Gujarat	Junagadh

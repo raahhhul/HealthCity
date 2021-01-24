@@ -1,0 +1,478 @@
+Adani Port	370421	Gujarat	Kachchh
+Adesar	370155	Gujarat	Kachchh
+Adhoi	370135	Gujarat	Kachchh
+Adipur	370205	Gujarat	Kachchh
+Aida	370655	Gujarat	Kachchh
+Aiyar	370605	Gujarat	Kachchh
+Akri Moti	370655	Gujarat	Kachchh
+Amaliyara	370150	Gujarat	Kachchh
+Amara	370605	Gujarat	Kachchh
+Amardi	370140	Gujarat	Kachchh
+Anandpar	370165	Gujarat	Kachchh
+Anandsar	370610	Gujarat	Kachchh
+Angiya Mota	370675	Gujarat	Kachchh
+Anjar	370110	Gujarat	Kachchh
+Antarjar	370205	Gujarat	Kachchh
+Aral Moti	370665	Gujarat	Kachchh
+Arikhana	370645	Gujarat	Kachchh
+Asambia Mota	370485	Gujarat	Kachchh
+Ashapar	370655	Gujarat	Kachchh
+Ashram Chakar	370105	Gujarat	Kachchh
+Bada	370475	Gujarat	Kachchh
+Badalpar	370145	Gujarat	Kachchh
+Badargadh	370165	Gujarat	Kachchh
+Balachod Moti	370650	Gujarat	Kachchh
+Balachod Nani	370650	Gujarat	Kachchh
+Baladia	370427	Gujarat	Kachchh
+Balapar -b	370635	Gujarat	Kachchh
+Balasar	370165	Gujarat	Kachchh
+Bambhadai	370475	Gujarat	Kachchh
+Bandhadi	370140	Gujarat	Kachchh
+Bandiya	370620	Gujarat	Kachchh
+Baniyari	370020	Gujarat	Kachchh
+Bara Mota	370660	Gujarat	Kachchh
+Baranda	370655	Gujarat	Kachchh
+Baraya	370415	Gujarat	Kachchh
+Baroi	370421	Gujarat	Kachchh
+Baug	370455	Gujarat	Kachchh
+Bayath	370475	Gujarat	Kachchh
+Bela	370165	Gujarat	Kachchh
+Ber Moti	370655	Gujarat	Kachchh
+Berachiya	370650	Gujarat	Kachchh
+Beraja	370405	Gujarat	Kachchh
+Bhachau	370140	Gujarat	Kachchh
+Bhachunda	370645	Gujarat	Kachchh
+Bhadai Moti	370465	Gujarat	Kachchh
+Bhadli	370675	Gujarat	Kachchh
+Bhadra	370625	Gujarat	Kachchh
+Bhadreshwar	370411	Gujarat	Kachchh
+Bhagadia	370001	Gujarat	Kachchh
+Bhalot	370130	Gujarat	Kachchh
+Bhanada	370645	Gujarat	Kachchh
+Bharapar	370625	Gujarat	Kachchh
+Bharasar	370030	Gujarat	Kachchh
+Bharudia	370140	Gujarat	Kachchh
+Bhavanipar	370650	Gujarat	Kachchh
+Bhimasar	370160	Gujarat	Kachchh
+Bhimasar ?	370240	Gujarat	Kachchh
+Bhinsara	370475	Gujarat	Kachchh
+Bhirandiara	370510	Gujarat	Kachchh
+Bhitara	370030	Gujarat	Kachchh
+Bhojay	370450	Gujarat	Kachchh
+Bhorara	370410	Gujarat	Kachchh
+Bhuj	370001	Gujarat	Kachchh
+Bhuj B s f camp	370015	Gujarat	Kachchh
+Bhuj Darbargadh chowk	370001	Gujarat	Kachchh
+Bhuj Din dayal nagar	370002	Gujarat	Kachchh
+Bhujodi	370020	Gujarat	Kachchh
+Bhujpur	370405	Gujarat	Kachchh
+Bhutakia	370155	Gujarat	Kachchh
+Bhuvad	370130	Gujarat	Kachchh
+Bidada	370435	Gujarat	Kachchh
+Bidar	370001	Gujarat	Kachchh
+Bitta	370635	Gujarat	Kachchh
+Bitta Valadia	370110	Gujarat	Kachchh
+Bsf Camp khavda	370510	Gujarat	Kachchh
+Budharmora	370020	Gujarat	Kachchh
+Butta	370655	Gujarat	Kachchh
+Chandia	370130	Gujarat	Kachchh
+Chandrani	370020	Gujarat	Kachchh
+Chandroda	370130	Gujarat	Kachchh
+Chapredi	370105	Gujarat	Kachchh
+Charopadi Moti	370655	Gujarat	Kachchh
+Chhadura	370655	Gujarat	Kachchh
+Chhadwara	370140	Gujarat	Kachchh
+Chhasara	370410	Gujarat	Kachchh
+Chirai	370140	Gujarat	Kachchh
+Chitrod	370145	Gujarat	Kachchh
+Chiyasar	370650	Gujarat	Kachchh
+Chobari	370140	Gujarat	Kachchh
+Chopadva	370140	Gujarat	Kachchh
+Chundi	370430	Gujarat	Kachchh
+Dabhunda	370165	Gujarat	Kachchh
+Dagara	370020	Gujarat	Kachchh
+Dahisara	370485	Gujarat	Kachchh
+Darshadi	370445	Gujarat	Kachchh
+Davri	370165	Gujarat	Kachchh
+Dayapar	370625	Gujarat	Kachchh
+Dedhiya	370450	Gujarat	Kachchh
+Depa	370435	Gujarat	Kachchh
+Desalpar (n)	370605	Gujarat	Kachchh
+Deshalpar	370405	Gujarat	Kachchh
+Deshalpar (v)	370165	Gujarat	Kachchh
+Devalia	370110	Gujarat	Kachchh
+Devisar	370665	Gujarat	Kachchh
+Devpar Gadh	370445	Gujarat	Kachchh
+Devpar Jakh	370675	Gujarat	Kachchh
+Dhamadka	370020	Gujarat	Kachchh
+Dhanavada	370650	Gujarat	Kachchh
+Dhaneti	370020	Gujarat	Kachchh
+Dhareshi	370627	Gujarat	Kachchh
+Dhavda	370675	Gujarat	Kachchh
+Dholavira	370165	Gujarat	Kachchh
+Dhoravar	370510	Gujarat	Kachchh
+Dhori	370001	Gujarat	Kachchh
+Dhrab	370421	Gujarat	Kachchh
+Dhrang	370001	Gujarat	Kachchh
+Dhrobana	370510	Gujarat	Kachchh
+Dhufi Moti	370635	Gujarat	Kachchh
+Dhunai	370485	Gujarat	Kachchh
+Dinara	370510	Gujarat	Kachchh
+Dolatpar	370625	Gujarat	Kachchh
+Don	370465	Gujarat	Kachchh
+Dudhai	370020	Gujarat	Kachchh
+Dumado	370510	Gujarat	Kachchh
+Dumara	370490	Gujarat	Kachchh
+Durgapur	370465	Gujarat	Kachchh
+Fatehgadh	370155	Gujarat	Kachchh
+Fotdi	370040	Gujarat	Kachchh
+Fulay	370655	Gujarat	Kachchh
+Fulay (chhari)	370665	Gujarat	Kachchh
+Fulra	370627	Gujarat	Kachchh
+Gadani	370625	Gujarat	Kachchh
+Gadhasisa	370445	Gujarat	Kachchh
+Gadhda (khadir)	370165	Gujarat	Kachchh
+Gadpadar	370240	Gujarat	Kachchh
+Gaduli	370627	Gujarat	Kachchh
+Gagodar	370145	Gujarat	Kachchh
+Gajod	370430	Gujarat	Kachchh
+Gandhidham	370201	Gujarat	Kachchh
+Gandhidham Industrial estate	370201	Gujarat	Kachchh
+Ganeshpar	370165	Gujarat	Kachchh
+Gedi	370165	Gujarat	Kachchh
+Gelda	370405	Gujarat	Kachchh
+Ghanithar	370155	Gujarat	Kachchh
+Gharani	370150	Gujarat	Kachchh
+Godhra	370450	Gujarat	Kachchh
+Godpar	370485	Gujarat	Kachchh
+Goniasar	370485	Gujarat	Kachchh
+Gopalpuri	370240	Gujarat	Kachchh
+Gorevali	370510	Gujarat	Kachchh
+Goyala (mokhra)	370655	Gujarat	Kachchh
+Gundala	370410	Gujarat	Kachchh
+Gundiyali	370455	Gujarat	Kachchh
+Guneri	370627	Gujarat	Kachchh
+Guvar Moti	370627	Gujarat	Kachchh
+Habay	370001	Gujarat	Kachchh
+Hajapar	370650	Gujarat	Kachchh
+Hajipir	370605	Gujarat	Kachchh
+Halapar	370450	Gujarat	Kachchh
+Halra	370135	Gujarat	Kachchh
+Hamirpar	370155	Gujarat	Kachchh
+Haripar	370625	Gujarat	Kachchh
+Hatdi	370410	Gujarat	Kachchh
+Hodka	370510	Gujarat	Kachchh
+Jadodar	370605	Gujarat	Kachchh
+Jakhau	370640	Gujarat	Kachchh
+Janan	370165	Gujarat	Kachchh
+Jangadia	370655	Gujarat	Kachchh
+Jangi	370150	Gujarat	Kachchh
+Jashapar	370655	Gujarat	Kachchh
+Jatavada	370165	Gujarat	Kachchh
+Jatavira	370665	Gujarat	Kachchh
+Javaharnagar	370020	Gujarat	Kachchh
+Jesda	370165	Gujarat	Kachchh
+Jinjay	370605	Gujarat	Kachchh
+Jiyapar	370030	Gujarat	Kachchh
+Juna	370510	Gujarat	Kachchh
+Kachchh Mandvi	370465	Gujarat	Kachchh
+Kachchh Mandvi sanjipadi	370465	Gujarat	Kachchh
+Kadia Mota	370670	Gujarat	Kachchh
+Kadia Nana	370670	Gujarat	Kachchh
+Kadol	370140	Gujarat	Kachchh
+Kakarva	370140	Gujarat	Kachchh
+Kalatalav	370660	Gujarat	Kachchh
+Kali Talawali	370105	Gujarat	Kachchh
+Kalyanpar	370165	Gujarat	Kachchh
+Kalyanpar Gadhda	370165	Gujarat	Kachchh
+Kanaiyabe	370020	Gujarat	Kachchh
+Kanakpar	370650	Gujarat	Kachchh
+Kandagara	370435	Gujarat	Kachchh
+Kanday	370650	Gujarat	Kachchh
+Kandla Free trade zone	370230	Gujarat	Kachchh
+Kandla Harbour	370210	Gujarat	Kachchh
+Kandla Port	370210	Gujarat	Kachchh
+Kanjara	370425	Gujarat	Kachchh
+Kanmer	370155	Gujarat	Kachchh
+Kanthkot	370135	Gujarat	Kachchh
+Kapaya	370415	Gujarat	Kachchh
+Karaghogha	370415	Gujarat	Kachchh
+Karodiya Mota	370450	Gujarat	Kachchh
+Kathda	370465	Gujarat	Kachchh
+Kera	370430	Gujarat	Kachchh
+Kervandh	370655	Gujarat	Kachchh
+Khambhara	370110	Gujarat	Kachchh
+Khanay	370635	Gujarat	Kachchh
+Khandek	370155	Gujarat	Kachchh
+Khari	370510	Gujarat	Kachchh
+Khari Rohar	370240	Gujarat	Kachchh
+Kharoi	370140	Gujarat	Kachchh
+Kharuva	370650	Gujarat	Kachchh
+Khavda	370510	Gujarat	Kachchh
+Khedoi	370130	Gujarat	Kachchh
+Khengarpar	370165	Gujarat	Kachchh
+Kherai	370165	Gujarat	Kachchh
+Khirsara	370620	Gujarat	Kachchh
+Khirsara (vinjhan)	370490	Gujarat	Kachchh
+Khodasar	370145	Gujarat	Kachchh
+Khokhara	370020	Gujarat	Kachchh
+Khombhadi	370670	Gujarat	Kachchh
+Kidana	370205	Gujarat	Kachchh
+Kidiyanagar	370145	Gujarat	Kachchh
+Koday	370460	Gujarat	Kachchh
+Kodki	370030	Gujarat	Kachchh
+Kojachora	370485	Gujarat	Kachchh
+Kokalia	370450	Gujarat	Kachchh
+Koriyani	370627	Gujarat	Kachchh
+Kotay	370001	Gujarat	Kachchh
+Kotda (c)	370020	Gujarat	Kachchh
+Kotda (madh)	370625	Gujarat	Kachchh
+Kotda (reha)	370105	Gujarat	Kachchh
+Kotda Roha	370030	Gujarat	Kachchh
+Kotda-n	370605	Gujarat	Kachchh
+Kotdi (m)	370450	Gujarat	Kachchh
+Kothara	370645	Gujarat	Kachchh
+Kukma	370105	Gujarat	Kachchh
+Kumbharadi	370140	Gujarat	Kachchh
+Kumbharia	370145	Gujarat	Kachchh
+Kunariya	370001	Gujarat	Kachchh
+Kunariya (k)	370510	Gujarat	Kachchh
+Kundrodi	370410	Gujarat	Kachchh
+Kuran	370510	Gujarat	Kachchh
+Kurbai	370030	Gujarat	Kachchh
+Laija	370475	Gujarat	Kachchh
+Lakadia	370145	Gujarat	Kachchh
+Lakhagadh	370155	Gujarat	Kachchh
+Lakhania	370660	Gujarat	Kachchh
+Lakhapar	370425	Gujarat	Kachchh
+Lakhiyarvira	370665	Gujarat	Kachchh
+Lakhond	370105	Gujarat	Kachchh
+Lala	370640	Gujarat	Kachchh
+Laliyana	370150	Gujarat	Kachchh
+Lathedi	370490	Gujarat	Kachchh
+Laxmipar (n)	370620	Gujarat	Kachchh
+Lodai	370001	Gujarat	Kachchh
+Lodrani	370165	Gujarat	Kachchh
+Loharia	370130	Gujarat	Kachchh
+Loria	370001	Gujarat	Kachchh
+Ludva	370445	Gujarat	Kachchh
+Luni	370410	Gujarat	Kachchh
+Madh	370625	Gujarat	Kachchh
+Madhapar	370020	Gujarat	Kachchh
+Makda	370445	Gujarat	Kachchh
+Makhel	370155	Gujarat	Kachchh
+Mamaymora	370155	Gujarat	Kachchh
+Mamuara	370020	Gujarat	Kachchh
+Manaba	370145	Gujarat	Kachchh
+Manfara	370140	Gujarat	Kachchh
+Mangvana	370030	Gujarat	Kachchh
+Manjal	370610	Gujarat	Kachchh
+Manjal ( r )	370490	Gujarat	Kachchh
+Manjal (h)	370465	Gujarat	Kachchh
+Mankuwa	370030	Gujarat	Kachchh
+Mapar	370475	Gujarat	Kachchh
+Maska	370465	Gujarat	Kachchh
+Mathada	370130	Gujarat	Kachchh
+Mathak	370205	Gujarat	Kachchh
+Mathal	370605	Gujarat	Kachchh
+Mau	370445	Gujarat	Kachchh
+Mauvana	370165	Gujarat	Kachchh
+Maye	370140	Gujarat	Kachchh
+Meghpar	370430	Gujarat	Kachchh
+Meghpar (lakhpat)	370625	Gujarat	Kachchh
+Merau	370465	Gujarat	Kachchh
+Mindhiara	370130	Gujarat	Kachchh
+Mindhiari	370627	Gujarat	Kachchh
+Mirzapar	370001	Gujarat	Kachchh
+Misariado	370510	Gujarat	Kachchh
+Mithadi	370510	Gujarat	Kachchh
+Mithi Rohar	370240	Gujarat	Kachchh
+Moda	370155	Gujarat	Kachchh
+Modvadar	370110	Gujarat	Kachchh
+Mokha	370410	Gujarat	Kachchh
+Momaymora	370445	Gujarat	Kachchh
+Mota Bandra	370105	Gujarat	Kachchh
+Mota Bhadia	370455	Gujarat	Kachchh
+Mothara	370650	Gujarat	Kachchh
+Moti Khakhar	370435	Gujarat	Kachchh
+Moti Sindhodi	370640	Gujarat	Kachchh
+Moti Sudadhro	370655	Gujarat	Kachchh
+Mudhan	370627	Gujarat	Kachchh
+Mundra	370421	Gujarat	Kachchh
+Muru	370605	Gujarat	Kachchh
+Nadapa	370020	Gujarat	Kachchh
+Nagalpar	370110	Gujarat	Kachchh
+Nagalpar (dhindh)	370465	Gujarat	Kachchh
+Nagor	370001	Gujarat	Kachchh
+Nagrecha	370450	Gujarat	Kachchh
+Nakhatrana	370615	Gujarat	Kachchh
+Naliya	370655	Gujarat	Kachchh
+Nana Angia	370675	Gujarat	Kachchh
+Nana Asambia	370485	Gujarat	Kachchh
+Nana Bhadia	370455	Gujarat	Kachchh
+Nana Laija	370475	Gujarat	Kachchh
+Nandasar	370165	Gujarat	Kachchh
+Nangia	370660	Gujarat	Kachchh
+Nani Aral	370665	Gujarat	Kachchh
+Nani Khakhar	370435	Gujarat	Kachchh
+Nara	370605	Gujarat	Kachchh
+Naranpar	370429	Gujarat	Kachchh
+Naranpar (r)	370615	Gujarat	Kachchh
+Narayan Sarovar	370627	Gujarat	Kachchh
+Naredi	370030	Gujarat	Kachchh
+Navagam	370020	Gujarat	Kachchh
+Navinal	370405	Gujarat	Kachchh
+Ner	370140	Gujarat	Kachchh
+Netra	370620	Gujarat	Kachchh
+Nilpar	370165	Gujarat	Kachchh
+Ningal	370105	Gujarat	Kachchh
+Nirona	370001	Gujarat	Kachchh
+Nundhatad	370650	Gujarat	Kachchh
+Padampar	370160	Gujarat	Kachchh
+Padana	370240	Gujarat	Kachchh
+Padhar	370105	Gujarat	Kachchh
+Palansava	370155	Gujarat	Kachchh
+Panandhro	370627	Gujarat	Kachchh
+Panchotiya	370475	Gujarat	Kachchh
+Paneli	370625	Gujarat	Kachchh
+Parjau	370640	Gujarat	Kachchh
+Patri	370425	Gujarat	Kachchh
+Pharadi	370435	Gujarat	Kachchh
+Pipar	370655	Gujarat	Kachchh
+Poladia	370450	Gujarat	Kachchh
+Praghpar	370155	Gujarat	Kachchh
+Pragpar	370415	Gujarat	Kachchh
+Pratappar	370405	Gujarat	Kachchh
+Pundi	370485	Gujarat	Kachchh
+Rahpar	370165	Gujarat	Kachchh
+Rahpar (khokhara)	370020	Gujarat	Kachchh
+Rajpar	370445	Gujarat	Kachchh
+Ramania	370405	Gujarat	Kachchh
+Rampar (abda)	370655	Gujarat	Kachchh
+Rampar (n)	370620	Gujarat	Kachchh
+Rampar (r)	370615	Gujarat	Kachchh
+Rampar (vekra)	370445	Gujarat	Kachchh
+Rampar - b	370140	Gujarat	Kachchh
+Ramvav	370165	Gujarat	Kachchh
+Rapar (gadhvali)	370645	Gujarat	Kachchh
+Rasalia	370670	Gujarat	Kachchh
+Ratadia	370465	Gujarat	Kachchh
+Ratadia (n)	370605	Gujarat	Kachchh
+Ratadiya	370410	Gujarat	Kachchh
+Ratamiya	370665	Gujarat	Kachchh
+Ratiya	370040	Gujarat	Kachchh
+Ratnal	370105	Gujarat	Kachchh
+Rav	370165	Gujarat	Kachchh
+Rava	370645	Gujarat	Kachchh
+Ravapar	370625	Gujarat	Kachchh
+Rayan Moti	370465	Gujarat	Kachchh
+Raydhanjar	370490	Gujarat	Kachchh
+Reha	370105	Gujarat	Kachchh
+Roha	370030	Gujarat	Kachchh
+Sadau	370421	Gujarat	Kachchh
+Sai	370165	Gujarat	Kachchh
+Salaya Mota	370465	Gujarat	Kachchh
+Samaghogha	370415	Gujarat	Kachchh
+Sambharai	370450	Gujarat	Kachchh
+Samkhiyali	370150	Gujarat	Kachchh
+Samtra	370040	Gujarat	Kachchh
+Sandhan	370490	Gujarat	Kachchh
+Sandhav	370645	Gujarat	Kachchh
+Sanghad	370205	Gujarat	Kachchh
+Sangnara	370675	Gujarat	Kachchh
+Sanosara	370030	Gujarat	Kachchh
+Sanva	370155	Gujarat	Kachchh
+Sany	370145	Gujarat	Kachchh
+Sanyra (j)	370610	Gujarat	Kachchh
+Sapeda	370105	Gujarat	Kachchh
+Sarli	370485	Gujarat	Kachchh
+Satapar	370110	Gujarat	Kachchh
+Selari	370165	Gujarat	Kachchh
+Sherdi	370465	Gujarat	Kachchh
+Shikara	370140	Gujarat	Kachchh
+Shirva	370465	Gujarat	Kachchh
+Shivlakha	370145	Gujarat	Kachchh
+Shyamji Krishna varma nagar	370601	Gujarat	Kachchh
+Sikarpur	370150	Gujarat	Kachchh
+Sinay	370205	Gujarat	Kachchh
+Sinugara	370110	Gujarat	Kachchh
+Siracha	370435	Gujarat	Kachchh
+Siyot	370627	Gujarat	Kachchh
+Subhashpar	370627	Gujarat	Kachchh
+Sugaria	370105	Gujarat	Kachchh
+Sujapar	370660	Gujarat	Kachchh
+Sukhpar	370040	Gujarat	Kachchh
+Sukhpar (b)	370020	Gujarat	Kachchh
+Sukhpar (s)	370655	Gujarat	Kachchh
+Sukhpar (v)	370155	Gujarat	Kachchh
+Sukhpar Roha	370030	Gujarat	Kachchh
+Sumrasar (s)	370001	Gujarat	Kachchh
+Sumrasar Jat	370030	Gujarat	Kachchh
+Suthri	370490	Gujarat	Kachchh
+Suvai	370165	Gujarat	Kachchh
+Taga	370155	Gujarat	Kachchh
+Talwana	370460	Gujarat	Kachchh
+Tappar	370110	Gujarat	Kachchh
+Tappar (s)	370425	Gujarat	Kachchh
+Tb Sanatorium	370427	Gujarat	Kachchh
+Tera	370660	Gujarat	Kachchh
+Thoriyari	370145	Gujarat	Kachchh
+Tindalva	370165	Gujarat	Kachchh
+Toda	370415	Gujarat	Kachchh
+Todiya	370670	Gujarat	Kachchh
+Trambau	370165	Gujarat	Kachchh
+Tumbadi	370435	Gujarat	Kachchh
+Tuna	370205	Gujarat	Kachchh
+Tunda	370435	Gujarat	Kachchh
+Udaynagar	370203	Gujarat	Kachchh
+Ugedi	370605	Gujarat	Kachchh
+Ukheda	370670	Gujarat	Kachchh
+Umaiya	370155	Gujarat	Kachchh
+Umrapar	370165	Gujarat	Kachchh
+Undoth	370450	Gujarat	Kachchh
+United Salt work	370210	Gujarat	Kachchh
+Ustiya	370620	Gujarat	Kachchh
+Vada	370465	Gujarat	Kachchh
+Vadadia	370490	Gujarat	Kachchh
+Vadala	370410	Gujarat	Kachchh
+Vadapadhar	370645	Gujarat	Kachchh
+Vadasar	370445	Gujarat	Kachchh
+Vadva	370445	Gujarat	Kachchh
+Vadzar	370427	Gujarat	Kachchh
+Vaghura	370410	Gujarat	Kachchh
+Valka Mota	370625	Gujarat	Kachchh
+Vallabhapar	370155	Gujarat	Kachchh
+Vallabhapar (k)	370145	Gujarat	Kachchh
+Valsara	370655	Gujarat	Kachchh
+Vamka	370135	Gujarat	Kachchh
+Vamoti Moti	370635	Gujarat	Kachchh
+Vamoti Nani	370635	Gujarat	Kachchh
+Vandh	370485	Gujarat	Kachchh
+Vandhiya	370150	Gujarat	Kachchh
+Vang	370001	Gujarat	Kachchh
+Vanki	370425	Gujarat	Kachchh
+Vanku	370645	Gujarat	Kachchh
+Vanoi	370165	Gujarat	Kachchh
+Varandi Moti	370490	Gujarat	Kachchh
+Varli	370130	Gujarat	Kachchh
+Varsamedi	370110	Gujarat	Kachchh
+Vayor	370655	Gujarat	Kachchh
+Vibhapar	370030	Gujarat	Kachchh
+Vidh	370450	Gujarat	Kachchh
+Vidi	370110	Gujarat	Kachchh
+Vigodi	370605	Gujarat	Kachchh
+Vijapasar	370140	Gujarat	Kachchh
+Vijayapar	370165	Gujarat	Kachchh
+Vinjhan	370490	Gujarat	Kachchh
+Vira	370110	Gujarat	Kachchh
+Virani	370665	Gujarat	Kachchh
+Virani (gadh)	370445	Gujarat	Kachchh
+Virani Nani	370625	Gujarat	Kachchh
+Vithon	370675	Gujarat	Kachchh
+Vondh	370140	Gujarat	Kachchh
+Vondhada	370140	Gujarat	Kachchh
+Vovar	370410	Gujarat	Kachchh
+Zarpara	370405	Gujarat	Kachchh
+Zaru	370110	Gujarat	Kachchh
+Zinkdi	370001	Gujarat	Kachchh
+Zura	370001	Gujarat	Kachchh

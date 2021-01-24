@@ -1,0 +1,325 @@
+Adadra	389341	Gujarat	Panch Mahals
+Agarwada	389115	Gujarat	Panch Mahals
+Alwa	389310	Gujarat	Panch Mahals
+Ambali	389001	Gujarat	Panch Mahals
+Amthni	389240	Gujarat	Panch Mahals
+Aniyad	389210	Gujarat	Panch Mahals
+Anjanwa	389110	Gujarat	Panch Mahals
+Ankalia	389240	Gujarat	Panch Mahals
+Antalwada	389240	Gujarat	Panch Mahals
+Arad	389350	Gujarat	Panch Mahals
+Bablia	389232	Gujarat	Panch Mahals
+Babrol	389260	Gujarat	Panch Mahals
+Bachkaria	389240	Gujarat	Panch Mahals
+Bahi	389001	Gujarat	Panch Mahals
+Bakkhar	389120	Gujarat	Panch Mahals
+Bakor	389232	Gujarat	Panch Mahals
+Bakrol	389365	Gujarat	Panch Mahals
+Bamroda	389230	Gujarat	Panch Mahals
+Bapotia	389370	Gujarat	Panch Mahals
+Baska	389350	Gujarat	Panch Mahals
+Bedhiya	389310	Gujarat	Panch Mahals
+Bhadrala	389210	Gujarat	Panch Mahals
+Bhadrod	389230	Gujarat	Panch Mahals
+Bhadroli Khurd	389320	Gujarat	Panch Mahals
+Bhalada	388270	Gujarat	Panch Mahals
+Bhalania	389340	Gujarat	Panch Mahals
+Bhamaiya	389120	Gujarat	Panch Mahals
+Bhamaria	389360	Gujarat	Panch Mahals
+Bhandoi	389115	Gujarat	Panch Mahals
+Bhilod	389341	Gujarat	Panch Mahals
+Bhuvar	389110	Gujarat	Panch Mahals
+Bodidra Buzarg	389120	Gujarat	Panch Mahals
+Bodidra Khurd	389210	Gujarat	Panch Mahals
+Bor	389380	Gujarat	Panch Mahals
+Boriavi	389210	Gujarat	Panch Mahals
+Boriya	389210	Gujarat	Panch Mahals
+Boru Bakorl	389330	Gujarat	Panch Mahals
+Borvai	389232	Gujarat	Panch Mahals
+Chalali	389341	Gujarat	Panch Mahals
+Champeli	388270	Gujarat	Panch Mahals
+Chandranagar	389360	Gujarat	Panch Mahals
+Chandrpura	389350	Gujarat	Panch Mahals
+Chapra	389360	Gujarat	Panch Mahals
+Charangam	388270	Gujarat	Panch Mahals
+Chatkabeli	389230	Gujarat	Panch Mahals
+Chelawada	389360	Gujarat	Panch Mahals
+Chhanip	389210	Gujarat	Panch Mahals
+Chhavad	389120	Gujarat	Panch Mahals
+Chhogala	389210	Gujarat	Panch Mahals
+Chitwa	389260	Gujarat	Panch Mahals
+Chori	388270	Gujarat	Panch Mahals
+Dadhalia	389250	Gujarat	Panch Mahals
+Dalwada	389210	Gujarat	Panch Mahals
+Damavav	389380	Gujarat	Panch Mahals
+Daneshwar	389365	Gujarat	Panch Mahals
+Dangaria	389115	Gujarat	Panch Mahals
+Davadra	389365	Gujarat	Panch Mahals
+Delol	389310	Gujarat	Panch Mahals
+Derol Gam	389320	Gujarat	Panch Mahals
+Derol R s	389320	Gujarat	Panch Mahals
+Dhamnod	389120	Gujarat	Panch Mahals
+Dhamod	388270	Gujarat	Panch Mahals
+Dhandhalpur	389210	Gujarat	Panch Mahals
+Dhanitra	389001	Gujarat	Panch Mahals
+Dhankuva	389360	Gujarat	Panch Mahals
+Dhanol	388713	Gujarat	Panch Mahals
+Dharapur	389220	Gujarat	Panch Mahals
+Dhesia	388270	Gujarat	Panch Mahals
+Dhingalwada	389240	Gujarat	Panch Mahals
+Dhinkva	389360	Gujarat	Panch Mahals
+Dhrola	389001	Gujarat	Panch Mahals
+Ditwas	389240	Gujarat	Panch Mahals
+Diwda Colony	389250	Gujarat	Panch Mahals
+Doli	389110	Gujarat	Panch Mahals
+Duma	389390	Gujarat	Panch Mahals
+Eral	389340	Gujarat	Panch Mahals
+Erandi	389120	Gujarat	Panch Mahals
+Farod	389365	Gujarat	Panch Mahals
+Gada	389260	Gujarat	Panch Mahals
+Gadia	389110	Gujarat	Panch Mahals
+Gamani	389365	Gujarat	Panch Mahals
+Gangadiya	389210	Gujarat	Panch Mahals
+Gangta	389230	Gujarat	Panch Mahals
+Ghansar Muvadi	389350	Gujarat	Panch Mahals
+Ghaswada	389240	Gujarat	Panch Mahals
+Ghoghmba	389365	Gujarat	Panch Mahals
+Godhar	389230	Gujarat	Panch Mahals
+Godhar( North)	389240	Gujarat	Panch Mahals
+Godhra	389001	Gujarat	Panch Mahals
+Godli	389380	Gujarat	Panch Mahals
+Gollav	389380	Gujarat	Panch Mahals
+Gothibada	389230	Gujarat	Panch Mahals
+Govindi	389001	Gujarat	Panch Mahals
+Goya Sundal	389341	Gujarat	Panch Mahals
+Gundi	389380	Gujarat	Panch Mahals
+Guneli	389220	Gujarat	Panch Mahals
+Gunesia	389341	Gujarat	Panch Mahals
+Halol	389350	Gujarat	Panch Mahals
+Hardaspur	389230	Gujarat	Panch Mahals
+Hareda	389110	Gujarat	Panch Mahals
+Harkundi	389340	Gujarat	Panch Mahals
+Hathivan	389220	Gujarat	Panch Mahals
+Haveli	389390	Gujarat	Panch Mahals
+Hirapur	389260	Gujarat	Panch Mahals
+Indral	389350	Gujarat	Panch Mahals
+Jaban	389390	Gujarat	Panch Mahals
+Jambughoda	389390	Gujarat	Panch Mahals
+Jantral	389320	Gujarat	Panch Mahals
+Janvad	389260	Gujarat	Panch Mahals
+Jepura	389360	Gujarat	Panch Mahals
+Jhara	389220	Gujarat	Panch Mahals
+Jitpura	389340	Gujarat	Panch Mahals
+Juni Dhari	388710	Gujarat	Panch Mahals
+Kadachhala	388270	Gujarat	Panch Mahals
+Kadadara	389115	Gujarat	Panch Mahals
+Kadana	389240	Gujarat	Panch Mahals
+Kajali	389265	Gujarat	Panch Mahals
+Kakachiya	389230	Gujarat	Panch Mahals
+Kakana Bhesavada	389230	Gujarat	Panch Mahals
+Kakanpur	388713	Gujarat	Panch Mahals
+Kalibel	389230	Gujarat	Panch Mahals
+Kalol	389330	Gujarat	Panch Mahals
+Kalyana	388710	Gujarat	Panch Mahals
+Kandach	389310	Gujarat	Panch Mahals
+Kanesar	389230	Gujarat	Panch Mahals
+Kanjipani	389390	Gujarat	Panch Mahals
+Kanjra	389260	Gujarat	Panch Mahals
+Kanjri	389350	Gujarat	Panch Mahals
+Kanod	389320	Gujarat	Panch Mahals
+Kanpur	389365	Gujarat	Panch Mahals
+Kanteli	389370	Gujarat	Panch Mahals
+Kantu	389380	Gujarat	Panch Mahals
+Karada	389320	Gujarat	Panch Mahals
+Karanta	389230	Gujarat	Panch Mahals
+Karoli	389341	Gujarat	Panch Mahals
+Kavali	389210	Gujarat	Panch Mahals
+Kelamul	389265	Gujarat	Panch Mahals
+Kenpur	389110	Gujarat	Panch Mahals
+Khadodi	389232	Gujarat	Panch Mahals
+Khandivav	389390	Gujarat	Panch Mahals
+Khanpur	389230	Gujarat	Panch Mahals
+Kharkhadi	389365	Gujarat	Panch Mahals
+Kharod	389365	Gujarat	Panch Mahals
+Kharol	389220	Gujarat	Panch Mahals
+Khojalvasa	389210	Gujarat	Panch Mahals
+Kidia	388270	Gujarat	Panch Mahals
+Kolvan	388270	Gujarat	Panch Mahals
+Kotha	389210	Gujarat	Panch Mahals
+Kothamba	389220	Gujarat	Panch Mahals
+Kuwazar	389115	Gujarat	Panch Mahals
+Labadadhara	389365	Gujarat	Panch Mahals
+Ladpur	389265	Gujarat	Panch Mahals
+Ladvel	389220	Gujarat	Panch Mahals
+Lakdi Poyada	388270	Gujarat	Panch Mahals
+Limadia	389230	Gujarat	Panch Mahals
+Limbhola	389250	Gujarat	Panch Mahals
+Limbodara	389230	Gujarat	Panch Mahals
+Limdi Doli	389110	Gujarat	Panch Mahals
+Limdi Timba	389232	Gujarat	Panch Mahals
+Lunawada	389230	Gujarat	Panch Mahals
+Madar	389350	Gujarat	Panch Mahals
+Madhvas	389230	Gujarat	Panch Mahals
+Maghasar	389330	Gujarat	Panch Mahals
+Mahulia	389001	Gujarat	Panch Mahals
+Makhalia	389210	Gujarat	Panch Mahals
+Malav	389310	Gujarat	Panch Mahals
+Malekpur	389230	Gujarat	Panch Mahals
+Malu	389365	Gujarat	Panch Mahals
+Malvan	389265	Gujarat	Panch Mahals
+Manchi Haveli	389360	Gujarat	Panch Mahals
+Mangliana	389210	Gujarat	Panch Mahals
+Manipur (c)	388713	Gujarat	Panch Mahals
+Masabar	389390	Gujarat	Panch Mahals
+Mataria Vadi	389120	Gujarat	Panch Mahals
+Mataria Vejam	389115	Gujarat	Panch Mahals
+Matariya Vyas	389210	Gujarat	Panch Mahals
+Medapur	389310	Gujarat	Panch Mahals
+Mehlol	389340	Gujarat	Panch Mahals
+Mekhar	389115	Gujarat	Panch Mahals
+Metral	389110	Gujarat	Panch Mahals
+Mirap	389120	Gujarat	Panch Mahals
+Mithali	389001	Gujarat	Panch Mahals
+Mojari	389120	Gujarat	Panch Mahals
+Mol	389365	Gujarat	Panch Mahals
+Mor	389210	Gujarat	Panch Mahals
+Mora	389110	Gujarat	Panch Mahals
+Morva ( rena)	389001	Gujarat	Panch Mahals
+Morva Hadaf	389115	Gujarat	Panch Mahals
+Mota Sonela	389230	Gujarat	Panch Mahals
+Motal	389001	Gujarat	Panch Mahals
+Moti Ghoda	389230	Gujarat	Panch Mahals
+Moti Kandtdi	388710	Gujarat	Panch Mahals
+Moti Sarsan	389230	Gujarat	Panch Mahals
+Moti Umaravan	389370	Gujarat	Panch Mahals
+Motikayar	389260	Gujarat	Panch Mahals
+Motipura	389350	Gujarat	Panch Mahals
+Motirath	389240	Gujarat	Panch Mahals
+Motirel(w)	389110	Gujarat	Panch Mahals
+Movasa	389230	Gujarat	Panch Mahals
+Mudavadekh	389230	Gujarat	Panch Mahals
+Munpur	389240	Gujarat	Panch Mahals
+Nada	389120	Gujarat	Panch Mahals
+Nadisar	388710	Gujarat	Panch Mahals
+Namnar	388270	Gujarat	Panch Mahals
+Nana Rajanpur	389250	Gujarat	Panch Mahals
+Nanavadadala	389230	Gujarat	Panch Mahals
+Nandarkha	389340	Gujarat	Panch Mahals
+Nandarva	389210	Gujarat	Panch Mahals
+Nani Bhugedi	389190	Gujarat	Panch Mahals
+Nani Kharsoli	389265	Gujarat	Panch Mahals
+Nanidenavad	389230	Gujarat	Panch Mahals
+Naroda	389230	Gujarat	Panch Mahals
+Narukot	389390	Gujarat	Panch Mahals
+Nasikpur	389230	Gujarat	Panch Mahals
+Natapur	389120	Gujarat	Panch Mahals
+Nathkuwa	389360	Gujarat	Panch Mahals
+Nava Muvada	389230	Gujarat	Panch Mahals
+Navagam	389110	Gujarat	Panch Mahals
+Navakuwa	389360	Gujarat	Panch Mahals
+Nesda	389320	Gujarat	Panch Mahals
+Orvada	389120	Gujarat	Panch Mahals
+Padardi	389210	Gujarat	Panch Mahals
+Padedi Ador	389260	Gujarat	Panch Mahals
+Padedi Rampur	389230	Gujarat	Panch Mahals
+Padhiyar	388713	Gujarat	Panch Mahals
+Palikhanda	389370	Gujarat	Panch Mahals
+Palla	389365	Gujarat	Panch Mahals
+Pandaravada	389232	Gujarat	Panch Mahals
+Pandhora	389365	Gujarat	Panch Mahals
+Paroli	389365	Gujarat	Panch Mahals
+Parvadi	389120	Gujarat	Panch Mahals
+Pavagadh	389360	Gujarat	Panch Mahals
+Pingli	389320	Gujarat	Panch Mahals
+Rabadia	389220	Gujarat	Panch Mahals
+Rabod	389310	Gujarat	Panch Mahals
+Rajayata	389115	Gujarat	Panch Mahals
+Rambhem Na muvada	389230	Gujarat	Panch Mahals
+Rampatel Na muvada	389230	Gujarat	Panch Mahals
+Rampur Jodka	389340	Gujarat	Panch Mahals
+Rampur Kasanpur	389115	Gujarat	Panch Mahals
+Ramshera	389350	Gujarat	Panch Mahals
+Ranijini Padedi	389230	Gujarat	Panch Mahals
+Ranjitnagar	389360	Gujarat	Panch Mahals
+Rasulpur	389120	Gujarat	Panch Mahals
+Ratanpur (r)	388713	Gujarat	Panch Mahals
+Ratanpur Kantdi	388710	Gujarat	Panch Mahals
+Ratanpura	389330	Gujarat	Panch Mahals
+Ravalia	389350	Gujarat	Panch Mahals
+Rayan Muvada	389365	Gujarat	Panch Mahals
+Rayanwadia	389360	Gujarat	Panch Mahals
+Rena	389001	Gujarat	Panch Mahals
+Rinchhia	389340	Gujarat	Panch Mahals
+Rinchhvani	389380	Gujarat	Panch Mahals
+Sagawada	389115	Gujarat	Panch Mahals
+Sajivav	389210	Gujarat	Panch Mahals
+Sajora	389341	Gujarat	Panch Mahals
+Sama	389320	Gujarat	Panch Mahals
+Samalkuva	389365	Gujarat	Panch Mahals
+Samli	389001	Gujarat	Panch Mahals
+Sampa	389001	Gujarat	Panch Mahals
+Sangavada	389260	Gujarat	Panch Mahals
+Saniada	389380	Gujarat	Panch Mahals
+Sansoli	389320	Gujarat	Panch Mahals
+Sant	389260	Gujarat	Panch Mahals
+Sant Road	389120	Gujarat	Panch Mahals
+Santrampur	389260	Gujarat	Panch Mahals
+Saraswa	389110	Gujarat	Panch Mahals
+Saraswa( North)	389240	Gujarat	Panch Mahals
+Sarsadi	389240	Gujarat	Panch Mahals
+Sarsav	389120	Gujarat	Panch Mahals
+Sat Talav	389230	Gujarat	Panch Mahals
+Sathrota	389350	Gujarat	Panch Mahals
+Satmana	389320	Gujarat	Panch Mahals
+Shamna	389230	Gujarat	Panch Mahals
+Shehera	389210	Gujarat	Panch Mahals
+Shekpur	389210	Gujarat	Panch Mahals
+Sherpura	389341	Gujarat	Panch Mahals
+Shivrajpur	389370	Gujarat	Panch Mahals
+Simalia	389341	Gujarat	Panch Mahals
+Siyal	389265	Gujarat	Panch Mahals
+Suliyat	389110	Gujarat	Panch Mahals
+Sureli	389210	Gujarat	Panch Mahals
+Surpur	389260	Gujarat	Panch Mahals
+Tadva	389210	Gujarat	Panch Mahals
+Tajpura	389350	Gujarat	Panch Mahals
+Talavdi	389370	Gujarat	Panch Mahals
+Tarkhanda	389350	Gujarat	Panch Mahals
+Thanasavli	389220	Gujarat	Panch Mahals
+Timba Gam	388710	Gujarat	Panch Mahals
+Timba Road	388710	Gujarat	Panch Mahals
+Timbla	389260	Gujarat	Panch Mahals
+Tuwa	388713	Gujarat	Panch Mahals
+Ucharpi	388270	Gujarat	Panch Mahals
+Uchet	389390	Gujarat	Panch Mahals
+Ujeti	389350	Gujarat	Panch Mahals
+Ukhreli	389260	Gujarat	Panch Mahals
+Umber	389110	Gujarat	Panch Mahals
+Undra	388270	Gujarat	Panch Mahals
+Vada Talav	389360	Gujarat	Panch Mahals
+Vadagam	389230	Gujarat	Panch Mahals
+Vadelav	389120	Gujarat	Panch Mahals
+Vadi	389001	Gujarat	Panch Mahals
+Vadina Gorda	389230	Gujarat	Panch Mahals
+Vadodar	389115	Gujarat	Panch Mahals
+Vagadiayani Andheri	389240	Gujarat	Panch Mahals
+Vaghbod	389370	Gujarat	Panch Mahals
+Vaghjipur	389120	Gujarat	Panch Mahals
+Vallavpur	389001	Gujarat	Panch Mahals
+Vandeli	389115	Gujarat	Panch Mahals
+Vania Vada gorada	389230	Gujarat	Panch Mahals
+Vanjiakhut	389260	Gujarat	Panch Mahals
+Vankadi	389110	Gujarat	Panch Mahals
+Vardhari	388270	Gujarat	Panch Mahals
+Varsda	389350	Gujarat	Panch Mahals
+Vav	389390	Gujarat	Panch Mahals
+Vavdi Buzarg	389001	Gujarat	Panch Mahals
+Vavkulli	389341	Gujarat	Panch Mahals
+Veganpur	388713	Gujarat	Panch Mahals
+Vejalpur	389340	Gujarat	Panch Mahals
+Velanvada	389240	Gujarat	Panch Mahals
+Vintoj	389350	Gujarat	Panch Mahals
+Viraniya	389230	Gujarat	Panch Mahals
+Vyasda	389340	Gujarat	Panch Mahals
+Zankharia	389360	Gujarat	Panch Mahals
+Zinzari	389365	Gujarat	Panch Mahals

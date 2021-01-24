@@ -1,0 +1,111 @@
+Abhrampara	364522	Gujarat	Amreli
+Adsang	364522	Gujarat	Amreli
+Adtala	365430	Gujarat	Amreli
+Akala	365430	Gujarat	Amreli
+Amarpur	365450	Gujarat	Amreli
+Amba	365535	Gujarat	Amreli
+Ambaradi	365630	Gujarat	Amreli
+Ambardi	365220	Gujarat	Amreli
+Ambardi J	364522	Gujarat	Amreli
+Amreli	365601	Gujarat	Amreli
+Amreli J p	365601	Gujarat	Amreli
+Amreli M p	365601	Gujarat	Amreli
+Amreli S r	365601	Gujarat	Amreli
+Amrelit R	365601	Gujarat	Amreli
+Amrpur V	365601	Gujarat	Amreli
+Amrutpur	365660	Gujarat	Amreli
+Amrutvel	364521	Gujarat	Amreli
+Anida	365635	Gujarat	Amreli
+Ankadia-nana	365620	Gujarat	Amreli
+Ansodar	365220	Gujarat	Amreli
+Arjansukh	365480	Gujarat	Amreli
+Babapur	365610	Gujarat	Amreli
+Babarkot	365540	Gujarat	Amreli
+Babra	365421	Gujarat	Amreli
+Babriyadhar	365560	Gujarat	Amreli
+Badhada	364522	Gujarat	Amreli
+Bagasra	365440	Gujarat	Amreli
+Bagoya	364522	Gujarat	Amreli
+Bagrsa Sr	365440	Gujarat	Amreli
+Balapur	365456	Gujarat	Amreli
+Balel-piparia	365460	Gujarat	Amreli
+Bambhaniya	365460	Gujarat	Amreli
+Bantva-devli	365480	Gujarat	Amreli
+Barbtana	365560	Gujarat	Amreli
+Barman-nana	365545	Gujarat	Amreli
+Barpatoli	365560	Gujarat	Amreli
+Barvala-baval	365480	Gujarat	Amreli
+Bhader	365645	Gujarat	Amreli
+Bhandaria Nana	365601	Gujarat	Amreli
+Bhandriya Mota	365610	Gujarat	Amreli
+Bordi	365640	Gujarat	Amreli
+Chadiya	365630	Gujarat	Amreli
+Chakkargadh	365601	Gujarat	Amreli
+Chakragadh	365601	Gujarat	Amreli
+Chalala	365630	Gujarat	Amreli
+Chamaradi	365410	Gujarat	Amreli
+Chandgadh	365601	Gujarat	Amreli
+Chhatadiya	365630	Gujarat	Amreli
+Chital	365620	Gujarat	Amreli
+Chrania	365480	Gujarat	Amreli
+Dadva(randal)	365460	Gujarat	Amreli
+Damnagar	365220	Gujarat	Amreli
+Dedan	365550	Gujarat	Amreli
+Devaliya	365601	Gujarat	Amreli
+Devalki	365480	Gujarat	Amreli
+Devarajiya	365630	Gujarat	Amreli
+Dhargni	365630	Gujarat	Amreli
+Dhari	365640	Gujarat	Amreli
+Dhari Sr	365640	Gujarat	Amreli
+Dungar	365565	Gujarat	Amreli
+Fatepur	365601	Gujarat	Amreli
+Gakharvalamota	365601	Gujarat	Amreli
+Gavdka	365610	Gujarat	Amreli
+Gopalgram	365632	Gujarat	Amreli
+Ingorala-2	365620	Gujarat	Amreli
+Ishavariya	365601	Gujarat	Amreli
+Jafrabad	365540	Gujarat	Amreli
+Jaliya	365616	Gujarat	Amreli
+Jangar	365455	Gujarat	Amreli
+Jasvantgadh	365620	Gujarat	Amreli
+Jira	364521	Gujarat	Amreli
+Keriyanagas	365601	Gujarat	Amreli
+Khambha	365650	Gujarat	Amreli
+Kovaya	365541	Gujarat	Amreli
+Krankach	365665	Gujarat	Amreli
+Kunkavav	365450	Gujarat	Amreli
+Lakhapadar	365460	Gujarat	Amreli
+Lalavadar	365601	Gujarat	Amreli
+Lathi	365430	Gujarat	Amreli
+Liliya	365535	Gujarat	Amreli
+Lunidhar	365460	Gujarat	Amreli
+Machyalanana	365601	Gujarat	Amreli
+Mangvapal	365601	Gujarat	Amreli
+Monpur	365620	Gujarat	Amreli
+Mota-ankadiya	365455	Gujarat	Amreli
+Motasamdhiyala	365635	Gujarat	Amreli
+Nageshri	365545	Gujarat	Amreli
+Nani-vadal	364522	Gujarat	Amreli
+Pipallag	365455	Gujarat	Amreli
+Pithvajal	365610	Gujarat	Amreli
+Rajsathli	365610	Gujarat	Amreli
+Rajula	365560	Gujarat	Amreli
+Randhiya	365620	Gujarat	Amreli
+Rangpur	365601	Gujarat	Amreli
+Sanosara	365610	Gujarat	Amreli
+Sarsiya	365660	Gujarat	Amreli
+Savar	364515	Gujarat	Amreli
+Savarkundla	364515	Gujarat	Amreli
+Sonariya	365601	Gujarat	Amreli
+Taraktalv	365610	Gujarat	Amreli
+Tarvada	365610	Gujarat	Amreli
+Thoradi	365601	Gujarat	Amreli
+Timbi	362730	Gujarat	Amreli
+Utcl Kovaya	365541	Gujarat	Amreli
+Vadera	365610	Gujarat	Amreli
+Vadia	365480	Gujarat	Amreli
+Vaghaniya	365456	Gujarat	Amreli
+Vanda	364525	Gujarat	Amreli
+Vankiya	365610	Gujarat	Amreli
+Vathalpur K	365601	Gujarat	Amreli
+Vijpadi	364530	Gujarat	Amreli

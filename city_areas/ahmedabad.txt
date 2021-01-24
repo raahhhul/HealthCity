@@ -1,0 +1,511 @@
+Abasana B.O	Ahmedabad	382120
+Adroda B.O	Ahmedabad	382220
+Adval B.O	Ahmedabad	382460
+Ahmedabad G.P.O.	Ahmedabad	380001
+Ambalia B.O	Ahmedabad	383345
+Ambaliara B.O	Ahmedabad	382225
+Ambareli B.O	Ahmedabad	382225
+Ambawadi S.O (Ahmedabad)	Ahmedabad	380006
+Ambli B.O	Ahmedabad	382463
+Ambli B.O	Ahmedabad	380058
+Amraiwadi S.O	Ahmedabad	380026
+Anandnagar S.O (Ahmedabad)	Ahmedabad	380007
+Andej B.O	Ahmedabad	382115
+Aniali ( K ) B.O	Ahmedabad	382245
+Aniali Bhimji B.O	Ahmedabad	382250
+Arnej B.O	Ahmedabad	382230
+Asalgam B.O	Ahmedabad	382150
+Asarwa Chakla S.O	Ahmedabad	380016
+Asarwa Ext South S.O	Ahmedabad	380024
+Ashoknagar B.O	Ahmedabad	382140
+Ashram Road S.O	Ahmedabad	380009
+Aslali S.O	Ahmedabad	382427
+Azad Society S.O	Ahmedabad	380015
+Badanpur B.O	Ahmedabad	382465
+Badarkha B.O	Ahmedabad	382225
+Bagad B.O	Ahmedabad	382255
+Bagodara B.O	Ahmedabad	382230
+Bajarda B.O	Ahmedabad	382460
+Bakrana B.O	Ahmedabad	382170
+Bakrol B.O	Ahmedabad	382210
+Bakrol B.O	Ahmedabad	382430
+Baldana B.O	Ahmedabad	382240
+Balsasan B.O	Ahmedabad	382145
+Bamroli B.O	Ahmedabad	382145
+Bamsara B.O	Ahmedabad	382240
+Bapunagar S.O	Ahmedabad	380024
+Bareja S.O (Ahmedabad)	Ahmedabad	382425
+Barwala Ghelasha S.O	Ahmedabad	382450
+Bavaliary B.O	Ahmedabad	382455
+Bavla Market Yard S.O	Ahmedabad	382220
+Bavla S.O	Ahmedabad	382220
+Behrampura S.O	Ahmedabad	380022
+Bela B.O	Ahmedabad	382450
+Bhadaj B.O	Ahmedabad	380060
+Bhadana B.O	Ahmedabad	382140
+Bhadiad S.O	Ahmedabad	382463
+Bhairavnath Road S.O	Ahmedabad	380028
+Bhangadh B.O	Ahmedabad	382455
+Bhankoda B.O	Ahmedabad	382140
+Bhat B.O	Ahmedabad	382210
+Bhavda B.O	Ahmedabad	382433
+Bhayla B.O	Ahmedabad	382220
+Bhojwa B.O	Ahmedabad	382150
+Bholad B.O	Ahmedabad	382230
+Bhoyani B.O	Ahmedabad	382145
+Bhurkhi B.O	Ahmedabad	382230
+Bhuvaldi B.O	Ahmedabad	382430
+Bilasia B.O	Ahmedabad	382330
+Bodakdev S.O	Ahmedabad	380054
+Bodia B.O	Ahmedabad	382245
+Bol B.O	Ahmedabad	382170
+Bopal S.O	Ahmedabad	380058
+Bordibazar Viramgam S.O	Ahmedabad	382150
+Buranpur B.O	Ahmedabad	382465
+Calico Mills S.O	Ahmedabad	380022
+Cantonment S.O	Ahmedabad	380004
+Chaloda S.O	Ahmedabad	382260
+Chandarva B.O	Ahmedabad	382255
+Chandial B.O	Ahmedabad	382433
+Chandisar B.O	Ahmedabad	382260
+Chandkheda B.O	Ahmedabad	382424
+Chandkheda Society Area S.O	Ahmedabad	382424
+Chandlodia S.O	Ahmedabad	382481
+Chandranagar B.O	Ahmedabad	382150
+Changodar S.O	Ahmedabad	382213
+Charanki B.O	Ahmedabad	382450
+Charel B.O	Ahmedabad	382110
+Chaulaj B.O	Ahmedabad	382433
+Chekhla B.O	Ahmedabad	382115
+Chhabasar B.O	Ahmedabad	382220
+Chhaniar B.O	Ahmedabad	382140
+Chharodi B.O	Ahmedabad	382170
+Chhasiana B.O	Ahmedabad	382460
+Chiada B.O	Ahmedabad	382220
+Chokdi B.O	Ahmedabad	382250
+Chuval Dangarva B.O	Ahmedabad	382145
+Civil Hospital S.O	Ahmedabad	380016
+Ctm Char Rasta S.O	Ahmedabad	380026
+D Cabin S.O	Ahmedabad	380019
+Dabhsar B.O	Ahmedabad	382120
+Dadhana B.O	Ahmedabad	382120
+Daduka B.O	Ahmedabad	382110
+Dadusar B.O	Ahmedabad	382225
+Dalod B.O	Ahmedabad	382130
+Daran B.O	Ahmedabad	382220
+Dariapur S.O (Ahmedabad)	Ahmedabad	380001
+Daslana B.O	Ahmedabad	382150
+Daxini Society S.O	Ahmedabad	380008
+Dehgamda B.O	Ahmedabad	382220
+Dekawada B.O	Ahmedabad	382120
+Delhi Gate S.O (Ahmedabad)	Ahmedabad	380004
+Deo Dholera B.O	Ahmedabad	382240
+Detroj S.O	Ahmedabad	382120
+Devaliya B.O	Ahmedabad	382245
+Devpura B.O	Ahmedabad	382140
+Devtimoti B.O	Ahmedabad	382213
+Dhakdi B.O	Ahmedabad	382150
+Dhamatvan B.O	Ahmedabad	382435
+Dhanala B.O	Ahmedabad	382465
+Dhandhuka S.O	Ahmedabad	382460
+Dhanwada B.O	Ahmedabad	382220
+Dharpipla B.O	Ahmedabad	382245
+Dhedasana B.O	Ahmedabad	382130
+Dhingada B.O	Ahmedabad	382230
+Dholera S.O	Ahmedabad	382455
+Dholi B.O	Ahmedabad	382240
+Dholka H.O	Ahmedabad	382225
+Digvijaynagar S.O	Ahmedabad	382470
+District Court S.O (Ahmedabad)	Ahmedabad	380001
+Dodar B.O	Ahmedabad	382170
+Dudheshwar Tavdipura S.O	Ahmedabad	380004
+Dumana B.O	Ahmedabad	382150
+Durgi B.O	Ahmedabad	382230
+Ellisbridge S.O	Ahmedabad	380006
+Endla B.O	Ahmedabad	382130
+Fangadi B.O	Ahmedabad	382110
+Fatepur B.O	Ahmedabad	382465
+Fatewadi B.O	Ahmedabad	382210
+Fedra S.O	Ahmedabad	382465
+Galsana B.O	Ahmedabad	382245
+Gamanpura B.O	Ahmedabad	382120
+Gamdi B.O	Ahmedabad	382435
+Gamph B.O	Ahmedabad	382465
+Gandhi Ashram S.O (Ahmedabad)	Ahmedabad	380027
+Gandhi Road S.O (Ahmedabad)	Ahmedabad	380001
+Gangad B.O	Ahmedabad	382240
+Ganol B.O	Ahmedabad	382265
+Garodia B.O	Ahmedabad	382115
+Gatrad B.O	Ahmedabad	382449
+Geratpur B.O	Ahmedabad	382435
+Ghatisana B.O	Ahmedabad	382140
+Ghatlodia S.O	Ahmedabad	380061
+Gheekanta Road S.O	Ahmedabad	380001
+Ghoda B.O	Ahmedabad	382150
+Ghodasar S.O (Ahmedabad)	Ahmedabad	380050
+Ghuma B.O	Ahmedabad	380058
+Girdharnagar S.O	Ahmedabad	380004
+Girmatha B.O	Ahmedabad	382425
+Gita Mandir Road S.O	Ahmedabad	380022
+Godhavata B.O	Ahmedabad	382255
+Godhavi S.O	Ahmedabad	382115
+Gogla B.O	Ahmedabad	382463
+Gomtipur S.O	Ahmedabad	380021
+Goraiya B.O	Ahmedabad	382150
+Goraj B.O	Ahmedabad	382110
+Gorasu B.O	Ahmedabad	382463
+Gota B.O	Ahmedabad	382481
+Gujarat University S.O	Ahmedabad	380009
+Gunda B.O	Ahmedabad	382255
+Gundi Sarvodaya Ashram B.O	Ahmedabad	382230
+Gunjala B.O	Ahmedabad	382120
+Gunjar B.O	Ahmedabad	382460
+Gyaspur B.O	Ahmedabad	382405
+Hansalpur B.O	Ahmedabad	382150
+Harniav B.O	Ahmedabad	382435
+Hathijan B.O	Ahmedabad	382445
+Hebatpur B.O	Ahmedabad	382455
+Hirapur B.O	Ahmedabad	382435
+Hirapura B.O	Ahmedabad	382150
+I E Bapunagar S.O	Ahmedabad	380024
+I I M S.O	Ahmedabad	380015
+Iawa (Vasna) B.O	Ahmedabad	382170
+Ingoli B.O	Ahmedabad	382265
+Isanpur S.O	Ahmedabad	382443
+Jagatpur B.O	Ahmedabad	382470
+Jakhada B.O	Ahmedabad	382230
+Jakwada B.O	Ahmedabad	382150
+Jalalpur Vajifa B.O	Ahmedabad	382225
+Jalampur B.O	Ahmedabad	382150
+Jalila S.O	Ahmedabad	382255
+Jalisana B.O	Ahmedabad	382120
+Jaliya B.O	Ahmedabad	382460
+Jamalpur S.O (Ahmedabad)	Ahmedabad	380001
+Jamp B.O	Ahmedabad	382110
+Jantanagar S.O	Ahmedabad	382449
+Jawahar Chowk S.O	Ahmedabad	380008
+Jawaraj B.O	Ahmedabad	382230
+Jeska B.O	Ahmedabad	382250
+Jetalpur B.O	Ahmedabad	382427
+Jholapur B.O	Ahmedabad	382170
+Jivraj Park S.O	Ahmedabad	380051
+Jodhpur Char Rasta S.O	Ahmedabad	380015
+Joshipura B.O	Ahmedabad	382150
+Juhapura S.O	Ahmedabad	380055
+Junapadhar B.O	Ahmedabad	382150
+Juval B.O	Ahmedabad	382220
+Juval Rupavati B.O	Ahmedabad	382220
+Kabir Chowk S.O	Ahmedabad	380005
+Kadipur B.O	Ahmedabad	382463
+Kadvasan B.O	Ahmedabad	382130
+Kalana B.O	Ahmedabad	382170
+Kali B.O	Ahmedabad	382470
+Kalupur Chakla S.O	Ahmedabad	380001
+Kalyangadh B.O	Ahmedabad	382240
+Kamiala B.O	Ahmedabad	382465
+Kamijala B.O	Ahmedabad	382150
+Kanbha B.O	Ahmedabad	382430
+Kaneti B.O	Ahmedabad	382110
+Kaniyel B.O	Ahmedabad	382433
+Kankravadi B.O	Ahmedabad	382150
+Kanz B.O	Ahmedabad	382140
+Karakthal B.O	Ahmedabad	382150
+Kasindra B.O	Ahmedabad	382465
+Kasindra B.O	Ahmedabad	382210
+Kathwada B.O	Ahmedabad	382430
+Kathwada Maize Product S.O	Ahmedabad	382430
+Katosan Road S.O	Ahmedabad	382145
+Kauka S.O	Ahmedabad	382265
+Kavitha B.O	Ahmedabad	382260
+Kelia Vasna B.O	Ahmedabad	382225
+Kerala B.O	Ahmedabad	382220
+Keria B.O	Ahmedabad	382245
+Kesardi B.O	Ahmedabad	382240
+Khadia S.O	Ahmedabad	380001
+Khadol B.O	Ahmedabad	382460
+Khambhada B.O	Ahmedabad	382450
+Khamidana B.O	Ahmedabad	382450
+Khandachora Dhandhuka S.O	Ahmedabad	382460
+Khanpur S.O (Ahmedabad)	Ahmedabad	380001
+Kharad B.O	Ahmedabad	382460
+Kharakuva Dholka S.O	Ahmedabad	382225
+Khas B.O	Ahmedabad	382255
+Khasta B.O	Ahmedabad	382460
+Khoda B.O	Ahmedabad	382170
+Khodiyar B.O	Ahmedabad	382421
+Khodiyarnagar S.O	Ahmedabad	382350
+Khokarnesh B.O	Ahmedabad	382245
+Khokhara Mehmadabad S.O	Ahmedabad	380008
+Khorajnanoda B.O	Ahmedabad	382170
+Khudad B.O	Ahmedabad	382150
+Khun B.O	Ahmedabad	382455
+Kocharia B.O	Ahmedabad	382220
+Kointia B.O	Ahmedabad	382140
+Kokta B.O	Ahmedabad	382150
+Kolat B.O	Ahmedabad	382210
+Koth S.O	Ahmedabad	382240
+Kothadia B.O	Ahmedabad	382460
+Krishnanagar S.O (Ahmedabad)	Ahmedabad	382345
+Kubadthal B.O	Ahmedabad	382430
+Kubernagar B A S.O	Ahmedabad	382340
+Kubernagar S.O	Ahmedabad	382340
+Kuha S.O	Ahmedabad	382433
+Kujad B.O	Ahmedabad	382430
+Kukvav B.O	Ahmedabad	382120
+Kumarkhan B.O	Ahmedabad	382150
+Kundal B.O	Ahmedabad	382450
+Kundal B.O	Ahmedabad	382110
+Kundli B.O	Ahmedabad	382245
+Kunpur B.O	Ahmedabad	382130
+Kunvar B.O	Ahmedabad	382110
+L G Hospital S.O	Ahmedabad	380008
+Lal Darwaja S.O	Ahmedabad	380001
+Lambha B.O	Ahmedabad	382405
+Lapkaman B.O	Ahmedabad	380060
+Limbadia B.O	Ahmedabad	382330
+Loliya B.O	Ahmedabad	382465
+Lothal Bhurkhi RS S.O	Ahmedabad	382230
+M D Marg S.O	Ahmedabad	380022
+Madhupura Market S.O	Ahmedabad	380004
+Madrisana B.O	Ahmedabad	382145
+Mahijada B.O	Ahmedabad	382425
+Makarba B.O	Ahmedabad	380051
+Makhiav B.O	Ahmedabad	382110
+Mandal S.O (Ahmedabad)	Ahmedabad	382130
+Manek Chowk S.O	Ahmedabad	380001
+Manekbag S.O	Ahmedabad	380015
+Maninagar S.O	Ahmedabad	380008
+Manipur B.O	Ahmedabad	382150
+Mankol B.O	Ahmedabad	382110
+Marusana B.O	Ahmedabad	382120
+Matoda B.O	Ahmedabad	382213
+Medra B.O	Ahmedabad	382330
+Meghaningar S.O	Ahmedabad	380016
+Melaj B.O	Ahmedabad	382150
+Memnagar S.O	Ahmedabad	380052
+Mingalpur B.O	Ahmedabad	382455
+Miroli B.O	Ahmedabad	382425
+Mithapur B.O	Ahmedabad	382230
+Modasar B.O	Ahmedabad	382220
+Moraiya B.O	Ahmedabad	382213
+Mota Tradia B.O	Ahmedabad	382460
+Motera B.O	Ahmedabad	380005
+Moti Kishol B.O	Ahmedabad	382110
+Moti Boru B.O	Ahmedabad	382230
+Moti Rantai B.O	Ahmedabad	382145
+Moti Vavdi B.O	Ahmedabad	382255
+Muktipur B.O	Ahmedabad	382425
+Municipal Corporation S.O	Ahmedabad	380001
+N C Market S.O	Ahmedabad	380002
+N C Mills S.O	Ahmedabad	382345
+Nadishala B.O	Ahmedabad	382120
+Nana Chiloda B.O	Ahmedabad	382330
+Nana Ubhada B.O	Ahmedabad	382130
+Nandej S.O	Ahmedabad	382435
+Nani Boru B.O	Ahmedabad	382230
+Nani Devti B.O	Ahmedabad	382220
+Nani Vavdi B.O	Ahmedabad	382245
+Nanodara B.O	Ahmedabad	382220
+Naranpura Vistar S.O	Ahmedabad	380013
+Narayannagar S.O	Ahmedabad	380007
+Naroda I E S.O	Ahmedabad	382330
+Naroda Road S.O	Ahmedabad	380025
+Naroda S A S.O	Ahmedabad	382330
+Naroda S.O	Ahmedabad	382330
+Narol S.O	Ahmedabad	382405
+Nava Vadaj S.O	Ahmedabad	380013
+Navagam B.O	Ahmedabad	382130
+Navapura B.O	Ahmedabad	382210
+Navda B.O	Ahmedabad	382450
+Navjivan S.O	Ahmedabad	380014
+Navrangpura H.O	Ahmedabad	380009
+Nayakpur B.O	Ahmedabad	382130
+Nedharad B.O	Ahmedabad	382115
+Nesda B.O	Ahmedabad	382225
+Nikol B.O	Ahmedabad	382350
+Nirnaynagar S.O	Ahmedabad	382481
+Noblenagar S.O	Ahmedabad	382340
+O N G C S.O	Ahmedabad	380005
+Ode B.O	Ahmedabad	382427
+Odhav B.O	Ahmedabad	382120
+Odhav Industrial Estate S.O	Ahmedabad	382415
+Odhav S.O	Ahmedabad	382415
+Ogan B.O	Ahmedabad	382150
+Ognaj B.O	Ahmedabad	380060
+Otaria B.O	Ahmedabad	382463
+Otaria Sarvodaya Ashram B.O	Ahmedabad	382463
+Padana B.O	Ahmedabad	382460
+Paldi Kankaj B.O	Ahmedabad	382425
+Paldi S.O (Ahmedabad)	Ahmedabad	380007
+Panar B.O	Ahmedabad	382140
+Panchham B.O	Ahmedabad	382465
+Panchhi B.O	Ahmedabad	382455
+Pandharpura B.O	Ahmedabad	382140
+Parabadi B.O	Ahmedabad	382250
+Pardhol B.O	Ahmedabad	382330
+Pasunj B.O	Ahmedabad	382430
+Pimpan B.O	Ahmedabad	382110
+Piplaj B.O	Ahmedabad	382315
+Pipli B.O	Ahmedabad	382465
+Pirana B.O	Ahmedabad	382425
+Pisawada B.O	Ahmedabad	382265
+Polarpur S.O	Ahmedabad	382250
+Polytechnic S.O (Ahmedabad)	Ahmedabad	380015
+Public Office S.O (Ahmedabad)	Ahmedabad	380016
+Rahemalpur B.O	Ahmedabad	382150
+Raikhad S.O	Ahmedabad	380001
+Railway Colony S.O (Ahmedabad)	Ahmedabad	380019
+Railwaypura S.O	Ahmedabad	380002
+Raipur S.O (Ahmedabad)	Ahmedabad	380001
+Rajoda B.O	Ahmedabad	382220
+Rajpur Gomtipur S.O	Ahmedabad	380021
+Rajpura B.O	Ahmedabad	382245
+Rakhial S.O	Ahmedabad	380023
+Rakhial Udyog Vistar S.O	Ahmedabad	380023
+Rakhiana B.O	Ahmedabad	382130
+Ramol B.O	Ahmedabad	382449
+Rampur B.O	Ahmedabad	382225
+Rampura B.O	Ahmedabad	382450
+Rampura S.O (Ahmedabad)	Ahmedabad	382140
+Ranesar B.O	Ahmedabad	382220
+Rangpur B.O	Ahmedabad	382150
+Ranip S.O	Ahmedabad	382480
+Ranoda B.O	Ahmedabad	382225
+Ranodra B.O	Ahmedabad	382433
+Ranpur S.O	Ahmedabad	382245
+Rasam B.O	Ahmedabad	382220
+Rayka B.O	Ahmedabad	382460
+Refda B.O	Ahmedabad	382255
+Rethal B.O	Ahmedabad	382110
+Revdibazar H.O	Ahmedabad	380002
+Ribadi B.O	Ahmedabad	382130
+Rohika B.O	Ahmedabad	382230
+Rojid B.O	Ahmedabad	382450
+Rojka B.O	Ahmedabad	382460
+Rudatal B.O	Ahmedabad	382120
+Rupal B.O	Ahmedabad	382220
+Rupgadh B.O	Ahmedabad	382240
+S A C S.O	Ahmedabad	380015
+S A Mills S.O	Ahmedabad	380008
+Sabarmati S.O	Ahmedabad	380005
+Sachana B.O	Ahmedabad	382150
+Sadatpura B.O	Ahmedabad	382120
+Sahij B.O	Ahmedabad	382225
+Saijpur B.O	Ahmedabad	382405
+Saijpur Bogha S.O	Ahmedabad	382345
+Saiwada B.O	Ahmedabad	382225
+Salajada B.O	Ahmedabad	382220
+Salangpur - Hanuman B.O	Ahmedabad	382450
+Salasar B.O	Ahmedabad	382245
+Sanand S.O	Ahmedabad	382110
+Sanathal B.O	Ahmedabad	382210
+Sandhida B.O	Ahmedabad	382455
+Sangasar B.O	Ahmedabad	382463
+Sangpura B.O	Ahmedabad	382120
+Sankod B.O	Ahmedabad	382220
+Sarandi B.O	Ahmedabad	382225
+Saraspur S.O	Ahmedabad	380018
+Sardarnagar S.O	Ahmedabad	382475
+Sargwala B.O	Ahmedabad	382230
+Sari B.O	Ahmedabad	382220
+Sarkhej Road S.O	Ahmedabad	380007
+Sarkhej S.O	Ahmedabad	382210
+Saroda B.O	Ahmedabad	382260
+Sarsavadi B.O	Ahmedabad	382150
+Sathal B.O	Ahmedabad	382225
+Shah Alam Roza S.O	Ahmedabad	380028
+Shahibag S.O	Ahmedabad	380004
+Shahpur B.O	Ahmedabad	382250
+Shahpur B.O	Ahmedabad	382150
+Shahpur S.O (Ahmedabad)	Ahmedabad	380004
+Shahwadi B.O	Ahmedabad	382405
+Shardanagar S.O	Ahmedabad	380007
+Shastrinagar S.O (Ahmedabad)	Ahmedabad	380013
+Shela B.O	Ahmedabad	380058
+Shela B.O	Ahmedabad	382465
+Sher B.O	Ahmedabad	382130
+Sherpura B.O	Ahmedabad	382225
+Shilaj B.O	Ahmedabad	380058
+Shivpura B.O	Ahmedabad	382140
+Shiyal B.O	Ahmedabad	382230
+Siawada B.O	Ahmedabad	382170
+Sihor B.O	Ahmedabad	382140
+Simej B.O	Ahmedabad	382265
+Sinaj B.O	Ahmedabad	382120
+Sindharej B.O	Ahmedabad	382225
+Sitapur B.O	Ahmedabad	382130
+Sobhasan B.O	Ahmedabad	382145
+Sodhi B.O	Ahmedabad	382463
+Sola B.O	Ahmedabad	380060
+Sola H B C S.O	Ahmedabad	380063
+Solgam B.O	Ahmedabad	382130
+Stadium Marg S.O	Ahmedabad	380013
+Sub Foreign S.O	Ahmedabad	380004
+Sukhrampura S.O	Ahmedabad	380023
+Sunderiana B.O	Ahmedabad	382255
+Sunvala B.O	Ahmedabad	382145
+T B Nagar S.O	Ahmedabad	382350
+Tagadi B.O	Ahmedabad	382250
+Telav B.O	Ahmedabad	382210
+Telavi B.O	Ahmedabad	382145
+Thaltej Road S.O	Ahmedabad	380054
+Thaltej S.O	Ahmedabad	380059
+Thori Mubarak B.O	Ahmedabad	382150
+Thori Thumbha B.O	Ahmedabad	382150
+Thuleta B.O	Ahmedabad	382150
+Timba B.O	Ahmedabad	382425
+Tragad B.O	Ahmedabad	382470
+Transad B.O	Ahmedabad	382225
+Trent B.O	Ahmedabad	382150
+Ughroj B.O	Ahmedabad	382120
+Ukardi B.O	Ahmedabad	382140
+Ukhlod B.O	Ahmedabad	382150
+Umrela B.O	Ahmedabad	382245
+Unchadi B.O	Ahmedabad	382250
+Undrel B.O	Ahmedabad	382433
+Upardal B.O	Ahmedabad	382110
+Utelia B.O	Ahmedabad	382230
+Vadaj S.O	Ahmedabad	380013
+Vadgas B.O	Ahmedabad	382150
+Vadhela B.O	Ahmedabad	382450
+Vadod B.O	Ahmedabad	382433
+Vagad B.O	Ahmedabad	382245
+Valdhera B.O	Ahmedabad	382225
+Valhia B.O	Ahmedabad	382450
+Valinda B.O	Ahmedabad	382463
+Vanch B.O	Ahmedabad	382449
+Vani B.O	Ahmedabad	382150
+Vanpardi B.O	Ahmedabad	382130
+Vansva B.O	Ahmedabad	382150
+Vanthal B.O	Ahmedabad	382150
+Varmor B.O	Ahmedabad	382130
+Varna B.O	Ahmedabad	382265
+Vasai B.O	Ahmedabad	382425
+Vasisthnagar S.O	Ahmedabad	380008
+Vasna (Iawa) B.O	Ahmedabad	382170
+Vasna Chacharvadi B.O	Ahmedabad	382213
+Vasna B.O	Ahmedabad	382460
+Vastral S.O	Ahmedabad	382418
+Vataman B.O	Ahmedabad	382265
+Vatva Industrial Estate S.O	Ahmedabad	382445
+Vatva S.O	Ahmedabad	382440
+Vautha B.O	Ahmedabad	382225
+Vehlal B.O	Ahmedabad	382330
+Vejalka B.O	Ahmedabad	382230
+Vejalpur B.O	Ahmedabad	380051
+Vekaria B.O	Ahmedabad	382110
+Vinchhan B.O	Ahmedabad	382120
+Vinchhiya B.O	Ahmedabad	382110
+Vinzol B.O	Ahmedabad	382445
+Vinzuvada B.O	Ahmedabad	382130
+Viramgam S.O	Ahmedabad	382150
+Virdi B.O	Ahmedabad	382265
+Virochannagar S.O	Ahmedabad	382170
+Vishalpur B.O	Ahmedabad	382210
+Vithlpura B.O	Ahmedabad	382120
+VivekanandNagar B.O	Ahmedabad	382445
+Zanu B.O	Ahmedabad	382430
+Zanzarka B.O	Ahmedabad	382460
+Zanzarva B.O	Ahmedabad	382120
+Zezra B.O	Ahmedabad	382150
+Zinzar B.O	Ahmedabad	382250

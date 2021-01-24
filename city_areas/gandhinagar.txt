@@ -1,0 +1,198 @@
+Adalaj	382421	Gujarat	Gandhi Nagar
+Adrajmoti	382640	Gujarat	Gandhi Nagar
+Ajol	382810	Gujarat	Gandhi Nagar
+Alampur	382042	Gujarat	Gandhi Nagar
+Aluva	382721	Gujarat	Gandhi Nagar
+Ambapur	382421	Gujarat	Gandhi Nagar
+Ambika Society kalol	382721	Gujarat	Gandhi Nagar
+Ambod	382845	Gujarat	Gandhi Nagar
+Amja	382735	Gujarat	Gandhi Nagar
+Amrajinamuvada	382305	Gujarat	Gandhi Nagar
+Amrapur Gram bharti	382721	Gujarat	Gandhi Nagar
+Anguthala	382305	Gujarat	Gandhi Nagar
+Anodia	382855	Gujarat	Gandhi Nagar
+Badpura	382845	Gujarat	Gandhi Nagar
+Bahiyal	382308	Gujarat	Gandhi Nagar
+Balva	382655	Gujarat	Gandhi Nagar
+Bapupura	382845	Gujarat	Gandhi Nagar
+Bardoli-koti	382305	Gujarat	Gandhi Nagar
+Baria	382308	Gujarat	Gandhi Nagar
+Basan	382355	Gujarat	Gandhi Nagar
+Bhat	382428	Gujarat	Gandhi Nagar
+Bhoyan moti	382721	Gujarat	Gandhi Nagar
+Bhoyan Rathod	382422	Gujarat	Gandhi Nagar
+Bilodra	382810	Gujarat	Gandhi Nagar
+Borisana	382721	Gujarat	Gandhi Nagar
+Boru	382845	Gujarat	Gandhi Nagar
+Chadasana	382810	Gujarat	Gandhi Nagar
+Chamla	382433	Gujarat	Gandhi Nagar
+Chandkheda	382424	Gujarat	Gandhi Nagar
+Chandkheda Society area	382424	Gujarat	Gandhi Nagar
+Chandrala	382321	Gujarat	Gandhi Nagar
+Charada	382810	Gujarat	Gandhi Nagar
+Chekhala Pagi	382321	Gujarat	Gandhi Nagar
+Chhala	382321	Gujarat	Gandhi Nagar
+Chhatral	382729	Gujarat	Gandhi Nagar
+Chiloda	382355	Gujarat	Gandhi Nagar
+Chiskari	382308	Gujarat	Gandhi Nagar
+Crpf Campus g nagar	382042	Gujarat	Gandhi Nagar
+Dabhoda	382355	Gujarat	Gandhi Nagar
+Dashela	382355	Gujarat	Gandhi Nagar
+Dehgam	382305	Gujarat	Gandhi Nagar
+Delvada	382810	Gujarat	Gandhi Nagar
+Devkaran Na muvada	382308	Gujarat	Gandhi Nagar
+Dhamasana	382740	Gujarat	Gandhi Nagar
+Dhanap	382355	Gujarat	Gandhi Nagar
+Dharisana	382315	Gujarat	Gandhi Nagar
+Dholakuva	382845	Gujarat	Gandhi Nagar
+Dingucha	382740	Gujarat	Gandhi Nagar
+Dolarana Vasna	382320	Gujarat	Gandhi Nagar
+Fatepura	382845	Gujarat	Gandhi Nagar
+Galudan	382355	Gujarat	Gandhi Nagar
+Gandhinagar	382010	Gujarat	Gandhi Nagar
+Ghamij	382308	Gujarat	Gandhi Nagar
+Giyod	382321	Gujarat	Gandhi Nagar
+Golthara	382735	Gujarat	Gandhi Nagar
+Hajipur	382721	Gujarat	Gandhi Nagar
+Halisa	382321	Gujarat	Gandhi Nagar
+Harkhji Na muvada	382305	Gujarat	Gandhi Nagar
+Harsoli	382305	Gujarat	Gandhi Nagar
+Hathijan	382308	Gujarat	Gandhi Nagar
+Hilol	382308	Gujarat	Gandhi Nagar
+Indrapura	382845	Gujarat	Gandhi Nagar
+Indroda	382007	Gujarat	Gandhi Nagar
+Isand	382721	Gujarat	Gandhi Nagar
+Isanpur-dodia	382308	Gujarat	Gandhi Nagar
+Isanpur-mota	382355	Gujarat	Gandhi Nagar
+Itadar	382845	Gujarat	Gandhi Nagar
+Jakhora	382320	Gujarat	Gandhi Nagar
+Jalia No math	382305	Gujarat	Gandhi Nagar
+Jamiyatpura	382423	Gujarat	Gandhi Nagar
+Jamla	382735	Gujarat	Gandhi Nagar
+Jaspur	382721	Gujarat	Gandhi Nagar
+Jawaharmarket Dehgam	382305	Gujarat	Gandhi Nagar
+Jethlaj	382721	Gujarat	Gandhi Nagar
+Jindva	382315	Gujarat	Gandhi Nagar
+Kadjodara	382315	Gujarat	Gandhi Nagar
+Kadodara	382305	Gujarat	Gandhi Nagar
+Kalol	382721	Gujarat	Gandhi Nagar
+Kalol Desaivada	382721	Gujarat	Gandhi Nagar
+Kalol Gandhi road	382721	Gujarat	Gandhi Nagar
+Kalol Industrial estate	382725	Gujarat	Gandhi Nagar
+Kalol Society area	382721	Gujarat	Gandhi Nagar
+Kanipur	382308	Gujarat	Gandhi Nagar
+Karoli	382305	Gujarat	Gandhi Nagar
+Kasturba Vidyalaya	382007	Gujarat	Gandhi Nagar
+Kasturinagar	382423	Gujarat	Gandhi Nagar
+Khadat	382855	Gujarat	Gandhi Nagar
+Khanpur	382315	Gujarat	Gandhi Nagar
+Kharana	382845	Gujarat	Gandhi Nagar
+Khatraj I e	382721	Gujarat	Gandhi Nagar
+Khoraj	382735	Gujarat	Gandhi Nagar
+Koba	382007	Gujarat	Gandhi Nagar
+Kolavada	382051	Gujarat	Gandhi Nagar
+Kotha	382735	Gujarat	Gandhi Nagar
+Kudasan	382421	Gujarat	Gandhi Nagar
+Lakroda	382835	Gujarat	Gandhi Nagar
+Lavad	382305	Gujarat	Gandhi Nagar
+Lavarpur	382355	Gujarat	Gandhi Nagar
+Lekawada	382042	Gujarat	Gandhi Nagar
+Lihoda	382315	Gujarat	Gandhi Nagar
+Limbodra	382721	Gujarat	Gandhi Nagar
+Lodra	382835	Gujarat	Gandhi Nagar
+Madhavgadh	382320	Gujarat	Gandhi Nagar
+Magodi	382355	Gujarat	Gandhi Nagar
+Mahudi	382855	Gujarat	Gandhi Nagar
+Manekpura	382845	Gujarat	Gandhi Nagar
+Mansa	382845	Gujarat	Gandhi Nagar
+Mansa Bazar	382845	Gujarat	Gandhi Nagar
+Masang Moti	382315	Gujarat	Gandhi Nagar
+Mokhasan	382740	Gujarat	Gandhi Nagar
+Mota Jalundra	382305	Gujarat	Gandhi Nagar
+Motipura	382308	Gujarat	Gandhi Nagar
+Mubarakpura	382721	Gujarat	Gandhi Nagar
+Nana Jalundra	382321	Gujarat	Gandhi Nagar
+Nandol	382305	Gujarat	Gandhi Nagar
+Nardipur	382735	Gujarat	Gandhi Nagar
+Navanagar	382315	Gujarat	Gandhi Nagar
+New Sachivalaya complex	382010	Gujarat	Gandhi Nagar
+Padusma	382845	Gujarat	Gandhi Nagar
+Palaj	382355	Gujarat	Gandhi Nagar
+Paliyed (veda)	382735	Gujarat	Gandhi Nagar
+Palsana	382721	Gujarat	Gandhi Nagar
+Palundra	382308	Gujarat	Gandhi Nagar
+Pansar	382740	Gujarat	Gandhi Nagar
+Parbatpura	382845	Gujarat	Gandhi Nagar
+Parsa	382845	Gujarat	Gandhi Nagar
+Patna Kuva	382315	Gujarat	Gandhi Nagar
+Pethapur	382610	Gujarat	Gandhi Nagar
+Pindarda	382610	Gujarat	Gandhi Nagar
+Piplaj	382610	Gujarat	Gandhi Nagar
+Piyaj	382721	Gujarat	Gandhi Nagar
+Por	382421	Gujarat	Gandhi Nagar
+Prantiya	382355	Gujarat	Gandhi Nagar
+Pratapnagar	382845	Gujarat	Gandhi Nagar
+Pundhara	382855	Gujarat	Gandhi Nagar
+Pundrasan	382422	Gujarat	Gandhi Nagar
+Rakhial	382315	Gujarat	Gandhi Nagar
+Rakhial Rs	382315	Gujarat	Gandhi Nagar
+Ramnagar	382721	Gujarat	Gandhi Nagar
+Randheja	382620	Gujarat	Gandhi Nagar
+Rangpur	382835	Gujarat	Gandhi Nagar
+Raysan	382007	Gujarat	Gandhi Nagar
+Ridrol	382835	Gujarat	Gandhi Nagar
+Rupal	382630	Gujarat	Gandhi Nagar
+Sadra	382320	Gujarat	Gandhi Nagar
+Sahebji Na muvada	382315	Gujarat	Gandhi Nagar
+Saij	382721	Gujarat	Gandhi Nagar
+Salki	382305	Gujarat	Gandhi Nagar
+Samau	382845	Gujarat	Gandhi Nagar
+Sametri	382315	Gujarat	Gandhi Nagar
+Sampa	382315	Gujarat	Gandhi Nagar
+Sanoda	382305	Gujarat	Gandhi Nagar
+Santej	382721	Gujarat	Gandhi Nagar
+Sardhav	382640	Gujarat	Gandhi Nagar
+Sargasan	382421	Gujarat	Gandhi Nagar
+Sector 16	382016	Gujarat	Gandhi Nagar
+Sector 17	382016	Gujarat	Gandhi Nagar
+Sector 19	382021	Gujarat	Gandhi Nagar
+Sector 21	382021	Gujarat	Gandhi Nagar
+Sector 22	382024	Gujarat	Gandhi Nagar
+Sector 23	382024	Gujarat	Gandhi Nagar
+Sector 24	382024	Gujarat	Gandhi Nagar
+Sector 28	382028	Gujarat	Gandhi Nagar
+Sector 29	382030	Gujarat	Gandhi Nagar
+Sector 30	382030	Gujarat	Gandhi Nagar
+Sector 6	382006	Gujarat	Gandhi Nagar
+Sector 7	382007	Gujarat	Gandhi Nagar
+Sector 9	382007	Gujarat	Gandhi Nagar
+Serisa	382721	Gujarat	Gandhi Nagar
+Shahpur	382355	Gujarat	Gandhi Nagar
+Shertha	382423	Gujarat	Gandhi Nagar
+Shiholi Moti	382355	Gujarat	Gandhi Nagar
+Siawada	382308	Gujarat	Gandhi Nagar
+Soja	382735	Gujarat	Gandhi Nagar
+Solaiya	382810	Gujarat	Gandhi Nagar
+Sughad	382424	Gujarat	Gandhi Nagar
+Thermal Power station	382041	Gujarat	Gandhi Nagar
+Tintoda	382422	Gujarat	Gandhi Nagar
+Udan	382315	Gujarat	Gandhi Nagar
+Unava balva	382650	Gujarat	Gandhi Nagar
+Uvarsad	382422	Gujarat	Gandhi Nagar
+Vadodara	382355	Gujarat	Gandhi Nagar
+Vadsar	382721	Gujarat	Gandhi Nagar
+Vadsar Air force	382721	Gujarat	Gandhi Nagar
+Vadvasa	382305	Gujarat	Gandhi Nagar
+Vagosana	382845	Gujarat	Gandhi Nagar
+Valad	382355	Gujarat	Gandhi Nagar
+Varsoda	382835	Gujarat	Gandhi Nagar
+Vasan	382650	Gujarat	Gandhi Nagar
+Vasna sogthi	382308	Gujarat	Gandhi Nagar
+Vasna Rathod	382305	Gujarat	Gandhi Nagar
+Vasnachaudhary	382321	Gujarat	Gandhi Nagar
+Vavol	382016	Gujarat	Gandhi Nagar
+Veda	382855	Gujarat	Gandhi Nagar
+Veda (paliyed)	382735	Gujarat	Gandhi Nagar
+Vidhansabha	382010	Gujarat	Gandhi Nagar
+Vihar	382810	Gujarat	Gandhi Nagar
+Zundal	382421	Gujarat	Gandhi Nagar

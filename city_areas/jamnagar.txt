@@ -1,0 +1,365 @@
+Aerodromme	361003	Gujarat	Jamnagar
+Aliabada	361110	Gujarat	Jamnagar
+Ambala	363655	Gujarat	Jamnagar
+Ambardi	360515	Gujarat	Jamnagar
+Ambavadi	361305	Gujarat	Jamnagar
+Amla Nana	361010	Gujarat	Jamnagar
+Amra	361006	Gujarat	Jamnagar
+Amran	363655	Gujarat	Jamnagar
+Amrapar	360490	Gujarat	Jamnagar
+Anandpur	361162	Gujarat	Jamnagar
+Arablush	361280	Gujarat	Jamnagar
+Arambhada	361345	Gujarat	Jamnagar
+Arikhana	361170	Gujarat	Jamnagar
+Arla	361160	Gujarat	Jamnagar
+Ashiavadar	361325	Gujarat	Jamnagar
+Asota Mota	361305	Gujarat	Jamnagar
+Bada	361110	Gujarat	Jamnagar
+Badanpar	361250	Gujarat	Jamnagar
+Bagadhra	360480	Gujarat	Jamnagar
+Baid	361006	Gujarat	Jamnagar
+Bajana	361305	Gujarat	Jamnagar
+Balachadi	361230	Gujarat	Jamnagar
+Balambha	361240	Gujarat	Jamnagar
+Balambhadi	361160	Gujarat	Jamnagar
+Balva	360530	Gujarat	Jamnagar
+Bamangam	360540	Gujarat	Jamnagar
+Banga	361013	Gujarat	Jamnagar
+Bankodi	361315	Gujarat	Jamnagar
+Banugar Moti	361120	Gujarat	Jamnagar
+Baradia	361335	Gujarat	Jamnagar
+Bavakhakharia	361162	Gujarat	Jamnagar
+Bedeshwar	361002	Gujarat	Jamnagar
+Bedi	361009	Gujarat	Jamnagar
+Beh	361310	Gujarat	Jamnagar
+Bela	363655	Gujarat	Jamnagar
+Beraja	361305	Gujarat	Jamnagar
+Beraja Bhalsan	361013	Gujarat	Jamnagar
+Beraja Fala	361011	Gujarat	Jamnagar
+Beraja Pasaya	361110	Gujarat	Jamnagar
+Bet	361330	Gujarat	Jamnagar
+Bhadthar	361306	Gujarat	Jamnagar
+Bhadukiya Mota	361160	Gujarat	Jamnagar
+Bhagat Khijadia	360540	Gujarat	Jamnagar
+Bhandaria	361306	Gujarat	Jamnagar
+Bhangor	360515	Gujarat	Jamnagar
+Bhankhokhri	361306	Gujarat	Jamnagar
+Bhanvad	360510	Gujarat	Jamnagar
+Bharana	361010	Gujarat	Jamnagar
+Bharatpur	360510	Gujarat	Jamnagar
+Bhatel	361305	Gujarat	Jamnagar
+Bhatia	361315	Gujarat	Jamnagar
+Bhatvadia	361315	Gujarat	Jamnagar
+Bhavabhi Khijadia	360540	Gujarat	Jamnagar
+Bhenakvad	360510	Gujarat	Jamnagar
+Bhensdad	361220	Gujarat	Jamnagar
+Bhimkata	363655	Gujarat	Jamnagar
+Bhimrana	361345	Gujarat	Jamnagar
+Bhinda	361306	Gujarat	Jamnagar
+Bhogat	361315	Gujarat	Jamnagar
+Bhojabedi	360520	Gujarat	Jamnagar
+Bhopalka	361315	Gujarat	Jamnagar
+Bodi	361160	Gujarat	Jamnagar
+Bodka	361220	Gujarat	Jamnagar
+Butavadar	360480	Gujarat	Jamnagar
+Chachlana	361320	Gujarat	Jamnagar
+Chandravada	361325	Gujarat	Jamnagar
+Changa	361012	Gujarat	Jamnagar
+Charakala	361335	Gujarat	Jamnagar
+Chavda	361130	Gujarat	Jamnagar
+Chela	361012	Gujarat	Jamnagar
+Chelabedi	361160	Gujarat	Jamnagar
+Chhapar	361306	Gujarat	Jamnagar
+Chhatar	361160	Gujarat	Jamnagar
+Chirodasang	360520	Gujarat	Jamnagar
+Chokhanda	360510	Gujarat	Jamnagar
+Chur	361306	Gujarat	Jamnagar
+Dabasang	361280	Gujarat	Jamnagar
+Dadia	361012	Gujarat	Jamnagar
+Daltungi	361280	Gujarat	Jamnagar
+Danta	361305	Gujarat	Jamnagar
+Dantrana	361305	Gujarat	Jamnagar
+Deri	360540	Gujarat	Jamnagar
+Devalia	360510	Gujarat	Jamnagar
+Devalia Targhadi	361010	Gujarat	Jamnagar
+Dharampur	361170	Gujarat	Jamnagar
+Dhaturia	361306	Gujarat	Jamnagar
+Dhebar	360510	Gujarat	Jamnagar
+Dhedhioness	360510	Gujarat	Jamnagar
+Dhichada	361009	Gujarat	Jamnagar
+Dhinki	361335	Gujarat	Jamnagar
+Dhrafa	360520	Gujarat	Jamnagar
+Dhrol	361210	Gujarat	Jamnagar
+Dhudasia	361130	Gujarat	Jamnagar
+Dhudkot	363655	Gujarat	Jamnagar
+Dhundhoraji	361160	Gujarat	Jamnagar
+Dhunia	361280	Gujarat	Jamnagar
+Dhutarpur	361130	Gujarat	Jamnagar
+Dhuvav	361120	Gujarat	Jamnagar
+Digvijay Plot	361005	Gujarat	Jamnagar
+Digvijaygram	361140	Gujarat	Jamnagar
+Dwarka	361335	Gujarat	Jamnagar
+Dwarka Town	361335	Gujarat	Jamnagar
+Fadsar	363655	Gujarat	Jamnagar
+Fagas	361160	Gujarat	Jamnagar
+Falla	361120	Gujarat	Jamnagar
+Fatsar	363655	Gujarat	Jamnagar
+Fot	360510	Gujarat	Jamnagar
+Gadhechi	361335	Gujarat	Jamnagar
+Gadu	360590	Gujarat	Jamnagar
+Gaga	361315	Gujarat	Jamnagar
+Gagva	361140	Gujarat	Jamnagar
+Gajana	361170	Gujarat	Jamnagar
+Gajedi	361220	Gujarat	Jamnagar
+Gandhavi	361315	Gujarat	Jamnagar
+Gingni	360530	Gujarat	Jamnagar
+Goinj	361310	Gujarat	Jamnagar
+Gorakhadi	360520	Gujarat	Jamnagar
+Gorana	361325	Gujarat	Jamnagar
+Govana	361170	Gujarat	Jamnagar
+Grain Market	361001	Gujarat	Jamnagar
+Gulabnagar	361007	Gujarat	Jamnagar
+Gunatitnagar	361250	Gujarat	Jamnagar
+Gunda	360510	Gujarat	Jamnagar
+Ha R.s.	361120	Gujarat	Jamnagar
+Habardi	361305	Gujarat	Jamnagar
+Hadatoda	361210	Gujarat	Jamnagar
+Hadiana	361011	Gujarat	Jamnagar
+Hajamchora	361240	Gujarat	Jamnagar
+Haripar	361170	Gujarat	Jamnagar
+Harshadpur	361012	Gujarat	Jamnagar
+Hathla	360590	Gujarat	Jamnagar
+Hothijikhadba	360530	Gujarat	Jamnagar
+Jaga	361130	Gujarat	Jamnagar
+Jaiva	361210	Gujarat	Jamnagar
+Jaliadevani	361130	Gujarat	Jamnagar
+Jam Dudhai	363655	Gujarat	Jamnagar
+Jambuda	361120	Gujarat	Jamnagar
+Jamdevalia	361320	Gujarat	Jamnagar
+Jamgadhka	361320	Gujarat	Jamnagar
+Jamjodhpur	360530	Gujarat	Jamnagar
+Jamjodhpur Darbargadh	360530	Gujarat	Jamnagar
+Jamkalyanpur	361320	Gujarat	Jamnagar
+Jamnagar	361001	Gujarat	Jamnagar
+Jampar	361320	Gujarat	Jamnagar
+Jamsar	363655	Gujarat	Jamnagar
+Jamsukhpur	360531	Gujarat	Jamnagar
+Jamwali	361160	Gujarat	Jamnagar
+Jamwanthali	361130	Gujarat	Jamnagar
+Jasapar	361162	Gujarat	Jamnagar
+Jiragadh	361220	Gujarat	Jamnagar
+Jivapar	363655	Gujarat	Jamnagar
+Jodia	361250	Gujarat	Jamnagar
+Juvangadh	361305	Gujarat	Jamnagar
+Juvanpar	361315	Gujarat	Jamnagar
+Kabarka	360515	Gujarat	Jamnagar
+Kadbal	360530	Gujarat	Jamnagar
+Kakabhai Sihan	361305	Gujarat	Jamnagar
+Kalavad	361160	Gujarat	Jamnagar
+Kalmeghda	360540	Gujarat	Jamnagar
+Kalyanpur	361335	Gujarat	Jamnagar
+Kanakpar	361306	Gujarat	Jamnagar
+Kanalush	361280	Gujarat	Jamnagar
+Kansumara	361006	Gujarat	Jamnagar
+Katkola	360531	Gujarat	Jamnagar
+Kenedi	361315	Gujarat	Jamnagar
+Kerali	363655	Gujarat	Jamnagar
+Keshiya	361250	Gujarat	Jamnagar
+Keshod	361306	Gujarat	Jamnagar
+Khadba	361170	Gujarat	Jamnagar
+Khadkhambhalia	361012	Gujarat	Jamnagar
+Khambhalia	361305	Gujarat	Jamnagar
+Khambhalia Gate	361001	Gujarat	Jamnagar
+Khambhalida Motavas	361210	Gujarat	Jamnagar
+Khandhera	361013	Gujarat	Jamnagar
+Khankharda	361315	Gujarat	Jamnagar
+Khankotda	361013	Gujarat	Jamnagar
+Kharachia	363655	Gujarat	Jamnagar
+Kharedi	360540	Gujarat	Jamnagar
+Kharva	361210	Gujarat	Jamnagar
+Khatumba	361335	Gujarat	Jamnagar
+Khijadia	361120	Gujarat	Jamnagar
+Khijdad	361320	Gujarat	Jamnagar
+Khilosh	361130	Gujarat	Jamnagar
+Khimrana	361120	Gujarat	Jamnagar
+Khirasara	361170	Gujarat	Jamnagar
+Khodiyar Colony	361006	Gujarat	Jamnagar
+Khojaberaja	361012	Gujarat	Jamnagar
+Kolva	361306	Gujarat	Jamnagar
+Kotdabavisi	360530	Gujarat	Jamnagar
+Kotha Bhadukia	361162	Gujarat	Jamnagar
+Kotharia	363655	Gujarat	Jamnagar
+Koyli	361220	Gujarat	Jamnagar
+Kunad	361250	Gujarat	Jamnagar
+Kuranga	361335	Gujarat	Jamnagar
+Laiyala	361210	Gujarat	Jamnagar
+Lakhabavad	361006	Gujarat	Jamnagar
+Lakhtar	361250	Gujarat	Jamnagar
+Lal Bunglow	361001	Gujarat	Jamnagar
+Laloi	361013	Gujarat	Jamnagar
+Lalparda	361306	Gujarat	Jamnagar
+Lalpur	361170	Gujarat	Jamnagar
+Lamba	361315	Gujarat	Jamnagar
+Latipur	361220	Gujarat	Jamnagar
+Lavadia	361012	Gujarat	Jamnagar
+Limbuda	361011	Gujarat	Jamnagar
+Machharda	361160	Gujarat	Jamnagar
+Machhlivad	361160	Gujarat	Jamnagar
+Madhapar	361240	Gujarat	Jamnagar
+Mahadevia	361315	Gujarat	Jamnagar
+Mahiki	360530	Gujarat	Jamnagar
+Majoth	361210	Gujarat	Jamnagar
+Makhakarod	360540	Gujarat	Jamnagar
+Makrani Sanosara	361160	Gujarat	Jamnagar
+Maleta	361320	Gujarat	Jamnagar
+Manamora	363655	Gujarat	Jamnagar
+Mandasan	360480	Gujarat	Jamnagar
+Mandvi Chowk	361001	Gujarat	Jamnagar
+Manekpur	361210	Gujarat	Jamnagar
+Manpar	360515	Gujarat	Jamnagar
+Masitia	361006	Gujarat	Jamnagar
+Matva	361013	Gujarat	Jamnagar
+Mavnagam	363655	Gujarat	Jamnagar
+Medical Campus	361008	Gujarat	Jamnagar
+Meghpar Titodi	361305	Gujarat	Jamnagar
+Meghpur	361220	Gujarat	Jamnagar
+Memana	361170	Gujarat	Jamnagar
+Mevasa	361315	Gujarat	Jamnagar
+Mithapur	361345	Gujarat	Jamnagar
+Moda	361110	Gujarat	Jamnagar
+Modpar	361280	Gujarat	Jamnagar
+Modpar (matva)	361013	Gujarat	Jamnagar
+Mojap	361345	Gujarat	Jamnagar
+Moridad	360540	Gujarat	Jamnagar
+Morkanda	361120	Gujarat	Jamnagar
+Morzar	360510	Gujarat	Jamnagar
+Mota Itala	361210	Gujarat	Jamnagar
+Mota Thavaria	361110	Gujarat	Jamnagar
+Mota Vagudad	361210	Gujarat	Jamnagar
+Motakalavad	360515	Gujarat	Jamnagar
+Motavadia	360515	Gujarat	Jamnagar
+Moti Khavdi	361140	Gujarat	Jamnagar
+Moti Khokhari	361306	Gujarat	Jamnagar
+Motibhalsan	361012	Gujarat	Jamnagar
+Motigop	360515	Gujarat	Jamnagar
+Motimatli	361013	Gujarat	Jamnagar
+Motivavdi	361160	Gujarat	Jamnagar
+Movan	361305	Gujarat	Jamnagar
+Mulila	361160	Gujarat	Jamnagar
+Nagadia	361325	Gujarat	Jamnagar
+Nagpur	361013	Gujarat	Jamnagar
+Nana Vadala	360540	Gujarat	Jamnagar
+Nanabhavda	361335	Gujarat	Jamnagar
+Nanakhadba	361170	Gujarat	Jamnagar
+Nanamandha	361010	Gujarat	Jamnagar
+Nandana	361315	Gujarat	Jamnagar
+Nanduri	361170	Gujarat	Jamnagar
+Nani Vavdi	361160	Gujarat	Jamnagar
+Nanibhagedi	361160	Gujarat	Jamnagar
+Napania Khijadia	361160	Gujarat	Jamnagar
+Naranpur	361012	Gujarat	Jamnagar
+Nathuvadala	361210	Gujarat	Jamnagar
+Navadra	361315	Gujarat	Jamnagar
+Navagam	361160	Gujarat	Jamnagar
+Navagam Ghed	361008	Gujarat	Jamnagar
+Navanagna	361007	Gujarat	Jamnagar
+New Super market	361001	Gujarat	Jamnagar
+Nikava	361162	Gujarat	Jamnagar
+Okha	361350	Gujarat	Jamnagar
+Okhamadhi	361335	Gujarat	Jamnagar
+Pachhtar	360510	Gujarat	Jamnagar
+Padana	361280	Gujarat	Jamnagar
+Padli	361345	Gujarat	Jamnagar
+Panch Hatdi pedal	361140	Gujarat	Jamnagar
+Panchdevda Mota	361160	Gujarat	Jamnagar
+Pancheshwar Tower chowk	361001	Gujarat	Jamnagar
+Paradva	360490	Gujarat	Jamnagar
+Pata Meghpar	361162	Gujarat	Jamnagar
+Patan	360530	Gujarat	Jamnagar
+Patel Colony	361008	Gujarat	Jamnagar
+Patelka	361320	Gujarat	Jamnagar
+Pavan Chakki	361005	Gujarat	Jamnagar
+Pindhara	361315	Gujarat	Jamnagar
+Pipar	360540	Gujarat	Jamnagar
+Pipartoda	361012	Gujarat	Jamnagar
+Pipli	361280	Gujarat	Jamnagar
+Pithad	361220	Gujarat	Jamnagar
+Pithadia	361162	Gujarat	Jamnagar
+Positra	361335	Gujarat	Jamnagar
+Rafudadnani	361170	Gujarat	Jamnagar
+Rajasthali	361160	Gujarat	Jamnagar
+Rajpara	361335	Gujarat	Jamnagar
+Rampar	361120	Gujarat	Jamnagar
+Ran	361315	Gujarat	Jamnagar
+Rangpur	361280	Gujarat	Jamnagar
+Ranjit Nagar	361005	Gujarat	Jamnagar
+Ranjitpar	361315	Gujarat	Jamnagar
+Rasangpar	361280	Gujarat	Jamnagar
+Raval	361325	Gujarat	Jamnagar
+Rentala Kalavad	360510	Gujarat	Jamnagar
+Rozda	360590	Gujarat	Jamnagar
+Rozivada	360510	Gujarat	Jamnagar
+Rupamora	360510	Gujarat	Jamnagar
+Sachana	361230	Gujarat	Jamnagar
+Sadodar	360520	Gujarat	Jamnagar
+Sai Devalia	360510	Gujarat	Jamnagar
+Salaya	361310	Gujarat	Jamnagar
+Samana	360520	Gujarat	Jamnagar
+Samor	361310	Gujarat	Jamnagar
+Sanala	361160	Gujarat	Jamnagar
+Sanosara	360515	Gujarat	Jamnagar
+Sanosari	361320	Gujarat	Jamnagar
+Sansori	360515	Gujarat	Jamnagar
+Sarmat	361006	Gujarat	Jamnagar
+Sarvania	361160	Gujarat	Jamnagar
+Satapar	361320	Gujarat	Jamnagar
+Satiya	361162	Gujarat	Jamnagar
+Shampar	361240	Gujarat	Jamnagar
+Shiva	360531	Gujarat	Jamnagar
+Sidhsar	360530	Gujarat	Jamnagar
+Sidsara	361315	Gujarat	Jamnagar
+Sikka Mahajanpada	361140	Gujarat	Jamnagar
+Sikka Tps	361141	Gujarat	Jamnagar
+Singach	361010	Gujarat	Jamnagar
+Sinhan Aher	361305	Gujarat	Jamnagar
+Sisang	361162	Gujarat	Jamnagar
+Sonardi	361305	Gujarat	Jamnagar
+Sonvadia	360515	Gujarat	Jamnagar
+Soyal	361210	Gujarat	Jamnagar
+Station Road	361001	Gujarat	Jamnagar
+Surajkaradi	361347	Gujarat	Jamnagar
+Suryavadar	361325	Gujarat	Jamnagar
+Tankaria	361320	Gujarat	Jamnagar
+Tarsai	360531	Gujarat	Jamnagar
+Theba	361120	Gujarat	Jamnagar
+Timbadi	360510	Gujarat	Jamnagar
+Toda	361160	Gujarat	Jamnagar
+Tupni	361335	Gujarat	Jamnagar
+Udyognagar	361004	Gujarat	Jamnagar
+Umrala	361160	Gujarat	Jamnagar
+Untbet Shampar	363655	Gujarat	Jamnagar
+Vachalabara	361310	Gujarat	Jamnagar
+Vadala Moti metana	361162	Gujarat	Jamnagar
+Vadala Sethna	360520	Gujarat	Jamnagar
+Vadalia Sinhan	361305	Gujarat	Jamnagar
+Vadatra	361305	Gujarat	Jamnagar
+Vadinar	361010	Gujarat	Jamnagar
+Vadpanchasara	361012	Gujarat	Jamnagar
+Valasan	360480	Gujarat	Jamnagar
+Valsura	361150	Gujarat	Jamnagar
+Vanavad	360530	Gujarat	Jamnagar
+Vankiya	361210	Gujarat	Jamnagar
+Vansjalia	360531	Gujarat	Jamnagar
+Varna	361130	Gujarat	Jamnagar
+Varvala	361335	Gujarat	Jamnagar
+Vasai	361335	Gujarat	Jamnagar
+Vasantpur	360530	Gujarat	Jamnagar
+Verad	360515	Gujarat	Jamnagar
+Veratia	361130	Gujarat	Jamnagar
+Veraval Moti	361012	Gujarat	Jamnagar
+Vibhapar	361007	Gujarat	Jamnagar
+Vinzalpar	361306	Gujarat	Jamnagar
+Viramdad	361305	Gujarat	Jamnagar
+Zakhar	361010	Gujarat	Jamnagar
+Zinvari	360515	Gujarat	Jamnagar
+Zinzuda	363655	Gujarat	Jamnagar
